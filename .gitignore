@@ -111,3 +111,4 @@ InitTestScene*.unity*
 *.md
 Docs/
 UIElementsSchema/
+.mcp.json
