@@ -1,0 +1,33 @@
+{
+    "name": "Opsive.BehaviorDesigner.Editor.Managers",
+    "rootNamespace": "Opsive.BehaviorDesigner.Editor.Managers",
+    "references": [
+        "Opsive.BehaviorDesigner.Editor",
+        "Opsive.GraphDesigner.Editor",
+        "Opsive.Shared.Editor",
+        "GUID:27cb7fd045e5bb44f8c617ce69325b1d",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:e0cd26848372d4e5c891c569017e11f1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Opsive.BehaviorDesigner.Editor.dll",
+        "Opsive.GraphDesigner.Editor.dll",
+        "Opsive.Shared.Editor.Managers.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.entities",
+            "expression": "1.3.5",
+            "define": "UNITY_ENTITIES"
+        }
+    ],
+    "noEngineReferences": false
+}

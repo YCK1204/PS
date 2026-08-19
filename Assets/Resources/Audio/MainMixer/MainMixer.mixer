@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!244 &-7200249635317221268
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: 77b0ddbdc8107cc4cba403a13b182ad7
+  m_EffectName: Attenuation
+  m_MixLevel: 2d92d9ffa23bbb8459eefc2999a60d38
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!243 &-1470940259037548066
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: 0b44eecb5c0512e41b83c81fddc02f7c
+  m_Children: []
+  m_Volume: 548137aec8ada0e4ea3ddb0156efe8aa
+  m_Pitch: aabcba692d52f2540bd88a886356039c
+  m_Send: 00000000000000000000000000000000
+  m_Effects:
+  - {fileID: -233735945333292241}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
+--- !u!244 &-233735945333292241
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: fd914bde6d14f684c9e06bf3277451c2
+  m_EffectName: Attenuation
+  m_MixLevel: aa40999534ef41a4dae00c656aef3cb6
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!241 &24100000
+AudioMixerController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainMixer
+  m_OutputGroup: {fileID: 0}
+  m_MasterGroup: {fileID: 24300002}
+  m_Snapshots:
+  - {fileID: 24500006}
+  m_StartSnapshot: {fileID: 24500006}
+  m_SuspendThreshold: -80
+  m_EnableSuspend: 1
+  m_UpdateMode: 0
+  m_ExposedParameters:
+  - guid: fdf2e9acf8c269d4bbae99810ce27b2c
+    name: MasterVolume
+  - guid: 9cd4513ff65a4384c9ca67e274c4bcac
+    name: BGMVolume
+  - guid: 548137aec8ada0e4ea3ddb0156efe8aa
+    name: SFXVolume
+  m_AudioMixerGroupViews: []
+  m_CurrentViewIndex: 0
+  m_TargetSnapshot: {fileID: 24500006}
+--- !u!243 &24300002
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Master
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: 33fa2c7ca4088674b884dff716d4794f
+  m_Children:
+  - {fileID: 5272186076284857281}
+  - {fileID: -1470940259037548066}
+  m_Volume: 9cd4513ff65a4384c9ca67e274c4bcac
+  m_Pitch: 791320e0f7bc5564b9c59be97ece3cdb
+  m_Send: 00000000000000000000000000000000
+  m_Effects:
+  - {fileID: 24400004}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
+--- !u!244 &24400004
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: bc20ca9cfd93dcf47bd88b0c2ebc005f
+  m_EffectName: Attenuation
+  m_MixLevel: b393a84d246fd3f4990e273e8e6c7119
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!245 &24500006
+AudioMixerSnapshotController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snapshot
+  m_AudioMixer: {fileID: 24100000}
+  m_SnapshotID: 941592fe43e11614aa0e669031694c9e
+  m_FloatValues: {}
+  m_TransitionOverrides: {}
+--- !u!243 &5272186076284857281
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BGM
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: 9948ddd5af6babd48a0b553dec988e2b
+  m_Children: []
+  m_Volume: fdf2e9acf8c269d4bbae99810ce27b2c
+  m_Pitch: 8e09f443923855c48ab296b5bcf5efbd
+  m_Send: 00000000000000000000000000000000
+  m_Effects:
+  - {fileID: -7200249635317221268}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0

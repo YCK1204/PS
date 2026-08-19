@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 0f5377c116fde2e468dff680d1c811c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7192424661948212464
+    second: 60FPS_ASDark_06_Gloom_0
+  - first:
+      213: -6709635997046715578
+    second: 60FPS_ASDark_06_Gloom_1
+  - first:
+      213: -8428282409085444903
+    second: 60FPS_ASDark_06_Gloom_2
+  - first:
+      213: 5572915642671781776
+    second: 60FPS_ASDark_06_Gloom_3
+  - first:
+      213: 5891125228824302380
+    second: 60FPS_ASDark_06_Gloom_4
+  - first:
+      213: -550240085618206673
+    second: 60FPS_ASDark_06_Gloom_5
+  - first:
+      213: 708137074798419246
+    second: 60FPS_ASDark_06_Gloom_6
+  - first:
+      213: -1559937904065451441
+    second: 60FPS_ASDark_06_Gloom_7
+  - first:
+      213: -7102639479039207843
+    second: 60FPS_ASDark_06_Gloom_8
+  - first:
+      213: 8876402203844412772
+    second: 60FPS_ASDark_06_Gloom_9
+  - first:
+      213: 3239358665761011761
+    second: 60FPS_ASDark_06_Gloom_10
+  - first:
+      213: 3845571860530793809
+    second: 60FPS_ASDark_06_Gloom_11
+  - first:
+      213: 7800757446614883408
+    second: 60FPS_ASDark_06_Gloom_12
+  - first:
+      213: -6458807726063818260
+    second: 60FPS_ASDark_06_Gloom_13
+  - first:
+      213: 1622133623526707555
+    second: 60FPS_ASDark_06_Gloom_14
+  - first:
+      213: 8693171314915190714
+    second: 60FPS_ASDark_06_Gloom_15
+  - first:
+      213: -3577525373843726934
+    second: 60FPS_ASDark_06_Gloom_16
+  - first:
+      213: 35106590529728891
+    second: 60FPS_ASDark_06_Gloom_17
+  - first:
+      213: 4621822859431603420
+    second: 60FPS_ASDark_06_Gloom_18
+  - first:
+      213: 3971943583008953625
+    second: 60FPS_ASDark_06_Gloom_19
+  - first:
+      213: -3278008387355795264
+    second: 60FPS_ASDark_06_Gloom_20
+  - first:
+      213: -4786180919299702335
+    second: 60FPS_ASDark_06_Gloom_21
+  - first:
+      213: 4522833596543394165
+    second: 60FPS_ASDark_06_Gloom_22
+  - first:
+      213: -8928725151068057293
+    second: 60FPS_ASDark_06_Gloom_23
+  - first:
+      213: 5796906427037776628
+    second: 60FPS_ASDark_06_Gloom_24
+  - first:
+      213: 7934743082904763540
+    second: 60FPS_ASDark_06_Gloom_25
+  - first:
+      213: -8364474287766630843
+    second: 60FPS_ASDark_06_Gloom_26
+  - first:
+      213: 4248035492970678218
+    second: 60FPS_ASDark_06_Gloom_27
+  - first:
+      213: -5005769449205685823
+    second: 60FPS_ASDark_06_Gloom_28
+  - first:
+      213: -6180081343130584353
+    second: 60FPS_ASDark_06_Gloom_29
+  - first:
+      213: -6641283894569493226
+    second: 60FPS_ASDark_06_Gloom_30
+  - first:
+      213: 3554287465930137017
+    second: 60FPS_ASDark_06_Gloom_31
+  - first:
+      213: -7951839789426309986
+    second: 60FPS_ASDark_06_Gloom_32
+  - first:
+      213: -8755102337965746764
+    second: 60FPS_ASDark_06_Gloom_33
+  - first:
+      213: -1212856882010159257
+    second: 60FPS_ASDark_06_Gloom_34
+  - first:
+      213: -3368301213093164017
+    second: 60FPS_ASDark_06_Gloom_35
+  - first:
+      213: -2733092908116623817
+    second: 60FPS_ASDark_06_Gloom_36
+  - first:
+      213: -7511467208805851459
+    second: 60FPS_ASDark_06_Gloom_37
+  - first:
+      213: 350168824893563373
+    second: 60FPS_ASDark_06_Gloom_38
+  - first:
+      213: 6818206086899171738
+    second: 60FPS_ASDark_06_Gloom_39
+  - first:
+      213: -2093342995690942802
+    second: 60FPS_ASDark_06_Gloom_40
+  - first:
+      213: -4175164517654013903
+    second: 60FPS_ASDark_06_Gloom_41
+  - first:
+      213: -8889686782791072310
+    second: 60FPS_ASDark_06_Gloom_42
+  - first:
+      213: -3322970244162316093
+    second: 60FPS_ASDark_06_Gloom_43
+  - first:
+      213: 6875559451159298527
+    second: 60FPS_ASDark_06_Gloom_44
+  - first:
+      213: 2915132457397826755
+    second: 60FPS_ASDark_06_Gloom_45
+  - first:
+      213: 3790690105861667036
+    second: 60FPS_ASDark_06_Gloom_46
+  - first:
+      213: 8506040449779505988
+    second: 60FPS_ASDark_06_Gloom_47
+  - first:
+      213: -6003533741790352423
+    second: 60FPS_ASDark_06_Gloom_48
+  - first:
+      213: 7725892458711192650
+    second: 60FPS_ASDark_06_Gloom_49
+  - first:
+      213: 1686695778982402685
+    second: 60FPS_ASDark_06_Gloom_50
+  - first:
+      213: 7392347627670676497
+    second: 60FPS_ASDark_06_Gloom_51
+  - first:
+      213: 681985375528929306
+    second: 60FPS_ASDark_06_Gloom_52
+  - first:
+      213: -7703744630977257855
+    second: 60FPS_ASDark_06_Gloom_53
+  - first:
+      213: -4507353334362154802
+    second: 60FPS_ASDark_06_Gloom_54
+  - first:
+      213: 7464017627614151309
+    second: 60FPS_ASDark_06_Gloom_55
+  - first:
+      213: -8287433658401099814
+    second: 60FPS_ASDark_06_Gloom_56
+  - first:
+      213: -1488980686374550017
+    second: 60FPS_ASDark_06_Gloom_57
+  - first:
+      213: -1542954222392629600
+    second: 60FPS_ASDark_06_Gloom_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2156
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b51d680ef5f2c90800000000000000
+      internalID: -7192424661948212464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2154
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b4bdf1c9592e2a0800000000000000
+      internalID: -6709635997046715578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2152
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcd9cbcdc9b80b80800000000000000
+      internalID: -8428282409085444903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_3
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2137
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0975bac1049f65d40800000000000000
+      internalID: 5572915642671781776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_4
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2136
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c231a6fde2b71c150800000000000000
+      internalID: 5891125228824302380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1943
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28db83be872d58f0800000000000000
+      internalID: -550240085618206673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1943
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dd4abeaeec3d900800000000000000
+      internalID: 708137074798419246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1942
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ae28cbdbcf95ae0800000000000000
+      internalID: -1559937904065451441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1941
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56d334760b5e6d90800000000000000
+      internalID: -7102639479039207843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_9
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1941
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46504a376c05f2b70800000000000000
+      internalID: 8876402203844412772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1748
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138b4cc2b8384fc20800000000000000
+      internalID: 3239358665761011761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1748
+        width: 117
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d0d218b373e5530800000000000000
+      internalID: 3845571860530793809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1747
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c9678419bd14c60800000000000000
+      internalID: 7800757446614883408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1747
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9ea67e794bd56a0800000000000000
+      internalID: -6458807726063818260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_14
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1746
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361d688afe9f28610800000000000000
+      internalID: 1622133623526707555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1554
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7a225a04954a870800000000000000
+      internalID: 8693171314915190714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1553
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad191580a31a5ec0800000000000000
+      internalID: -3577525373843726934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1553
+        width: 132
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71bcc11249bc7000800000000000000
+      internalID: 35106590529728891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1552
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc63373763042040800000000000000
+      internalID: 4621822859431603420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1552
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915142df4ad2f1730800000000000000
+      internalID: 3971943583008953625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1359
+        width: 137
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c028e44dbc2282d0800000000000000
+      internalID: -3278008387355795264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1358
+        width: 139
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1836aefc1149db0800000000000000
+      internalID: -4786180919299702335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1356
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571eb2c613554ce30800000000000000
+      internalID: 4522833596543394165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_23
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1354
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311e7118cbc61480800000000000000
+      internalID: -8928725151068057293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_24
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1352
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faf3cb9eafb27050800000000000000
+      internalID: 5796906427037776628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1158
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cb6883bcedd1e60800000000000000
+      internalID: 7934743082904763540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1156
+        width: 158
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e08c0c3fa6beb80800000000000000
+      internalID: -8364474287766630843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1154
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7c4c716cd04fa30800000000000000
+      internalID: 4248035492970678218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1152
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a798253fe78ab0800000000000000
+      internalID: -5005769449205685823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_29
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1150
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdabeab03c0fb3aa0800000000000000
+      internalID: -6180081343130584353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 959
+        width: 172
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d99a32c7b65d3a0800000000000000
+      internalID: -6641283894569493226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 958
+        width: 176
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd936c6e9d535130800000000000000
+      internalID: 3554287465930137017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 958
+        width: 181
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e948d6897d365a190800000000000000
+      internalID: -7951839789426309986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_33
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 958
+        width: 185
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b51c556fc0af7680800000000000000
+      internalID: -8755102337965746764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_34
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 958
+        width: 189
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767856087111b2fe0800000000000000
+      internalID: -1212856882010159257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 766
+        width: 192
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c801984e36141d0800000000000000
+      internalID: -3368301213093164017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 766
+        width: 195
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eb1990b7a121ad0800000000000000
+      internalID: -2733092908116623817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_37
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 766
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed12dfe58e1c790800000000000000
+      internalID: -7511467208805851459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_38
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 806
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de16233e0bc0cd400800000000000000
+      internalID: 350168824893563373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_39
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 766
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a910807cf422f9e50800000000000000
+      internalID: 6818206086899171738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_40
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 806
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae0acce2a3f2f2e0800000000000000
+      internalID: -2093342995690942802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_41
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 766
+        width: 196
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138da6efdf5de06c0800000000000000
+      internalID: -4175164517654013903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_42
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 806
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5c04b78fc71a480800000000000000
+      internalID: -8889686782791072310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_43
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 791
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c813853b2072e1d0800000000000000
+      internalID: -3322970244162316093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 592
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd10e6e74e4ea6f50800000000000000
+      internalID: 6875559451159298527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_45
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 191
+        width: 386
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4b8646681a47820800000000000000
+      internalID: 2915132457397826755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_46
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 190
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8f87d319c3b9430800000000000000
+      internalID: 3790690105861667036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_47
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 190
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b163ed8b68b0670800000000000000
+      internalID: 8506040449779505988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_48
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba383bed92faca0800000000000000
+      internalID: -6003533741790352423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_49
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3
+        width: 181
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a449956f142e73b60800000000000000
+      internalID: 7725892458711192650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_50
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 176
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a956edfd8586710800000000000000
+      internalID: 1686695778982402685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_51
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11423834005e69660800000000000000
+      internalID: 7392347627670676497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_52
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 86
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18c962f516e67900800000000000000
+      internalID: 681985375528929306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_53
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 77
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e1746031dc61590800000000000000
+      internalID: -7703744630977257855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_54
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 55
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8db2cf50aa271c0800000000000000
+      internalID: -4507353334362154802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_55
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82023b7c74859760800000000000000
+      internalID: 7464017627614151309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_56
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfe2631ffe1dfc80800000000000000
+      internalID: -8287433658401099814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_57
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 24
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff54a3764f3165be0800000000000000
+      internalID: -1488980686374550017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_06_Gloom_58
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 5
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a629954f43569ae0800000000000000
+      internalID: -1542954222392629600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      60FPS_ASDark_06_Gloom_0: -7192424661948212464
+      60FPS_ASDark_06_Gloom_1: -6709635997046715578
+      60FPS_ASDark_06_Gloom_10: 3239358665761011761
+      60FPS_ASDark_06_Gloom_11: 3845571860530793809
+      60FPS_ASDark_06_Gloom_12: 7800757446614883408
+      60FPS_ASDark_06_Gloom_13: -6458807726063818260
+      60FPS_ASDark_06_Gloom_14: 1622133623526707555
+      60FPS_ASDark_06_Gloom_15: 8693171314915190714
+      60FPS_ASDark_06_Gloom_16: -3577525373843726934
+      60FPS_ASDark_06_Gloom_17: 35106590529728891
+      60FPS_ASDark_06_Gloom_18: 4621822859431603420
+      60FPS_ASDark_06_Gloom_19: 3971943583008953625
+      60FPS_ASDark_06_Gloom_2: -8428282409085444903
+      60FPS_ASDark_06_Gloom_20: -3278008387355795264
+      60FPS_ASDark_06_Gloom_21: -4786180919299702335
+      60FPS_ASDark_06_Gloom_22: 4522833596543394165
+      60FPS_ASDark_06_Gloom_23: -8928725151068057293
+      60FPS_ASDark_06_Gloom_24: 5796906427037776628
+      60FPS_ASDark_06_Gloom_25: 7934743082904763540
+      60FPS_ASDark_06_Gloom_26: -8364474287766630843
+      60FPS_ASDark_06_Gloom_27: 4248035492970678218
+      60FPS_ASDark_06_Gloom_28: -5005769449205685823
+      60FPS_ASDark_06_Gloom_29: -6180081343130584353
+      60FPS_ASDark_06_Gloom_3: 5572915642671781776
+      60FPS_ASDark_06_Gloom_30: -6641283894569493226
+      60FPS_ASDark_06_Gloom_31: 3554287465930137017
+      60FPS_ASDark_06_Gloom_32: -7951839789426309986
+      60FPS_ASDark_06_Gloom_33: -8755102337965746764
+      60FPS_ASDark_06_Gloom_34: -1212856882010159257
+      60FPS_ASDark_06_Gloom_35: -3368301213093164017
+      60FPS_ASDark_06_Gloom_36: -2733092908116623817
+      60FPS_ASDark_06_Gloom_37: -7511467208805851459
+      60FPS_ASDark_06_Gloom_38: 350168824893563373
+      60FPS_ASDark_06_Gloom_39: 6818206086899171738
+      60FPS_ASDark_06_Gloom_4: 5891125228824302380
+      60FPS_ASDark_06_Gloom_40: -2093342995690942802
+      60FPS_ASDark_06_Gloom_41: -4175164517654013903
+      60FPS_ASDark_06_Gloom_42: -8889686782791072310
+      60FPS_ASDark_06_Gloom_43: -3322970244162316093
+      60FPS_ASDark_06_Gloom_44: 6875559451159298527
+      60FPS_ASDark_06_Gloom_45: 2915132457397826755
+      60FPS_ASDark_06_Gloom_46: 3790690105861667036
+      60FPS_ASDark_06_Gloom_47: 8506040449779505988
+      60FPS_ASDark_06_Gloom_48: -6003533741790352423
+      60FPS_ASDark_06_Gloom_49: 7725892458711192650
+      60FPS_ASDark_06_Gloom_5: -550240085618206673
+      60FPS_ASDark_06_Gloom_50: 1686695778982402685
+      60FPS_ASDark_06_Gloom_51: 7392347627670676497
+      60FPS_ASDark_06_Gloom_52: 681985375528929306
+      60FPS_ASDark_06_Gloom_53: -7703744630977257855
+      60FPS_ASDark_06_Gloom_54: -4507353334362154802
+      60FPS_ASDark_06_Gloom_55: 7464017627614151309
+      60FPS_ASDark_06_Gloom_56: -8287433658401099814
+      60FPS_ASDark_06_Gloom_57: -1488980686374550017
+      60FPS_ASDark_06_Gloom_58: -1542954222392629600
+      60FPS_ASDark_06_Gloom_6: 708137074798419246
+      60FPS_ASDark_06_Gloom_7: -1559937904065451441
+      60FPS_ASDark_06_Gloom_8: -7102639479039207843
+      60FPS_ASDark_06_Gloom_9: 8876402203844412772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

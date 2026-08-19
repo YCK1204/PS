@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: c6c6c885917f2fc4d92c5879ce0a0eed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4101484170178489589
+    second: 60FPS_ASDark_03_Chaos_0
+  - first:
+      213: 6221679009765234047
+    second: 60FPS_ASDark_03_Chaos_1
+  - first:
+      213: -1360504452192047829
+    second: 60FPS_ASDark_03_Chaos_2
+  - first:
+      213: -3105780225677182812
+    second: 60FPS_ASDark_03_Chaos_3
+  - first:
+      213: -5316420586438465496
+    second: 60FPS_ASDark_03_Chaos_4
+  - first:
+      213: 5256465988983825682
+    second: 60FPS_ASDark_03_Chaos_5
+  - first:
+      213: -796715274417706504
+    second: 60FPS_ASDark_03_Chaos_6
+  - first:
+      213: 8347547174292677306
+    second: 60FPS_ASDark_03_Chaos_7
+  - first:
+      213: -4924799173173642167
+    second: 60FPS_ASDark_03_Chaos_8
+  - first:
+      213: 4544151119408807701
+    second: 60FPS_ASDark_03_Chaos_9
+  - first:
+      213: -5349848600773902940
+    second: 60FPS_ASDark_03_Chaos_10
+  - first:
+      213: -1350310730258804161
+    second: 60FPS_ASDark_03_Chaos_11
+  - first:
+      213: 54997351820728710
+    second: 60FPS_ASDark_03_Chaos_12
+  - first:
+      213: -4417133705925584253
+    second: 60FPS_ASDark_03_Chaos_13
+  - first:
+      213: 8090010298908168828
+    second: 60FPS_ASDark_03_Chaos_14
+  - first:
+      213: 6606603734189066976
+    second: 60FPS_ASDark_03_Chaos_15
+  - first:
+      213: -8977040144508585295
+    second: 60FPS_ASDark_03_Chaos_16
+  - first:
+      213: 7823147690063425877
+    second: 60FPS_ASDark_03_Chaos_17
+  - first:
+      213: -3350110893962300910
+    second: 60FPS_ASDark_03_Chaos_18
+  - first:
+      213: -669399330148545259
+    second: 60FPS_ASDark_03_Chaos_19
+  - first:
+      213: -8319952176510675478
+    second: 60FPS_ASDark_03_Chaos_20
+  - first:
+      213: 4932219629211150528
+    second: 60FPS_ASDark_03_Chaos_21
+  - first:
+      213: -3692375509695378349
+    second: 60FPS_ASDark_03_Chaos_22
+  - first:
+      213: -4810981758756204028
+    second: 60FPS_ASDark_03_Chaos_23
+  - first:
+      213: 3025990019904427190
+    second: 60FPS_ASDark_03_Chaos_24
+  - first:
+      213: -2416788857293559372
+    second: 60FPS_ASDark_03_Chaos_25
+  - first:
+      213: 306004552757395779
+    second: 60FPS_ASDark_03_Chaos_26
+  - first:
+      213: -4213358226443556515
+    second: 60FPS_ASDark_03_Chaos_27
+  - first:
+      213: -7242312954167617092
+    second: 60FPS_ASDark_03_Chaos_28
+  - first:
+      213: -2864745004528134030
+    second: 60FPS_ASDark_03_Chaos_29
+  - first:
+      213: 5560510651061523147
+    second: 60FPS_ASDark_03_Chaos_30
+  - first:
+      213: 6657381111340012851
+    second: 60FPS_ASDark_03_Chaos_31
+  - first:
+      213: -2622209612063665291
+    second: 60FPS_ASDark_03_Chaos_32
+  - first:
+      213: 8200251524597429859
+    second: 60FPS_ASDark_03_Chaos_33
+  - first:
+      213: -2700845524767540461
+    second: 60FPS_ASDark_03_Chaos_34
+  - first:
+      213: 5674793907193915358
+    second: 60FPS_ASDark_03_Chaos_35
+  - first:
+      213: 5372782304932858810
+    second: 60FPS_ASDark_03_Chaos_36
+  - first:
+      213: -7072136443222560067
+    second: 60FPS_ASDark_03_Chaos_37
+  - first:
+      213: -8466916797626976023
+    second: 60FPS_ASDark_03_Chaos_38
+  - first:
+      213: -4347673186087245922
+    second: 60FPS_ASDark_03_Chaos_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_0
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1043
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc60674f166be830800000000000000
+      internalID: 4101484170178489589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1022
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f759f837818d75650800000000000000
+      internalID: 6221679009765234047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1057
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d61c3b8648e1de0800000000000000
+      internalID: -1360504452192047829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1005
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a83412075d06e4d0800000000000000
+      internalID: -3105780225677182812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_4
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 999
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828e2cce4a74836b0800000000000000
+      internalID: -5316420586438465496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1006
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215ad4f87f7b2f840800000000000000
+      internalID: 5256465988983825682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 800
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f96439ddaf71f4f0800000000000000
+      internalID: -796715274417706504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 135
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2e7858de178d370800000000000000
+      internalID: 8347547174292677306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 796
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf8d4ae3997abb0800000000000000
+      internalID: -4924799173173642167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_9
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 790
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f3e0efd51101f30800000000000000
+      internalID: 4544151119408807701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_10
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 786
+        width: 142
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad30c4da0581c5b0800000000000000
+      internalID: -5349848600773902940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 595
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32968a8b8bb24de0800000000000000
+      internalID: -1350310730258804161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 591
+        width: 148
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6899cd2dcc363c000800000000000000
+      internalID: 54997351820728710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 591
+        width: 145
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a96e42c4033b2c0800000000000000
+      internalID: -4417133705925584253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 591
+        width: 150
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c725caf018d754070800000000000000
+      internalID: 8090010298908168828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 590
+        width: 150
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eacb1cc71f5fab50800000000000000
+      internalID: 6606603734189066976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 394
+        width: 155
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf42c0d852b6380800000000000000
+      internalID: -8977040144508585295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 393
+        width: 163
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551f5a31067619c60800000000000000
+      internalID: 7823147690063425877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 394
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212f53f34e30281d0800000000000000
+      internalID: -3350110893962300910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 396
+        width: 167
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d8c991bd0d5b6f0800000000000000
+      internalID: -669399330148545259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_20
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 399
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5d7d29397998c80800000000000000
+      internalID: -8319952176510675478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 199
+        width: 172
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8e659ee93c27440800000000000000
+      internalID: 4932219629211150528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 194
+        width: 167
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c4147790c02ccc0800000000000000
+      internalID: -3692375509695378349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 199
+        width: 172
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402d3708495fb3db0800000000000000
+      internalID: -4810981758756204028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_24
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 202
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d74604e97ef920800000000000000
+      internalID: 3025990019904427190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_25
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 199
+        width: 169
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b925e7c657d57ed0800000000000000
+      internalID: -2416788857293559372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 167
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341c1caf4852f3400800000000000000
+      internalID: 306004552757395779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59ac5134052785c0800000000000000
+      internalID: -4213358226443556515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 9
+        width: 157
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb911a65db22e7b90800000000000000
+      internalID: -7242312954167617092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_29
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 12
+        width: 154
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2789601b8916e38d0800000000000000
+      internalID: -2864745004528134030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_30
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 172
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc25c4ee9f6ea2d40800000000000000
+      internalID: 5560510651061523147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_31
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 9
+        width: 156
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33511d339d4c36c50800000000000000
+      internalID: 6657381111340012851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 84
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573945a304a0c9bd0800000000000000
+      internalID: -2622209612063665291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 89
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663c7890552dc170800000000000000
+      internalID: 8200251524597429859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_34
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 88
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bf60f0e4ba48ad0800000000000000
+      internalID: -2700845524767540461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_35
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed728d30efae0ce40800000000000000
+      internalID: 5674793907193915358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_36
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 93
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb07054a05ff8a40800000000000000
+      internalID: 5372782304932858810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_37
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 76
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2ff9aef59badd90800000000000000
+      internalID: -7072136443222560067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_38
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8f7ae38087f7a80800000000000000
+      internalID: -8466916797626976023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_03_Chaos_39
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 8
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9767cfa546f9a3c0800000000000000
+      internalID: -4347673186087245922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      60FPS_ASDark_03_Chaos_0: 4101484170178489589
+      60FPS_ASDark_03_Chaos_1: 6221679009765234047
+      60FPS_ASDark_03_Chaos_10: -5349848600773902940
+      60FPS_ASDark_03_Chaos_11: -1350310730258804161
+      60FPS_ASDark_03_Chaos_12: 54997351820728710
+      60FPS_ASDark_03_Chaos_13: -4417133705925584253
+      60FPS_ASDark_03_Chaos_14: 8090010298908168828
+      60FPS_ASDark_03_Chaos_15: 6606603734189066976
+      60FPS_ASDark_03_Chaos_16: -8977040144508585295
+      60FPS_ASDark_03_Chaos_17: 7823147690063425877
+      60FPS_ASDark_03_Chaos_18: -3350110893962300910
+      60FPS_ASDark_03_Chaos_19: -669399330148545259
+      60FPS_ASDark_03_Chaos_2: -1360504452192047829
+      60FPS_ASDark_03_Chaos_20: -8319952176510675478
+      60FPS_ASDark_03_Chaos_21: 4932219629211150528
+      60FPS_ASDark_03_Chaos_22: -3692375509695378349
+      60FPS_ASDark_03_Chaos_23: -4810981758756204028
+      60FPS_ASDark_03_Chaos_24: 3025990019904427190
+      60FPS_ASDark_03_Chaos_25: -2416788857293559372
+      60FPS_ASDark_03_Chaos_26: 306004552757395779
+      60FPS_ASDark_03_Chaos_27: -4213358226443556515
+      60FPS_ASDark_03_Chaos_28: -7242312954167617092
+      60FPS_ASDark_03_Chaos_29: -2864745004528134030
+      60FPS_ASDark_03_Chaos_3: -3105780225677182812
+      60FPS_ASDark_03_Chaos_30: 5560510651061523147
+      60FPS_ASDark_03_Chaos_31: 6657381111340012851
+      60FPS_ASDark_03_Chaos_32: -2622209612063665291
+      60FPS_ASDark_03_Chaos_33: 8200251524597429859
+      60FPS_ASDark_03_Chaos_34: -2700845524767540461
+      60FPS_ASDark_03_Chaos_35: 5674793907193915358
+      60FPS_ASDark_03_Chaos_36: 5372782304932858810
+      60FPS_ASDark_03_Chaos_37: -7072136443222560067
+      60FPS_ASDark_03_Chaos_38: -8466916797626976023
+      60FPS_ASDark_03_Chaos_39: -4347673186087245922
+      60FPS_ASDark_03_Chaos_4: -5316420586438465496
+      60FPS_ASDark_03_Chaos_5: 5256465988983825682
+      60FPS_ASDark_03_Chaos_6: -796715274417706504
+      60FPS_ASDark_03_Chaos_7: 8347547174292677306
+      60FPS_ASDark_03_Chaos_8: -4924799173173642167
+      60FPS_ASDark_03_Chaos_9: 4544151119408807701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

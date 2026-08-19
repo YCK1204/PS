@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: b1fc67175e7245145a382e37de81294a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5751651819818079555
+    second: scull9_0
+  - first:
+      213: 3035356723104276568
+    second: scull9_1
+  - first:
+      213: 5891207082284527346
+    second: scull9_2
+  - first:
+      213: 2987261172836664321
+    second: scull9_3
+  - first:
+      213: 7147794380849256629
+    second: scull9_4
+  - first:
+      213: -910018928597355639
+    second: scull9_5
+  - first:
+      213: 478940809322201338
+    second: scull9_6
+  - first:
+      213: -5747091911066059741
+    second: scull9_7
+  - first:
+      213: 586558140301922912
+    second: scull9_8
+  - first:
+      213: -6238755684263461978
+    second: scull9_9
+  - first:
+      213: 4467600054184321462
+    second: scull9_10
+  - first:
+      213: -5735801600256035488
+    second: scull9_11
+  - first:
+      213: -7202241982582576680
+    second: scull9_12
+  - first:
+      213: -911495737608380862
+    second: scull9_13
+  - first:
+      213: -6565776720520897205
+    second: scull9_14
+  - first:
+      213: -3162707865831881689
+    second: scull9_15
+  - first:
+      213: 8341034907153887964
+    second: scull9_16
+  - first:
+      213: 5346587627622661454
+    second: scull9_17
+  - first:
+      213: 5934997939379091226
+    second: scull9_18
+  - first:
+      213: 4470498925649735808
+    second: scull9_19
+  - first:
+      213: -7750558214729037880
+    second: scull9_20
+  - first:
+      213: 8394860117315605822
+    second: scull9_21
+  - first:
+      213: 6601620180294857103
+    second: scull9_22
+  - first:
+      213: -8588949723282110850
+    second: scull9_23
+  - first:
+      213: -3506639165895844339
+    second: scull9_24
+  - first:
+      213: 3702253356657774226
+    second: scull9_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scull9_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 109
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3455cf74bd8f1df40800000000000000
+      internalID: 5751651819818079555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850693f8bd0cf1a20800000000000000
+      internalID: 3035356723104276568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fea5ddd0a5c1c150800000000000000
+      internalID: 5891207082284527346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1040f32a532e47920800000000000000
+      internalID: 2987261172836664321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 55
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b89d066e11123360800000000000000
+      internalID: 7147794380849256629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983b21e1b96fe53f0800000000000000
+      internalID: -910018928597355639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 46
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af08618e02a85a600800000000000000
+      internalID: 478940809322201338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 77
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cf2653b5a3e30b0800000000000000
+      internalID: -5747091911066059741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0625fc8558fd32800800000000000000
+      internalID: 586558140301922912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abf60f62cc7b69a0800000000000000
+      internalID: -6238755684263461978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 41
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b12c24349a100e30800000000000000
+      internalID: 4467600054184321462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653f9a85d65660b0800000000000000
+      internalID: -5735801600256035488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9a2c1731f7c0c90800000000000000
+      internalID: -7202241982582576680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 71
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ed199b477b953f0800000000000000
+      internalID: -911495737608380862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d92d21cdca1e4a0800000000000000
+      internalID: -6565776720520897205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724c1c8e3fdcb14d0800000000000000
+      internalID: -3162707865831881689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 34
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd27a0c2e0f41c370800000000000000
+      internalID: 8341034907153887964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d72f0be15e23a40800000000000000
+      internalID: 5346587627622661454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17bd5f4e295d5250800000000000000
+      internalID: 5934997939379091226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0803e1056176a0e30800000000000000
+      internalID: 4470498925649735808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 58
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c707103e5c707490800000000000000
+      internalID: -7750558214729037880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35d0bf7cc8808470800000000000000
+      internalID: 8394860117315605822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 78
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81768cb39aad9b50800000000000000
+      internalID: 6601620180294857103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76841e9bbbedc880800000000000000
+      internalID: -8588949723282110850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 72
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e5e41f14ae55fc0800000000000000
+      internalID: -3506639165895844339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scull9_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e851000db016330800000000000000
+      internalID: 3702253356657774226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scull9_0: 5751651819818079555
+      scull9_1: 3035356723104276568
+      scull9_10: 4467600054184321462
+      scull9_11: -5735801600256035488
+      scull9_12: -7202241982582576680
+      scull9_13: -911495737608380862
+      scull9_14: -6565776720520897205
+      scull9_15: -3162707865831881689
+      scull9_16: 8341034907153887964
+      scull9_17: 5346587627622661454
+      scull9_18: 5934997939379091226
+      scull9_19: 4470498925649735808
+      scull9_2: 5891207082284527346
+      scull9_20: -7750558214729037880
+      scull9_21: 8394860117315605822
+      scull9_22: 6601620180294857103
+      scull9_23: -8588949723282110850
+      scull9_24: -3506639165895844339
+      scull9_25: 3702253356657774226
+      scull9_3: 2987261172836664321
+      scull9_4: 7147794380849256629
+      scull9_5: -910018928597355639
+      scull9_6: 478940809322201338
+      scull9_7: -5747091911066059741
+      scull9_8: 586558140301922912
+      scull9_9: -6238755684263461978
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 9f6755e1367f08b4e838ebc8ec920bce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -733682913228309750
+    second: Skull_archer_sprite_sheet_0
+  - first:
+      213: 1364978179955764670
+    second: Skull_archer_sprite_sheet_1
+  - first:
+      213: -3007115369445388533
+    second: Skull_archer_sprite_sheet_2
+  - first:
+      213: -9038948479638882279
+    second: Skull_archer_sprite_sheet_3
+  - first:
+      213: -4479120228289755673
+    second: Skull_archer_sprite_sheet_4
+  - first:
+      213: 7385238408177681071
+    second: Skull_archer_sprite_sheet_5
+  - first:
+      213: -3736775918896864142
+    second: Skull_archer_sprite_sheet_6
+  - first:
+      213: 408824797579555155
+    second: Skull_archer_sprite_sheet_7
+  - first:
+      213: 9163568511399212061
+    second: Skull_archer_sprite_sheet_8
+  - first:
+      213: 2988755909911045439
+    second: Skull_archer_sprite_sheet_9
+  - first:
+      213: 1774676908912546791
+    second: Skull_archer_sprite_sheet_10
+  - first:
+      213: 2239215651324596026
+    second: Skull_archer_sprite_sheet_11
+  - first:
+      213: -4617180335883601146
+    second: Skull_archer_sprite_sheet_12
+  - first:
+      213: 4361868861941732746
+    second: Skull_archer_sprite_sheet_13
+  - first:
+      213: 8906540369830092576
+    second: Skull_archer_sprite_sheet_14
+  - first:
+      213: -9073449039281700253
+    second: Skull_archer_sprite_sheet_15
+  - first:
+      213: 6026847487494336413
+    second: Skull_archer_sprite_sheet_16
+  - first:
+      213: 3341783556497888940
+    second: Skull_archer_sprite_sheet_17
+  - first:
+      213: -5825866913520797300
+    second: Skull_archer_sprite_sheet_18
+  - first:
+      213: 8871459111382475901
+    second: Skull_archer_sprite_sheet_19
+  - first:
+      213: 3255677101343439704
+    second: Skull_archer_sprite_sheet_20
+  - first:
+      213: -2668344963302856860
+    second: Skull_archer_sprite_sheet_21
+  - first:
+      213: 2879999582709749950
+    second: Skull_archer_sprite_sheet_22
+  - first:
+      213: 7180891977675970640
+    second: Skull_archer_sprite_sheet_23
+  - first:
+      213: 6207112570525922841
+    second: Skull_archer_sprite_sheet_24
+  - first:
+      213: 7745930716382175377
+    second: Skull_archer_sprite_sheet_25
+  - first:
+      213: 3030511905398995876
+    second: Skull_archer_sprite_sheet_26
+  - first:
+      213: 6897698320863980638
+    second: Skull_archer_sprite_sheet_27
+  - first:
+      213: 8772476015996478837
+    second: Skull_archer_sprite_sheet_28
+  - first:
+      213: 2105581010978754764
+    second: Skull_archer_sprite_sheet_29
+  - first:
+      213: 3875238276235349704
+    second: Skull_archer_sprite_sheet_30
+  - first:
+      213: -4229646109036557867
+    second: Skull_archer_sprite_sheet_31
+  - first:
+      213: -6355555987576385002
+    second: Skull_archer_sprite_sheet_32
+  - first:
+      213: 1164859245394021066
+    second: Skull_archer_sprite_sheet_33
+  - first:
+      213: 433732858322248596
+    second: Skull_archer_sprite_sheet_34
+  - first:
+      213: 5129078922848292669
+    second: Skull_archer_sprite_sheet_35
+  - first:
+      213: 3610594147576165791
+    second: Skull_archer_sprite_sheet_36
+  - first:
+      213: 7060850046091412486
+    second: Skull_archer_sprite_sheet_37
+  - first:
+      213: 8864928421240714751
+    second: Skull_archer_sprite_sheet_38
+  - first:
+      213: -7526055632683992130
+    second: Skull_archer_sprite_sheet_39
+  - first:
+      213: -6707927456461010005
+    second: Skull_archer_sprite_sheet_40
+  - first:
+      213: -6979412215422149279
+    second: Skull_archer_sprite_sheet_41
+  - first:
+      213: 2488202597293405510
+    second: Skull_archer_sprite_sheet_42
+  - first:
+      213: 8616069083853262974
+    second: Skull_archer_sprite_sheet_43
+  - first:
+      213: -8614749193937951305
+    second: Skull_archer_sprite_sheet_44
+  - first:
+      213: -4377729989094640664
+    second: Skull_archer_sprite_sheet_45
+  - first:
+      213: 3853762851556440193
+    second: Skull_archer_sprite_sheet_46
+  - first:
+      213: 1841692107487296147
+    second: Skull_archer_sprite_sheet_47
+  - first:
+      213: -4109793847749030504
+    second: Skull_archer_sprite_sheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 14
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bb043174f61d5f0800000000000000
+      internalID: -733682913228309750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 15
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd2c663c6061f210800000000000000
+      internalID: 1364978179955764670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 14
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f079df0849446d0800000000000000
+      internalID: -3007115369445388533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 14
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91831188f343f8280800000000000000
+      internalID: -9038948479638882279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 15
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5c58e32e7f6d1c0800000000000000
+      internalID: -4479120228289755673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 14
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2800d1433ad7660800000000000000
+      internalID: 7385238408177681071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2742bec991e442cc0800000000000000
+      internalID: -3736775918896864142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351b913ccff6ca500800000000000000
+      internalID: 408824797579555155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 9
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14b7eca2098b2f70800000000000000
+      internalID: 9163568511399212061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 5
+        width: 89
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35e89a3aa13a7920800000000000000
+      internalID: 2988755909911045439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e312dafe3be0a810800000000000000
+      internalID: 1774676908912546791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f82b065ca431f10800000000000000
+      internalID: 2239215651324596026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 9
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b3db782fa7cefb0800000000000000
+      internalID: -4617180335883601146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85dfd8ae98788c30800000000000000
+      internalID: 4361868861941732746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 33
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f166907436a9b70800000000000000
+      internalID: 8906540369830092576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 33
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36241060c22a41280800000000000000
+      internalID: -9073449039281700253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 11
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f2e87bbd9a3a350800000000000000
+      internalID: 6026847487494336413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca65c496076606e20800000000000000
+      internalID: 3341783556497888940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 11
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8934eea8ec562fa0800000000000000
+      internalID: -5825866913520797300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74ea5d0f01cd1b70800000000000000
+      internalID: 8871459111382475901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 11
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bf2f8031d7e2d20800000000000000
+      internalID: 3255677101343439704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4676124b46228fad0800000000000000
+      internalID: -2668344963302856860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 11
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb810b09c50d7f720800000000000000
+      internalID: 2879999582709749950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05814db2537a7a360800000000000000
+      internalID: 7180891977675970640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9163f070ff7142650800000000000000
+      internalID: 6207112570525922841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 11
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1902fb462f21f7b60800000000000000
+      internalID: 7745930716382175377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab36e8858a8e0a20800000000000000
+      internalID: 3030511905398995876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 11
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ce7e6c31c89bf50800000000000000
+      internalID: 6897698320863980638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 11
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575aa1e35781eb970800000000000000
+      internalID: 8772476015996478837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 10
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0523d06c6883d10800000000000000
+      internalID: 2105581010978754764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 10
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce410b2eac97c530800000000000000
+      internalID: 3875238276235349704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 10
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9434106474d45c0800000000000000
+      internalID: -4229646109036557867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 10
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6121762a0878cc7a0800000000000000
+      internalID: -6355555987576385002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 10
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca4a0fdf496a2010800000000000000
+      internalID: 1164859245394021066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 10
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49366b39cbde40600800000000000000
+      internalID: 433732858322248596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 10
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fc055fa162e2740800000000000000
+      internalID: 5129078922848292669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 10
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95b16a5f386b1230800000000000000
+      internalID: 3610594147576165791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 11
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6044499f4bd2df160800000000000000
+      internalID: 7060850046091412486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 11
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff531534e6d860b70800000000000000
+      internalID: 8864928421240714751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbfa0ed6441e8790800000000000000
+      internalID: -7526055632683992130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab4d8ab487a8e2a0800000000000000
+      internalID: -6707927456461010005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d9dbe8195242f90800000000000000
+      internalID: -6979412215422149279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645b0e4441fd78220800000000000000
+      internalID: 2488202597293405510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 11
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e709c4f8e2d629770800000000000000
+      internalID: 8616069083853262974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5ee324043427880800000000000000
+      internalID: -8614749193937951305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e37075e4cd2f33c0800000000000000
+      internalID: -4377729989094640664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1883e9735e05b7530800000000000000
+      internalID: 3853762851556440193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39abb6cc6310f8910800000000000000
+      internalID: 1841692107487296147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_archer_sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d45d4254417f6c0800000000000000
+      internalID: -4109793847749030504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skull_archer_sprite_sheet_0: -733682913228309750
+      Skull_archer_sprite_sheet_1: 1364978179955764670
+      Skull_archer_sprite_sheet_10: 1774676908912546791
+      Skull_archer_sprite_sheet_11: 2239215651324596026
+      Skull_archer_sprite_sheet_12: -4617180335883601146
+      Skull_archer_sprite_sheet_13: 4361868861941732746
+      Skull_archer_sprite_sheet_14: 8906540369830092576
+      Skull_archer_sprite_sheet_15: -9073449039281700253
+      Skull_archer_sprite_sheet_16: 6026847487494336413
+      Skull_archer_sprite_sheet_17: 3341783556497888940
+      Skull_archer_sprite_sheet_18: -5825866913520797300
+      Skull_archer_sprite_sheet_19: 8871459111382475901
+      Skull_archer_sprite_sheet_2: -3007115369445388533
+      Skull_archer_sprite_sheet_20: 3255677101343439704
+      Skull_archer_sprite_sheet_21: -2668344963302856860
+      Skull_archer_sprite_sheet_22: 2879999582709749950
+      Skull_archer_sprite_sheet_23: 7180891977675970640
+      Skull_archer_sprite_sheet_24: 6207112570525922841
+      Skull_archer_sprite_sheet_25: 7745930716382175377
+      Skull_archer_sprite_sheet_26: 3030511905398995876
+      Skull_archer_sprite_sheet_27: 6897698320863980638
+      Skull_archer_sprite_sheet_28: 8772476015996478837
+      Skull_archer_sprite_sheet_29: 2105581010978754764
+      Skull_archer_sprite_sheet_3: -9038948479638882279
+      Skull_archer_sprite_sheet_30: 3875238276235349704
+      Skull_archer_sprite_sheet_31: -4229646109036557867
+      Skull_archer_sprite_sheet_32: -6355555987576385002
+      Skull_archer_sprite_sheet_33: 1164859245394021066
+      Skull_archer_sprite_sheet_34: 433732858322248596
+      Skull_archer_sprite_sheet_35: 5129078922848292669
+      Skull_archer_sprite_sheet_36: 3610594147576165791
+      Skull_archer_sprite_sheet_37: 7060850046091412486
+      Skull_archer_sprite_sheet_38: 8864928421240714751
+      Skull_archer_sprite_sheet_39: -7526055632683992130
+      Skull_archer_sprite_sheet_4: -4479120228289755673
+      Skull_archer_sprite_sheet_40: -6707927456461010005
+      Skull_archer_sprite_sheet_41: -6979412215422149279
+      Skull_archer_sprite_sheet_42: 2488202597293405510
+      Skull_archer_sprite_sheet_43: 8616069083853262974
+      Skull_archer_sprite_sheet_44: -8614749193937951305
+      Skull_archer_sprite_sheet_45: -4377729989094640664
+      Skull_archer_sprite_sheet_46: 3853762851556440193
+      Skull_archer_sprite_sheet_47: 1841692107487296147
+      Skull_archer_sprite_sheet_48: -4109793847749030504
+      Skull_archer_sprite_sheet_5: 7385238408177681071
+      Skull_archer_sprite_sheet_6: -3736775918896864142
+      Skull_archer_sprite_sheet_7: 408824797579555155
+      Skull_archer_sprite_sheet_8: 9163568511399212061
+      Skull_archer_sprite_sheet_9: 2988755909911045439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

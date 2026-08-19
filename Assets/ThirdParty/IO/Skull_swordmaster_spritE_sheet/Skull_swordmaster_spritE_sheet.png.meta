@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: cb4ff3bd512f09e42a2286ac12cf2337
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2495701549016577628
+    second: Skull_swordmaster_spritE_sheet_0
+  - first:
+      213: -3415924172839988117
+    second: Skull_swordmaster_spritE_sheet_1
+  - first:
+      213: 2278799717542644211
+    second: Skull_swordmaster_spritE_sheet_2
+  - first:
+      213: -7089178640723819117
+    second: Skull_swordmaster_spritE_sheet_3
+  - first:
+      213: -2483095544234884812
+    second: Skull_swordmaster_spritE_sheet_4
+  - first:
+      213: 5353441936947338829
+    second: Skull_swordmaster_spritE_sheet_5
+  - first:
+      213: 533817025911683714
+    second: Skull_swordmaster_spritE_sheet_6
+  - first:
+      213: 3706983787847663711
+    second: Skull_swordmaster_spritE_sheet_7
+  - first:
+      213: 8774656851428137294
+    second: Skull_swordmaster_spritE_sheet_8
+  - first:
+      213: -905927437266171906
+    second: Skull_swordmaster_spritE_sheet_9
+  - first:
+      213: 1328316489189604708
+    second: Skull_swordmaster_spritE_sheet_10
+  - first:
+      213: 527372578618430246
+    second: Skull_swordmaster_spritE_sheet_11
+  - first:
+      213: 1937087530243487243
+    second: Skull_swordmaster_spritE_sheet_12
+  - first:
+      213: 7290899119852927878
+    second: Skull_swordmaster_spritE_sheet_13
+  - first:
+      213: -3615633399181839081
+    second: Skull_swordmaster_spritE_sheet_14
+  - first:
+      213: -1812018190714391661
+    second: Skull_swordmaster_spritE_sheet_15
+  - first:
+      213: -5247759815233184496
+    second: Skull_swordmaster_spritE_sheet_16
+  - first:
+      213: -1397068387549047156
+    second: Skull_swordmaster_spritE_sheet_17
+  - first:
+      213: 4463748122398238105
+    second: Skull_swordmaster_spritE_sheet_18
+  - first:
+      213: 5124322914708046961
+    second: Skull_swordmaster_spritE_sheet_19
+  - first:
+      213: -6582097705225775523
+    second: Skull_swordmaster_spritE_sheet_20
+  - first:
+      213: 1291272795547557866
+    second: Skull_swordmaster_spritE_sheet_21
+  - first:
+      213: 6169798056707844402
+    second: Skull_swordmaster_spritE_sheet_22
+  - first:
+      213: 1012539020611039395
+    second: Skull_swordmaster_spritE_sheet_23
+  - first:
+      213: -5088452604676111995
+    second: Skull_swordmaster_spritE_sheet_24
+  - first:
+      213: -2993461229910212254
+    second: Skull_swordmaster_spritE_sheet_25
+  - first:
+      213: 8667946867305272527
+    second: Skull_swordmaster_spritE_sheet_26
+  - first:
+      213: 3692625449041651994
+    second: Skull_swordmaster_spritE_sheet_27
+  - first:
+      213: -6073169578263902928
+    second: Skull_swordmaster_spritE_sheet_28
+  - first:
+      213: 3456602063052332072
+    second: Skull_swordmaster_spritE_sheet_29
+  - first:
+      213: -6080719103555944984
+    second: Skull_swordmaster_spritE_sheet_30
+  - first:
+      213: -6589493902907835496
+    second: Skull_swordmaster_spritE_sheet_31
+  - first:
+      213: 280581212055239131
+    second: Skull_swordmaster_spritE_sheet_32
+  - first:
+      213: 4783095285528171618
+    second: Skull_swordmaster_spritE_sheet_33
+  - first:
+      213: 6151925200707746473
+    second: Skull_swordmaster_spritE_sheet_34
+  - first:
+      213: -8440126126414967111
+    second: Skull_swordmaster_spritE_sheet_35
+  - first:
+      213: 4482418749402284850
+    second: Skull_swordmaster_spritE_sheet_36
+  - first:
+      213: -2273866788362364316
+    second: Skull_swordmaster_spritE_sheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a98979f9ac7d5dd0800000000000000
+      internalID: -2495701549016577628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d33a20133890d0800000000000000
+      internalID: -3415924172839988117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 11
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c36ef44cef9f10800000000000000
+      internalID: 2278799717542644211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 11
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395ce5a169d2e9d90800000000000000
+      internalID: -7089178640723819117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 11
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431468e22c54a8dd0800000000000000
+      internalID: -2483095544234884812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4edc61f31f3b4a40800000000000000
+      internalID: 5353441936947338829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a758cb1cf786700800000000000000
+      internalID: 533817025911683714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50cac65d1ad17330800000000000000
+      internalID: 3706983787847663711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 14
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49525f8ae7d5c970800000000000000
+      internalID: 8774656851428137294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 13
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7487dabcf7d63f0800000000000000
+      internalID: -905927437266171906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 11
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46db0772fc02f6210800000000000000
+      internalID: 1328316489189604708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 11
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62355dce09a915700800000000000000
+      internalID: 527372578618430246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 14
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06700b78dae1ea10800000000000000
+      internalID: 1937087530243487243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 13
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bba04ee1a7e2560800000000000000
+      internalID: 7290899119852927878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7157ab37490b2ddc0800000000000000
+      internalID: -3615633399181839081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3933ce75e0b6ad6e0800000000000000
+      internalID: -1812018190714391661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dd47a70463c27b0800000000000000
+      internalID: -5247759815233184496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 11
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86163914bd9c9ce0800000000000000
+      internalID: -1397068387549047156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 11
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9952d52744b62fd30800000000000000
+      internalID: 4463748122398238105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 31
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17441958a804d1740800000000000000
+      internalID: 5124322914708046961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 28
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d569a13b201b7a4a0800000000000000
+      internalID: -6582097705225775523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 32
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefdcbe14c58be110800000000000000
+      internalID: 1291272795547557866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 11
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23967f1c4a68f9550800000000000000
+      internalID: 6169798056707844402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 11
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a03eb4efd24d0e00800000000000000
+      internalID: 1012539020611039395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 11
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5818ed9d05f2269b0800000000000000
+      internalID: -5088452604676111995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2614c461fd61576d0800000000000000
+      internalID: -2993461229910212254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 11
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4d0b540cbba4870800000000000000
+      internalID: 8667946867305272527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 10
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19e1b21847de3330800000000000000
+      internalID: 3692625449041651994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 7
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0350fd21274c7bba0800000000000000
+      internalID: -6073169578263902928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cdd12334158ff20800000000000000
+      internalID: 3456602063052332072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 11
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edbd9d3132fc9ba0800000000000000
+      internalID: -6080719103555944984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 10
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b739b353a6d84a0800000000000000
+      internalID: -6589493902907835496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 4
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd973333023d4e300800000000000000
+      internalID: 280581212055239131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 33
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26490ccf1d7f06240800000000000000
+      internalID: 4783095285528171618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 33
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa75f03067006550800000000000000
+      internalID: 6151925200707746473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 10
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beca877106aeda80800000000000000
+      internalID: -8440126126414967111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 0
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2338cac8a10c43e30800000000000000
+      internalID: 4482418749402284850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_swordmaster_spritE_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a5a15143a9170e0800000000000000
+      internalID: -2273866788362364316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skull_swordmaster_spritE_sheet_0: -2495701549016577628
+      Skull_swordmaster_spritE_sheet_1: -3415924172839988117
+      Skull_swordmaster_spritE_sheet_10: 1328316489189604708
+      Skull_swordmaster_spritE_sheet_11: 527372578618430246
+      Skull_swordmaster_spritE_sheet_12: 1937087530243487243
+      Skull_swordmaster_spritE_sheet_13: 7290899119852927878
+      Skull_swordmaster_spritE_sheet_14: -3615633399181839081
+      Skull_swordmaster_spritE_sheet_15: -1812018190714391661
+      Skull_swordmaster_spritE_sheet_16: -5247759815233184496
+      Skull_swordmaster_spritE_sheet_17: -1397068387549047156
+      Skull_swordmaster_spritE_sheet_18: 4463748122398238105
+      Skull_swordmaster_spritE_sheet_19: 5124322914708046961
+      Skull_swordmaster_spritE_sheet_2: 2278799717542644211
+      Skull_swordmaster_spritE_sheet_20: -6582097705225775523
+      Skull_swordmaster_spritE_sheet_21: 1291272795547557866
+      Skull_swordmaster_spritE_sheet_22: 6169798056707844402
+      Skull_swordmaster_spritE_sheet_23: 1012539020611039395
+      Skull_swordmaster_spritE_sheet_24: -5088452604676111995
+      Skull_swordmaster_spritE_sheet_25: -2993461229910212254
+      Skull_swordmaster_spritE_sheet_26: 8667946867305272527
+      Skull_swordmaster_spritE_sheet_27: 3692625449041651994
+      Skull_swordmaster_spritE_sheet_28: -6073169578263902928
+      Skull_swordmaster_spritE_sheet_29: 3456602063052332072
+      Skull_swordmaster_spritE_sheet_3: -7089178640723819117
+      Skull_swordmaster_spritE_sheet_30: -6080719103555944984
+      Skull_swordmaster_spritE_sheet_31: -6589493902907835496
+      Skull_swordmaster_spritE_sheet_32: 280581212055239131
+      Skull_swordmaster_spritE_sheet_33: 4783095285528171618
+      Skull_swordmaster_spritE_sheet_34: 6151925200707746473
+      Skull_swordmaster_spritE_sheet_35: -8440126126414967111
+      Skull_swordmaster_spritE_sheet_36: 4482418749402284850
+      Skull_swordmaster_spritE_sheet_37: -2273866788362364316
+      Skull_swordmaster_spritE_sheet_4: -2483095544234884812
+      Skull_swordmaster_spritE_sheet_5: 5353441936947338829
+      Skull_swordmaster_spritE_sheet_6: 533817025911683714
+      Skull_swordmaster_spritE_sheet_7: 3706983787847663711
+      Skull_swordmaster_spritE_sheet_8: 8774656851428137294
+      Skull_swordmaster_spritE_sheet_9: -905927437266171906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

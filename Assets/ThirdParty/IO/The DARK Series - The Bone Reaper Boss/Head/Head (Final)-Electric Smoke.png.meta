@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: c4e0e494014b526469be5e2d8ff5cbe2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2372520731020195433
+    second: Head (Final)-Electric Smoke_0
+  - first:
+      213: -3395507000363619228
+    second: Head (Final)-Electric Smoke_1
+  - first:
+      213: -204539112578499824
+    second: Head (Final)-Electric Smoke_2
+  - first:
+      213: -5092862306683188453
+    second: Head (Final)-Electric Smoke_3
+  - first:
+      213: -3078733716762740900
+    second: Head (Final)-Electric Smoke_4
+  - first:
+      213: 2663874037529815517
+    second: Head (Final)-Electric Smoke_5
+  - first:
+      213: 4417299774673842240
+    second: Head (Final)-Electric Smoke_6
+  - first:
+      213: 8131075498995376171
+    second: Head (Final)-Electric Smoke_7
+  - first:
+      213: -3499800557246847730
+    second: Head (Final)-Electric Smoke_8
+  - first:
+      213: -753314586285075685
+    second: Head (Final)-Electric Smoke_9
+  - first:
+      213: -6328010158251303255
+    second: Head (Final)-Electric Smoke_10
+  - first:
+      213: -2778763340900411477
+    second: Head (Final)-Electric Smoke_11
+  - first:
+      213: -5469647896749466069
+    second: Head (Final)-Electric Smoke_12
+  - first:
+      213: 4136996179331014074
+    second: Head (Final)-Electric Smoke_13
+  - first:
+      213: 338219357639718031
+    second: Head (Final)-Electric Smoke_14
+  - first:
+      213: 6495556791647946661
+    second: Head (Final)-Electric Smoke_15
+  - first:
+      213: 592805138282260584
+    second: Head (Final)-Electric Smoke_16
+  - first:
+      213: 8600097872541196954
+    second: Head (Final)-Electric Smoke_17
+  - first:
+      213: 7822011268273900615
+    second: Head (Final)-Electric Smoke_18
+  - first:
+      213: 9107283785405166642
+    second: Head (Final)-Electric Smoke_19
+  - first:
+      213: -5141466616084951793
+    second: Head (Final)-Electric Smoke_20
+  - first:
+      213: -6898561559287062735
+    second: Head (Final)-Electric Smoke_21
+  - first:
+      213: 2117782670576784827
+    second: Head (Final)-Electric Smoke_22
+  - first:
+      213: -7191547733396048705
+    second: Head (Final)-Electric Smoke_23
+  - first:
+      213: 2908782640487342234
+    second: Head (Final)-Electric Smoke_24
+  - first:
+      213: 6145971620385503872
+    second: Head (Final)-Electric Smoke_25
+  - first:
+      213: -4173795200448160926
+    second: Head (Final)-Electric Smoke_26
+  - first:
+      213: -6297471688213881491
+    second: Head (Final)-Electric Smoke_27
+  - first:
+      213: 4920849212441885980
+    second: Head (Final)-Electric Smoke_28
+  - first:
+      213: -4172776741891256377
+    second: Head (Final)-Electric Smoke_29
+  - first:
+      213: 8367002196128382054
+    second: Head (Final)-Electric Smoke_30
+  - first:
+      213: -6442392522932229939
+    second: Head (Final)-Electric Smoke_31
+  - first:
+      213: -2118422487214686516
+    second: Head (Final)-Electric Smoke_32
+  - first:
+      213: -4521199866213791551
+    second: Head (Final)-Electric Smoke_33
+  - first:
+      213: -305185426635495410
+    second: Head (Final)-Electric Smoke_34
+  - first:
+      213: -68237537154117043
+    second: Head (Final)-Electric Smoke_35
+  - first:
+      213: -7104980100724052906
+    second: Head (Final)-Electric Smoke_36
+  - first:
+      213: -7209045213838812680
+    second: Head (Final)-Electric Smoke_37
+  - first:
+      213: -158839853595599815
+    second: Head (Final)-Electric Smoke_38
+  - first:
+      213: 2869934734447372280
+    second: Head (Final)-Electric Smoke_39
+  - first:
+      213: -8057721974922155756
+    second: Head (Final)-Electric Smoke_40
+  - first:
+      213: 7404381415061321768
+    second: Head (Final)-Electric Smoke_41
+  - first:
+      213: 7214266611454688667
+    second: Head (Final)-Electric Smoke_42
+  - first:
+      213: -5792461861898288294
+    second: Head (Final)-Electric Smoke_43
+  - first:
+      213: 642502151813550808
+    second: Head (Final)-Electric Smoke_44
+  - first:
+      213: -2637555739972812841
+    second: Head (Final)-Electric Smoke_45
+  - first:
+      213: 7534289567004236173
+    second: Head (Final)-Electric Smoke_46
+  - first:
+      213: -62986135393104298
+    second: Head (Final)-Electric Smoke_47
+  - first:
+      213: -2720947484935314216
+    second: Head (Final)-Electric Smoke_48
+  - first:
+      213: -4778703611138576314
+    second: Head (Final)-Electric Smoke_49
+  - first:
+      213: 7023058849373118320
+    second: Head (Final)-Electric Smoke_50
+  - first:
+      213: -6625019522722972042
+    second: Head (Final)-Electric Smoke_51
+  - first:
+      213: -6912557051791093046
+    second: Head (Final)-Electric Smoke_52
+  - first:
+      213: 2564337435640821609
+    second: Head (Final)-Electric Smoke_53
+  - first:
+      213: 2445376375692045455
+    second: Head (Final)-Electric Smoke_54
+  - first:
+      213: 3554027396708344871
+    second: Head (Final)-Electric Smoke_55
+  - first:
+      213: 6332418284489679712
+    second: Head (Final)-Electric Smoke_56
+  - first:
+      213: -3526079250688926942
+    second: Head (Final)-Electric Smoke_57
+  - first:
+      213: 7124099087452532698
+    second: Head (Final)-Electric Smoke_58
+  - first:
+      213: -3125165105033977433
+    second: Head (Final)-Electric Smoke_59
+  - first:
+      213: 3199214531936146333
+    second: Head (Final)-Electric Smoke_60
+  - first:
+      213: 8674000020549463777
+    second: Head (Final)-Electric Smoke_61
+  - first:
+      213: -3907503925737067852
+    second: Head (Final)-Electric Smoke_62
+  - first:
+      213: -7739591450626695453
+    second: Head (Final)-Electric Smoke_63
+  - first:
+      213: -2731279347572364455
+    second: Head (Final)-Electric Smoke_64
+  - first:
+      213: 126567579009928322
+    second: Head (Final)-Electric Smoke_65
+  - first:
+      213: -5669360564218533150
+    second: Head (Final)-Electric Smoke_66
+  - first:
+      213: 5328150625907483100
+    second: Head (Final)-Electric Smoke_67
+  - first:
+      213: 4820308330806904921
+    second: Head (Final)-Electric Smoke_68
+  - first:
+      213: -5906647343168842196
+    second: Head (Final)-Electric Smoke_69
+  - first:
+      213: 8005151179054389535
+    second: Head (Final)-Electric Smoke_70
+  - first:
+      213: 7949206505746337149
+    second: Head (Final)-Electric Smoke_71
+  - first:
+      213: -5528745995224617188
+    second: Head (Final)-Electric Smoke_72
+  - first:
+      213: -4510964386375058083
+    second: Head (Final)-Electric Smoke_73
+  - first:
+      213: -3823705519908141459
+    second: Head (Final)-Electric Smoke_74
+  - first:
+      213: -2772695597460648519
+    second: Head (Final)-Electric Smoke_75
+  - first:
+      213: 2491491284654223987
+    second: Head (Final)-Electric Smoke_76
+  - first:
+      213: 3521198626341562514
+    second: Head (Final)-Electric Smoke_77
+  - first:
+      213: 7957624184531961538
+    second: Head (Final)-Electric Smoke_78
+  - first:
+      213: -3171384263542360313
+    second: Head (Final)-Electric Smoke_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 157
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7998a4d17fc131fd0800000000000000
+      internalID: -2372520731020195433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 27
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c69f29f5cb0e0d0800000000000000
+      internalID: -3395507000363619228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 23
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bb514c2c4592df0800000000000000
+      internalID: -204539112578499824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 22
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b0c2817b48259b0800000000000000
+      internalID: -5092862306683188453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_4
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 22
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57b6561ff32645d0800000000000000
+      internalID: -3078733716762740900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_5
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 9
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9a955c25bf7f420800000000000000
+      internalID: 2663874037529815517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_6
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 0
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040f8dfbdb66d4d30800000000000000
+      internalID: 4417299774673842240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_7
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 0
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206087061267d070800000000000000
+      internalID: 8131075498995376171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_8
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 0
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0566989fe53e6fc0800000000000000
+      internalID: -3499800557246847730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_9
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 0
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139b500060bb85f0800000000000000
+      internalID: -753314586285075685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_10
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 116
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae1e5ec9446e28a0800000000000000
+      internalID: -6328010158251303255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_11
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 0
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7d0c6c679df69d0800000000000000
+      internalID: -2778763340900411477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_12
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 0
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e19c3a738e714b0800000000000000
+      internalID: -5469647896749466069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_13
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 0
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd5c2a3b10996930800000000000000
+      internalID: 4136996179331014074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_14
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b64cb6b891b400800000000000000
+      internalID: 338219357639718031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_15
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 0
+        width: 137
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a74d80bc7ad42a50800000000000000
+      internalID: 6495556791647946661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_16
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 0
+        width: 199
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8682758e1211a3800800000000000000
+      internalID: 592805138282260584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_17
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 0
+        width: 167
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a922966237fa95770800000000000000
+      internalID: 8600097872541196954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_18
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 0
+        width: 226
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c81924ecd5d8c60800000000000000
+      internalID: 7822011268273900615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_19
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 0
+        width: 226
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234ffb1b952936e70800000000000000
+      internalID: 9107283785405166642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_20
+      rect:
+        serializedVersion: 2
+        x: 4784
+        y: 0
+        width: 271
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d0ab37a57d5a8b0800000000000000
+      internalID: -5141466616084951793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_21
+      rect:
+        serializedVersion: 2
+        x: 5128
+        y: 2
+        width: 157
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f978ddfc26340a0800000000000000
+      internalID: -6898561559287062735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_22
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 5
+        width: 154
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5153f4e10e36d10800000000000000
+      internalID: 2117782670576784827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_23
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4b9ad507d723c90800000000000000
+      internalID: -7191547733396048705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_24
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 23
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90221f66621e5820800000000000000
+      internalID: 2908782640487342234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_25
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ab5b040a0ea4550800000000000000
+      internalID: 6145971620385503872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_26
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 0
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b9e000163b316c0800000000000000
+      internalID: -4173795200448160926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_27
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 0
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d9ee07dd2ea98a0800000000000000
+      internalID: -6297471688213881491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_28
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dfbd4794e5a4440800000000000000
+      internalID: 4920849212441885980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_29
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf4f8c59a15716c0800000000000000
+      internalID: -4172776741891256377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_30
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c3527ca209d1470800000000000000
+      internalID: 8367002196128382054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_31
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8edf632260896a0800000000000000
+      internalID: -6442392522932229939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_32
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 8
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce7e55c8f9d992e0800000000000000
+      internalID: -2118422487214686516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_33
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 0
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c888cf0da87141c0800000000000000
+      internalID: -4521199866213791551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_34
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 6
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08e3cea873c3cbf0800000000000000
+      internalID: -305185426635495410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_35
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 0
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42d49d42529d0ff0800000000000000
+      internalID: -68237537154117043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_36
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 0
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65caf100e3a066d90800000000000000
+      internalID: -7104980100724052906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_37
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9586bb29354fb90800000000000000
+      internalID: -7209045213838812680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_38
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c5246aeffabcdf0800000000000000
+      internalID: -158839853595599815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_39
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f76a477f6e04d720800000000000000
+      internalID: 2869934734447372280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_40
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 0
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419e7e13e883d2090800000000000000
+      internalID: -8057721974922155756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_41
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828fb3abaa5a1c660800000000000000
+      internalID: 7404381415061321768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_42
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 0
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9db7b2a2493e1460800000000000000
+      internalID: 7214266611454688667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_43
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a530e8a50aa0d9fa0800000000000000
+      internalID: -5792461861898288294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_44
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 10
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2554e8d40aae800800000000000000
+      internalID: 642502151813550808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_45
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfb0a36705856bd0800000000000000
+      internalID: -2637555739972812841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_46
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89183c517c2f8860800000000000000
+      internalID: 7534289567004236173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_47
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e8e1e817a302ff0800000000000000
+      internalID: -62986135393104298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_48
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d420fbbda04d3ad0800000000000000
+      internalID: -2720947484935314216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_49
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 5
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64075336262aeadb0800000000000000
+      internalID: -4778703611138576314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_50
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f5c8150dae67160800000000000000
+      internalID: 7023058849373118320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_51
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eb11e48d33f04a0800000000000000
+      internalID: -6625019522722972042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_52
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 7
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2de565cf9a110a0800000000000000
+      internalID: -6912557051791093046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_53
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9677b9faf4b569320800000000000000
+      internalID: 2564337435640821609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_54
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 5
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ca1478bd8bfe120800000000000000
+      internalID: 2445376375692045455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_55
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 4
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724aec65611725130800000000000000
+      internalID: 3554027396708344871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_56
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 5
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063223011e441e750800000000000000
+      internalID: 6332418284489679712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_57
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 0
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b9fcc7a99d01fc0800000000000000
+      internalID: -3526079250688926942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_58
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 0
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfea4cff52edd260800000000000000
+      internalID: 7124099087452532698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_59
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 0
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1e00215ee21a4d0800000000000000
+      internalID: -3125165105033977433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_60
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 0
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d935258aaa4e56c20800000000000000
+      internalID: 3199214531936146333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_61
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eee496df0d306870800000000000000
+      internalID: 8674000020549463777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_62
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 0
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba6ff3e1e1c5c9c0800000000000000
+      internalID: -3907503925737067852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_63
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 0
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eedebee492779490800000000000000
+      internalID: -7739591450626695453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_64
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 0
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ba69187eb881ad0800000000000000
+      internalID: -2731279347572364455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_65
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cc7f2ea88a1c100800000000000000
+      internalID: 126567579009928322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_66
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 1
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea652aba926251b0800000000000000
+      internalID: -5669360564218533150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_67
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1adf6b3c461f940800000000000000
+      internalID: 5328150625907483100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_68
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9580a9543ec25e240800000000000000
+      internalID: 4820308330806904921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_69
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269ae0498f570ea0800000000000000
+      internalID: -5906647343168842196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_70
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 0
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1916d09592081f60800000000000000
+      internalID: 8005151179054389535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_71
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d0c354331415e60800000000000000
+      internalID: 7949206505746337149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_72
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fe5455fc2f543b0800000000000000
+      internalID: -5528745995224617188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_73
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 0
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d3dab6ac5d561c0800000000000000
+      internalID: -4510964386375058083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_74
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 0
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66cc28a6187feac0800000000000000
+      internalID: -3823705519908141459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_75
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 0
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd81136b086589d0800000000000000
+      internalID: -2772695597460648519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_76
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372fbc67f1e839220800000000000000
+      internalID: 2491491284654223987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_77
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 0
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298aeaa9e7fcdd030800000000000000
+      internalID: 3521198626341562514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_78
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 0
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6c517d8092f6e60800000000000000
+      internalID: 7957624184531961538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Electric Smoke_79
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7073b45a0dafcf3d0800000000000000
+      internalID: -3171384263542360313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Head (Final)-Electric Smoke_0: -2372520731020195433
+      Head (Final)-Electric Smoke_1: -3395507000363619228
+      Head (Final)-Electric Smoke_10: -6328010158251303255
+      Head (Final)-Electric Smoke_11: -2778763340900411477
+      Head (Final)-Electric Smoke_12: -5469647896749466069
+      Head (Final)-Electric Smoke_13: 4136996179331014074
+      Head (Final)-Electric Smoke_14: 338219357639718031
+      Head (Final)-Electric Smoke_15: 6495556791647946661
+      Head (Final)-Electric Smoke_16: 592805138282260584
+      Head (Final)-Electric Smoke_17: 8600097872541196954
+      Head (Final)-Electric Smoke_18: 7822011268273900615
+      Head (Final)-Electric Smoke_19: 9107283785405166642
+      Head (Final)-Electric Smoke_2: -204539112578499824
+      Head (Final)-Electric Smoke_20: -5141466616084951793
+      Head (Final)-Electric Smoke_21: -6898561559287062735
+      Head (Final)-Electric Smoke_22: 2117782670576784827
+      Head (Final)-Electric Smoke_23: -7191547733396048705
+      Head (Final)-Electric Smoke_24: 2908782640487342234
+      Head (Final)-Electric Smoke_25: 6145971620385503872
+      Head (Final)-Electric Smoke_26: -4173795200448160926
+      Head (Final)-Electric Smoke_27: -6297471688213881491
+      Head (Final)-Electric Smoke_28: 4920849212441885980
+      Head (Final)-Electric Smoke_29: -4172776741891256377
+      Head (Final)-Electric Smoke_3: -5092862306683188453
+      Head (Final)-Electric Smoke_30: 8367002196128382054
+      Head (Final)-Electric Smoke_31: -6442392522932229939
+      Head (Final)-Electric Smoke_32: -2118422487214686516
+      Head (Final)-Electric Smoke_33: -4521199866213791551
+      Head (Final)-Electric Smoke_34: -305185426635495410
+      Head (Final)-Electric Smoke_35: -68237537154117043
+      Head (Final)-Electric Smoke_36: -7104980100724052906
+      Head (Final)-Electric Smoke_37: -7209045213838812680
+      Head (Final)-Electric Smoke_38: -158839853595599815
+      Head (Final)-Electric Smoke_39: 2869934734447372280
+      Head (Final)-Electric Smoke_4: -3078733716762740900
+      Head (Final)-Electric Smoke_40: -8057721974922155756
+      Head (Final)-Electric Smoke_41: 7404381415061321768
+      Head (Final)-Electric Smoke_42: 7214266611454688667
+      Head (Final)-Electric Smoke_43: -5792461861898288294
+      Head (Final)-Electric Smoke_44: 642502151813550808
+      Head (Final)-Electric Smoke_45: -2637555739972812841
+      Head (Final)-Electric Smoke_46: 7534289567004236173
+      Head (Final)-Electric Smoke_47: -62986135393104298
+      Head (Final)-Electric Smoke_48: -2720947484935314216
+      Head (Final)-Electric Smoke_49: -4778703611138576314
+      Head (Final)-Electric Smoke_5: 2663874037529815517
+      Head (Final)-Electric Smoke_50: 7023058849373118320
+      Head (Final)-Electric Smoke_51: -6625019522722972042
+      Head (Final)-Electric Smoke_52: -6912557051791093046
+      Head (Final)-Electric Smoke_53: 2564337435640821609
+      Head (Final)-Electric Smoke_54: 2445376375692045455
+      Head (Final)-Electric Smoke_55: 3554027396708344871
+      Head (Final)-Electric Smoke_56: 6332418284489679712
+      Head (Final)-Electric Smoke_57: -3526079250688926942
+      Head (Final)-Electric Smoke_58: 7124099087452532698
+      Head (Final)-Electric Smoke_59: -3125165105033977433
+      Head (Final)-Electric Smoke_6: 4417299774673842240
+      Head (Final)-Electric Smoke_60: 3199214531936146333
+      Head (Final)-Electric Smoke_61: 8674000020549463777
+      Head (Final)-Electric Smoke_62: -3907503925737067852
+      Head (Final)-Electric Smoke_63: -7739591450626695453
+      Head (Final)-Electric Smoke_64: -2731279347572364455
+      Head (Final)-Electric Smoke_65: 126567579009928322
+      Head (Final)-Electric Smoke_66: -5669360564218533150
+      Head (Final)-Electric Smoke_67: 5328150625907483100
+      Head (Final)-Electric Smoke_68: 4820308330806904921
+      Head (Final)-Electric Smoke_69: -5906647343168842196
+      Head (Final)-Electric Smoke_7: 8131075498995376171
+      Head (Final)-Electric Smoke_70: 8005151179054389535
+      Head (Final)-Electric Smoke_71: 7949206505746337149
+      Head (Final)-Electric Smoke_72: -5528745995224617188
+      Head (Final)-Electric Smoke_73: -4510964386375058083
+      Head (Final)-Electric Smoke_74: -3823705519908141459
+      Head (Final)-Electric Smoke_75: -2772695597460648519
+      Head (Final)-Electric Smoke_76: 2491491284654223987
+      Head (Final)-Electric Smoke_77: 3521198626341562514
+      Head (Final)-Electric Smoke_78: 7957624184531961538
+      Head (Final)-Electric Smoke_79: -3171384263542360313
+      Head (Final)-Electric Smoke_8: -3499800557246847730
+      Head (Final)-Electric Smoke_9: -753314586285075685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

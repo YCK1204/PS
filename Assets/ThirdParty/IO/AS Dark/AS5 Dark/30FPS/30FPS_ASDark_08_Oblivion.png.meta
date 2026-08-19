@@ -1,0 +1,3978 @@
+fileFormatVersion: 2
+guid: 96208bb637a8ee543bac9adb2ca7665f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7317717437914929101
+    second: 30FPS_ASDark_08_Oblivion_0
+  - first:
+      213: -7074023495604449642
+    second: 30FPS_ASDark_08_Oblivion_1
+  - first:
+      213: 6967280003631871805
+    second: 30FPS_ASDark_08_Oblivion_2
+  - first:
+      213: -816939688581200508
+    second: 30FPS_ASDark_08_Oblivion_3
+  - first:
+      213: -4090164387650398383
+    second: 30FPS_ASDark_08_Oblivion_4
+  - first:
+      213: 4567039375975900183
+    second: 30FPS_ASDark_08_Oblivion_5
+  - first:
+      213: 6125552282399226694
+    second: 30FPS_ASDark_08_Oblivion_6
+  - first:
+      213: 2691823100194839549
+    second: 30FPS_ASDark_08_Oblivion_7
+  - first:
+      213: 8716582447037558241
+    second: 30FPS_ASDark_08_Oblivion_8
+  - first:
+      213: 1606538487056599670
+    second: 30FPS_ASDark_08_Oblivion_9
+  - first:
+      213: 5414417674816965601
+    second: 30FPS_ASDark_08_Oblivion_10
+  - first:
+      213: -423134831622276255
+    second: 30FPS_ASDark_08_Oblivion_11
+  - first:
+      213: 6209507815684724423
+    second: 30FPS_ASDark_08_Oblivion_12
+  - first:
+      213: -7456776240368365404
+    second: 30FPS_ASDark_08_Oblivion_13
+  - first:
+      213: 919060567417265249
+    second: 30FPS_ASDark_08_Oblivion_14
+  - first:
+      213: 7221912318527202807
+    second: 30FPS_ASDark_08_Oblivion_15
+  - first:
+      213: -416362837130784329
+    second: 30FPS_ASDark_08_Oblivion_16
+  - first:
+      213: -6670550238262107423
+    second: 30FPS_ASDark_08_Oblivion_17
+  - first:
+      213: -1531253945281240569
+    second: 30FPS_ASDark_08_Oblivion_18
+  - first:
+      213: -5385871609826996423
+    second: 30FPS_ASDark_08_Oblivion_19
+  - first:
+      213: 2638470376790311371
+    second: 30FPS_ASDark_08_Oblivion_20
+  - first:
+      213: 4853313883326784260
+    second: 30FPS_ASDark_08_Oblivion_21
+  - first:
+      213: -4587367355981039482
+    second: 30FPS_ASDark_08_Oblivion_22
+  - first:
+      213: 4845972903968692498
+    second: 30FPS_ASDark_08_Oblivion_23
+  - first:
+      213: -1606107803777082173
+    second: 30FPS_ASDark_08_Oblivion_24
+  - first:
+      213: -1803337967228743911
+    second: 30FPS_ASDark_08_Oblivion_25
+  - first:
+      213: -4182487256010503997
+    second: 30FPS_ASDark_08_Oblivion_26
+  - first:
+      213: 3793749036386996503
+    second: 30FPS_ASDark_08_Oblivion_27
+  - first:
+      213: -3595314318419250300
+    second: 30FPS_ASDark_08_Oblivion_28
+  - first:
+      213: -8974450003830913467
+    second: 30FPS_ASDark_08_Oblivion_29
+  - first:
+      213: -30734447099510735
+    second: 30FPS_ASDark_08_Oblivion_30
+  - first:
+      213: -9056128137641540692
+    second: 30FPS_ASDark_08_Oblivion_31
+  - first:
+      213: 78738048783851792
+    second: 30FPS_ASDark_08_Oblivion_32
+  - first:
+      213: -7396447430772389646
+    second: 30FPS_ASDark_08_Oblivion_33
+  - first:
+      213: -8185312698923951359
+    second: 30FPS_ASDark_08_Oblivion_34
+  - first:
+      213: -3025962470916634868
+    second: 30FPS_ASDark_08_Oblivion_35
+  - first:
+      213: -2959844479840090204
+    second: 30FPS_ASDark_08_Oblivion_36
+  - first:
+      213: 8173020960003508978
+    second: 30FPS_ASDark_08_Oblivion_37
+  - first:
+      213: 1598725157445974454
+    second: 30FPS_ASDark_08_Oblivion_38
+  - first:
+      213: -3165711502871221128
+    second: 30FPS_ASDark_08_Oblivion_39
+  - first:
+      213: 2633814742013849049
+    second: 30FPS_ASDark_08_Oblivion_40
+  - first:
+      213: -2732675036894371024
+    second: 30FPS_ASDark_08_Oblivion_41
+  - first:
+      213: 2372348215973165603
+    second: 30FPS_ASDark_08_Oblivion_42
+  - first:
+      213: -8569930355692976503
+    second: 30FPS_ASDark_08_Oblivion_43
+  - first:
+      213: -800919416372220188
+    second: 30FPS_ASDark_08_Oblivion_44
+  - first:
+      213: -1904798153386708267
+    second: 30FPS_ASDark_08_Oblivion_45
+  - first:
+      213: 2351635327925262429
+    second: 30FPS_ASDark_08_Oblivion_46
+  - first:
+      213: 71497247331692423
+    second: 30FPS_ASDark_08_Oblivion_47
+  - first:
+      213: -3309530100088003895
+    second: 30FPS_ASDark_08_Oblivion_48
+  - first:
+      213: 7248151614540011336
+    second: 30FPS_ASDark_08_Oblivion_49
+  - first:
+      213: -6418850376196659831
+    second: 30FPS_ASDark_08_Oblivion_50
+  - first:
+      213: 203773962927042856
+    second: 30FPS_ASDark_08_Oblivion_51
+  - first:
+      213: -3833913531627003850
+    second: 30FPS_ASDark_08_Oblivion_52
+  - first:
+      213: -8060793862938211177
+    second: 30FPS_ASDark_08_Oblivion_53
+  - first:
+      213: 6368233822678822690
+    second: 30FPS_ASDark_08_Oblivion_54
+  - first:
+      213: -3620674586554851211
+    second: 30FPS_ASDark_08_Oblivion_55
+  - first:
+      213: -8361309447260971429
+    second: 30FPS_ASDark_08_Oblivion_56
+  - first:
+      213: -6399069533221168547
+    second: 30FPS_ASDark_08_Oblivion_57
+  - first:
+      213: 1685587361072023615
+    second: 30FPS_ASDark_08_Oblivion_58
+  - first:
+      213: 5441139213219423892
+    second: 30FPS_ASDark_08_Oblivion_59
+  - first:
+      213: -4362254685846608335
+    second: 30FPS_ASDark_08_Oblivion_60
+  - first:
+      213: -5498373681629373867
+    second: 30FPS_ASDark_08_Oblivion_61
+  - first:
+      213: 4069955467883022735
+    second: 30FPS_ASDark_08_Oblivion_62
+  - first:
+      213: -2346927347879107565
+    second: 30FPS_ASDark_08_Oblivion_63
+  - first:
+      213: 4947762394286156322
+    second: 30FPS_ASDark_08_Oblivion_64
+  - first:
+      213: -3436983198389479212
+    second: 30FPS_ASDark_08_Oblivion_65
+  - first:
+      213: -2134976652740379837
+    second: 30FPS_ASDark_08_Oblivion_66
+  - first:
+      213: 3134706473000559342
+    second: 30FPS_ASDark_08_Oblivion_67
+  - first:
+      213: -5609281595304331214
+    second: 30FPS_ASDark_08_Oblivion_68
+  - first:
+      213: 439501953609546806
+    second: 30FPS_ASDark_08_Oblivion_69
+  - first:
+      213: -7998491821372736076
+    second: 30FPS_ASDark_08_Oblivion_70
+  - first:
+      213: -6691500648577816829
+    second: 30FPS_ASDark_08_Oblivion_71
+  - first:
+      213: 3586501779753289046
+    second: 30FPS_ASDark_08_Oblivion_72
+  - first:
+      213: -2701323307412058147
+    second: 30FPS_ASDark_08_Oblivion_73
+  - first:
+      213: 93563141718185064
+    second: 30FPS_ASDark_08_Oblivion_74
+  - first:
+      213: -2466093093569351177
+    second: 30FPS_ASDark_08_Oblivion_75
+  - first:
+      213: -6142100184371313518
+    second: 30FPS_ASDark_08_Oblivion_76
+  - first:
+      213: -158016701271215245
+    second: 30FPS_ASDark_08_Oblivion_77
+  - first:
+      213: 8249847429999155730
+    second: 30FPS_ASDark_08_Oblivion_78
+  - first:
+      213: -8933964490358395454
+    second: 30FPS_ASDark_08_Oblivion_79
+  - first:
+      213: -3872012305261398972
+    second: 30FPS_ASDark_08_Oblivion_80
+  - first:
+      213: 4309895906303390162
+    second: 30FPS_ASDark_08_Oblivion_81
+  - first:
+      213: 2197825250867886597
+    second: 30FPS_ASDark_08_Oblivion_82
+  - first:
+      213: -8307959571818800007
+    second: 30FPS_ASDark_08_Oblivion_83
+  - first:
+      213: 1946724919911350464
+    second: 30FPS_ASDark_08_Oblivion_84
+  - first:
+      213: -2153252000048470226
+    second: 30FPS_ASDark_08_Oblivion_85
+  - first:
+      213: 6324308232579315966
+    second: 30FPS_ASDark_08_Oblivion_86
+  - first:
+      213: 619661545352825951
+    second: 30FPS_ASDark_08_Oblivion_87
+  - first:
+      213: 7433070480169757094
+    second: 30FPS_ASDark_08_Oblivion_88
+  - first:
+      213: -4979577421959133911
+    second: 30FPS_ASDark_08_Oblivion_89
+  - first:
+      213: 3795288580574119445
+    second: 30FPS_ASDark_08_Oblivion_90
+  - first:
+      213: 3608232841086682316
+    second: 30FPS_ASDark_08_Oblivion_91
+  - first:
+      213: 4029533957890502331
+    second: 30FPS_ASDark_08_Oblivion_92
+  - first:
+      213: -7087185860676054055
+    second: 30FPS_ASDark_08_Oblivion_93
+  - first:
+      213: -7121702925892257536
+    second: 30FPS_ASDark_08_Oblivion_94
+  - first:
+      213: -6287263327670918246
+    second: 30FPS_ASDark_08_Oblivion_95
+  - first:
+      213: 5357807340799711287
+    second: 30FPS_ASDark_08_Oblivion_96
+  - first:
+      213: 1977053703460894399
+    second: 30FPS_ASDark_08_Oblivion_97
+  - first:
+      213: -3449742079129195103
+    second: 30FPS_ASDark_08_Oblivion_98
+  - first:
+      213: -5883914447629808617
+    second: 30FPS_ASDark_08_Oblivion_99
+  - first:
+      213: 5530869168164506146
+    second: 30FPS_ASDark_08_Oblivion_100
+  - first:
+      213: -2578658483627623433
+    second: 30FPS_ASDark_08_Oblivion_101
+  - first:
+      213: 8693318958744267416
+    second: 30FPS_ASDark_08_Oblivion_102
+  - first:
+      213: 6025696507766954547
+    second: 30FPS_ASDark_08_Oblivion_103
+  - first:
+      213: -868285598202437536
+    second: 30FPS_ASDark_08_Oblivion_104
+  - first:
+      213: 6682077557496114852
+    second: 30FPS_ASDark_08_Oblivion_105
+  - first:
+      213: 6877531695898681763
+    second: 30FPS_ASDark_08_Oblivion_106
+  - first:
+      213: -3108307998319929400
+    second: 30FPS_ASDark_08_Oblivion_107
+  - first:
+      213: 2001049537850834910
+    second: 30FPS_ASDark_08_Oblivion_108
+  - first:
+      213: -3822033951223750479
+    second: 30FPS_ASDark_08_Oblivion_109
+  - first:
+      213: -1489551443589676500
+    second: 30FPS_ASDark_08_Oblivion_110
+  - first:
+      213: -4448986563336535099
+    second: 30FPS_ASDark_08_Oblivion_111
+  - first:
+      213: 2257967947450938875
+    second: 30FPS_ASDark_08_Oblivion_112
+  - first:
+      213: -7164970784030657925
+    second: 30FPS_ASDark_08_Oblivion_113
+  - first:
+      213: -3142609342199475243
+    second: 30FPS_ASDark_08_Oblivion_114
+  - first:
+      213: -6569647147397941967
+    second: 30FPS_ASDark_08_Oblivion_115
+  - first:
+      213: 3856900932980418191
+    second: 30FPS_ASDark_08_Oblivion_116
+  - first:
+      213: 6587521478231711496
+    second: 30FPS_ASDark_08_Oblivion_117
+  - first:
+      213: -4402036401503686585
+    second: 30FPS_ASDark_08_Oblivion_118
+  - first:
+      213: -6060436321710614854
+    second: 30FPS_ASDark_08_Oblivion_119
+  - first:
+      213: -583018347241753180
+    second: 30FPS_ASDark_08_Oblivion_120
+  - first:
+      213: -1462022241471293423
+    second: 30FPS_ASDark_08_Oblivion_121
+  - first:
+      213: -2972140455974686584
+    second: 30FPS_ASDark_08_Oblivion_122
+  - first:
+      213: 8480803480876146957
+    second: 30FPS_ASDark_08_Oblivion_123
+  - first:
+      213: 2630838084709315043
+    second: 30FPS_ASDark_08_Oblivion_124
+  - first:
+      213: 3045372301480460720
+    second: 30FPS_ASDark_08_Oblivion_125
+  - first:
+      213: 1811186790314306810
+    second: 30FPS_ASDark_08_Oblivion_126
+  - first:
+      213: -8619858630575136702
+    second: 30FPS_ASDark_08_Oblivion_127
+  - first:
+      213: -5163943305923412183
+    second: 30FPS_ASDark_08_Oblivion_128
+  - first:
+      213: -3808619645365908450
+    second: 30FPS_ASDark_08_Oblivion_129
+  - first:
+      213: 960001270197247246
+    second: 30FPS_ASDark_08_Oblivion_130
+  - first:
+      213: 1177101170220316365
+    second: 30FPS_ASDark_08_Oblivion_131
+  - first:
+      213: -4598164975088623894
+    second: 30FPS_ASDark_08_Oblivion_132
+  - first:
+      213: 4859326515390770943
+    second: 30FPS_ASDark_08_Oblivion_133
+  - first:
+      213: -4995166397209618319
+    second: 30FPS_ASDark_08_Oblivion_134
+  - first:
+      213: -7039441964308233776
+    second: 30FPS_ASDark_08_Oblivion_135
+  - first:
+      213: 9172715716274257562
+    second: 30FPS_ASDark_08_Oblivion_136
+  - first:
+      213: 8010601822773704580
+    second: 30FPS_ASDark_08_Oblivion_137
+  - first:
+      213: 7402169913095152375
+    second: 30FPS_ASDark_08_Oblivion_138
+  - first:
+      213: 6337375533096625135
+    second: 30FPS_ASDark_08_Oblivion_139
+  - first:
+      213: -1257698914188423116
+    second: 30FPS_ASDark_08_Oblivion_140
+  - first:
+      213: 402278853110747669
+    second: 30FPS_ASDark_08_Oblivion_141
+  - first:
+      213: -864306593218644223
+    second: 30FPS_ASDark_08_Oblivion_142
+  - first:
+      213: -2517301828397309587
+    second: 30FPS_ASDark_08_Oblivion_143
+  - first:
+      213: 3981038856638716592
+    second: 30FPS_ASDark_08_Oblivion_144
+  - first:
+      213: 2607779533524674566
+    second: 30FPS_ASDark_08_Oblivion_145
+  - first:
+      213: 6982590929609005865
+    second: 30FPS_ASDark_08_Oblivion_146
+  - first:
+      213: 6322827810385372465
+    second: 30FPS_ASDark_08_Oblivion_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_0
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1655
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7d9952d31cd8560800000000000000
+      internalID: 7317717437914929101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_1
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1638
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ecabb4c1504dd90800000000000000
+      internalID: -7074023495604449642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1607
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f823cf30c0b060800000000000000
+      internalID: 6967280003631871805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1579
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485033b7ea5a9a4f0800000000000000
+      internalID: -816939688581200508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_4
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1575
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1571529f821dc37c0800000000000000
+      internalID: -4090164387650398383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1439
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714e3408d12616f30800000000000000
+      internalID: 4567039375975900183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1479
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b3d75a855520550800000000000000
+      internalID: 6125552282399226694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1434
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbdd4509d64b5520800000000000000
+      internalID: 2691823100194839549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1430
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed241b9d8587f870800000000000000
+      internalID: 8716582447037558241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_9
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1363
+        width: 125
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a800ffd329b4610800000000000000
+      internalID: 1606538487056599670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1444
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebcf0d3030e32b40800000000000000
+      internalID: 5414417674816965601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1412
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b3f0dcc19b02af0800000000000000
+      internalID: -423134831622276255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1417
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c656ef757a9c2650800000000000000
+      internalID: 6209507815684724423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1410
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0554f5485348890800000000000000
+      internalID: -7456776240368365404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1416
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c99f777b821cc00800000000000000
+      internalID: 919060567417265249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1408
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5e4d88df2693460800000000000000
+      internalID: 7221912318527202807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_16
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1414
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b15523a438c83af0800000000000000
+      internalID: -416362837130784329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1398
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e26dff76e17d63a0800000000000000
+      internalID: -6670550238262107423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_18
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1367
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702a89256a4efbae0800000000000000
+      internalID: -1531253945281240569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1395
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f86627e4a8145b0800000000000000
+      internalID: -5385871609826996423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1380
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc14af614dabd9420800000000000000
+      internalID: 2638470376790311371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1402
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4032a2f434f6a5340800000000000000
+      internalID: 4853313883326784260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1377
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688f684d1b56650c0800000000000000
+      internalID: -4587367355981039482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1400
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219d83c5eaa504340800000000000000
+      internalID: 4845972903968692498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1374
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc52e44675f5b9e0800000000000000
+      internalID: -1606107803777082173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1376
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f0b5d5ca149f6e0800000000000000
+      internalID: -1803337967228743911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1371
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c845eb1002d4f5c0800000000000000
+      internalID: -4182487256010503997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1167
+        width: 129
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711d3d006aa16a430800000000000000
+      internalID: 3793749036386996503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1163
+        width: 128
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483beba1da0ea1ec0800000000000000
+      internalID: -3595314318419250300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1160
+        width: 122
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546c72b2549547380800000000000000
+      internalID: -8974450003830913467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_30
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1263
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1300446ee2fc29ff0800000000000000
+      internalID: -30734447099510735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1163
+        width: 128
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3c473b07b225280800000000000000
+      internalID: -9056128137641540692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_32
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1161
+        width: 126
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011a11496dbb71100800000000000000
+      internalID: 78738048783851792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_33
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1257
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f806f0ff3a8a5990800000000000000
+      internalID: -7396447430772389646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_34
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1231
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bd42dc77de76e80800000000000000
+      internalID: -8185312698923951359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 965
+        width: 125
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07c9593a2f9106d0800000000000000
+      internalID: -3025962470916634868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1035
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a70bb4a0258ce6d0800000000000000
+      internalID: -2959844479840090204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 969
+        width: 109
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac4d6b2476c6170800000000000000
+      internalID: 8173020960003508978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_38
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1003
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b93c0f6f00df2610800000000000000
+      internalID: 1598725157445974454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1031
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c2ef929222114d0800000000000000
+      internalID: -3165711502871221128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_40
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 969
+        width: 130
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd2ce5ad803d8420800000000000000
+      internalID: 2633814742013849049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_41
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1027
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03365534886931ad0800000000000000
+      internalID: -2732675036894371024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_42
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 976
+        width: 158
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32abc9812264ce020800000000000000
+      internalID: 2372348215973165603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_43
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 976
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98645173fbd711980800000000000000
+      internalID: -8569930355692976503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 787
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeab65c80092e4f0800000000000000
+      internalID: -800919416372220188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 783
+        width: 164
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b09aeb2cc095e0800000000000000
+      internalID: -1904798153386708267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 791
+        width: 169
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d589e3a0fdfa2a020800000000000000
+      internalID: 2351635327925262429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_47
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 788
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78faf9d1e520ef000800000000000000
+      internalID: 71497247331692423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_48
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 787
+        width: 156
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2aaca98ef2212d0800000000000000
+      internalID: -3309530100088003895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 591
+        width: 150
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847d4d6bd7b969460800000000000000
+      internalID: 7248151614540011336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_50
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 599
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9856a646799abe6a0800000000000000
+      internalID: -6418850376196659831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 599
+        width: 156
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8217db2f653f3d200800000000000000
+      internalID: 203773962927042856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_52
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 596
+        width: 134
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6302fc7b4f33bcac0800000000000000
+      internalID: -3833913531627003850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_53
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 594
+        width: 131
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c4be780be422090800000000000000
+      internalID: -8060793862938211177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 406
+        width: 127
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f266fdbe2806850800000000000000
+      internalID: 6368233822678822690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 402
+        width: 136
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5702d1d85a7c0cdc0800000000000000
+      internalID: -3620674586554851211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 407
+        width: 112
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e54ea9b59a6fb80800000000000000
+      internalID: -8361309447260971429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_57
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 410
+        width: 124
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ad35bc920f137a0800000000000000
+      internalID: -6399069533221168547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_58
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 532
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38069636c8646710800000000000000
+      internalID: 1685587361072023615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_59
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 412
+        width: 138
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4966469394fc28b40800000000000000
+      internalID: 5441139213219423892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_60
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 538
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1366456b9782673c0800000000000000
+      internalID: -4362254685846608335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_61
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 214
+        width: 147
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55adf18a44ad1b3b0800000000000000
+      internalID: -5498373681629373867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_62
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 208
+        width: 148
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8983da3fe26b7830800000000000000
+      internalID: 4069955467883022735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_63
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 363
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314240cf20a0e6fd0800000000000000
+      internalID: -2346927347879107565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 215
+        width: 152
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a6678eeabf9a440800000000000000
+      internalID: 4947762394286156322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_65
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 350
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d85201bdf16d40d0800000000000000
+      internalID: -3436983198389479212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_66
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 213
+        width: 139
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b38a1cb0a0f52e0800000000000000
+      internalID: -2134976652740379837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_67
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 204
+        width: 152
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e056cde6b08b20800000000000000
+      internalID: 3134706473000559342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_68
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 299
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238bfbabb14d722b0800000000000000
+      internalID: -5609281595304331214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_69
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cbcfeb2bc691600800000000000000
+      internalID: 439501953609546806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_70
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdf538f016aff090800000000000000
+      internalID: -7998491821372736076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_71
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 285
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307293bfc930323a0800000000000000
+      internalID: -6691500648577816829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_72
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6554088dd50d5c130800000000000000
+      internalID: 3586501779753289046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_73
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf883e93c8f28ad0800000000000000
+      internalID: -2701323307412058147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_74
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 159
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8649e228e276c4100800000000000000
+      internalID: 93563141718185064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_75
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5
+        width: 165
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f131c6b56da6cdd0800000000000000
+      internalID: -2466093093569351177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_76
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 11
+        width: 170
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294cfafac60e2caa0800000000000000
+      internalID: -6142100184371313518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_77
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 102
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373762cb5ac9ecdf0800000000000000
+      internalID: -158016701271215245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_78
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 69
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ad44c27885d7270800000000000000
+      internalID: 8249847429999155730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_79
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 147
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdeb3451ae240480800000000000000
+      internalID: -8933964490358395454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_80
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 132
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444f3fab259d34ac0800000000000000
+      internalID: -3872012305261398972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_81
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 127
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1bf12fd73dfcb30800000000000000
+      internalID: 4309895906303390162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_82
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 123
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3d5ccb6e308e10800000000000000
+      internalID: 2197825250867886597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_83
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 136
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c1f6179c234bc80800000000000000
+      internalID: -8307959571818800007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_84
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 117
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c087be1008240b10800000000000000
+      internalID: 1946724919911350464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_85
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 101
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e272631e6bc1e12e0800000000000000
+      internalID: -2153252000048470226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_86
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 111
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8f7f474d474c750800000000000000
+      internalID: 6324308232579315966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_87
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 101
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c89b374ea799800800000000000000
+      internalID: 619661545352825951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_88
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9e5f83832972760800000000000000
+      internalID: 7433070480169757094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_89
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 81
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9250298b7bcf4eab0800000000000000
+      internalID: -4979577421959133911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_90
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 119
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51687311bd29ba430800000000000000
+      internalID: 3795288580574119445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_91
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4ced7d6a4031230800000000000000
+      internalID: 3608232841086682316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_92
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 99
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeef6a09c7cbe730800000000000000
+      internalID: 4029533957890502331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d39b3d520245ad90800000000000000
+      internalID: -7087185860676054055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_94
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 99
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009f45adbe0aa2d90800000000000000
+      internalID: -7121702925892257536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_95
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 84
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93a5d890572fb8a0800000000000000
+      internalID: -6287263327670918246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_96
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738d85bb361ca5a40800000000000000
+      internalID: 5357807340799711287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_97
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 100
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb638a05ed7ef6b10800000000000000
+      internalID: 1977053703460894399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_98
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 84
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad69c64bdd0020d0800000000000000
+      internalID: -3449742079129195103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_99
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 92
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c8c34fbf2285ea0800000000000000
+      internalID: -5883914447629808617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_100
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 94
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a0b93643891cc40800000000000000
+      internalID: 5530869168164506146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_101
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 101
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbf35e75c3c63cd0800000000000000
+      internalID: -2578658483627623433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_102
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 85
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aee17a88fd4a870800000000000000
+      internalID: 8693318958744267416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_103
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 83
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ad2cd5c039f9350800000000000000
+      internalID: 6025696507766954547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_104
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 89
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0606e8b49da33f3f0800000000000000
+      internalID: -868285598202437536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_105
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae6a28a2228bbc50800000000000000
+      internalID: 6682077557496114852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_106
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1e78183a6e17f50800000000000000
+      internalID: 6877531695898681763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_107
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 78
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c792a318521dd4d0800000000000000
+      internalID: -3108307998319929400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_108
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 77
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edffe81e3f725cb10800000000000000
+      internalID: 2001049537850834910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_109
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b063d11f5865fac0800000000000000
+      internalID: -3822033951223750479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_110
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 68
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22ca22aadc045be0800000000000000
+      internalID: -1489551443589676500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_111
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 86
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c307d9da460242c0800000000000000
+      internalID: -4448986563336535099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_112
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5f70e82e9e55f10800000000000000
+      internalID: 2257967947450938875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_113
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72fcc79809e09c90800000000000000
+      internalID: -7164970784030657925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_114
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 80
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3506a14753364d0800000000000000
+      internalID: -3142609342199475243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_115
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 52
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135ffa71abce3d4a0800000000000000
+      internalID: -6569647147397941967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_116
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 69
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86ab2cb6f6768530800000000000000
+      internalID: 3856900932980418191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_117
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 66
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fd14cd1e39b6b50800000000000000
+      internalID: 6587521478231711496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_118
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740b8004733d8e2c0800000000000000
+      internalID: -4402036401503686585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_119
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 68
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab65094664105eba0800000000000000
+      internalID: -6060436321710614854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_120
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 73
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5be13f6e3b8e7f0800000000000000
+      internalID: -583018347241753180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_121
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 19
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118126b748ad5bbe0800000000000000
+      internalID: -1462022241471293423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_122
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880bf0b9006d0c6d0800000000000000
+      internalID: -2972140455974686584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_123
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 58
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01e48725ddd1b570800000000000000
+      internalID: 8480803480876146957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_124
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 64
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1faac9c4d928420800000000000000
+      internalID: 2630838084709315043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_125
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b18e8e19f5534a20800000000000000
+      internalID: 3045372301480460720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_126
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 51
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc609a2ac0a22910800000000000000
+      internalID: 1811186790314306810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_127
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240eb76de3c106880800000000000000
+      internalID: -8619858630575136702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_128
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 31
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fbd2a4cecf558b0800000000000000
+      internalID: -5163943305923412183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 59
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c04698c90152bc0800000000000000
+      internalID: -3808619645365908450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_130
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 41
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dd706a11c925d00800000000000000
+      internalID: 960001270197247246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_131
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 56
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6bdab1747e55010800000000000000
+      internalID: 1177101170220316365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_132
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 16
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee133931590030c0800000000000000
+      internalID: -4598164975088623894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_133
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 40
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffee08d48bbcf6340800000000000000
+      internalID: 4859326515390770943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_134
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 50
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1785a5490aa9daab0800000000000000
+      internalID: -4995166397209618319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_135
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d10e6c74d0ee4e90800000000000000
+      internalID: -7039441964308233776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_136
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 17
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7b2648580c4f70800000000000000
+      internalID: 9172715716274257562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_137
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487f5837aef5b2f60800000000000000
+      internalID: 8010601822773704580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_138
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 40
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2ee1d415ac9b660800000000000000
+      internalID: 7402169913095152375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_139
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e9727871e2f750800000000000000
+      internalID: 6337375533096625135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_140
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 38
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43097694081cb8ee0800000000000000
+      internalID: -1257698914188423116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_141
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 29
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512515c4c7e259500800000000000000
+      internalID: 402278853110747669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_142
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 28
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107bc269bbd5104f0800000000000000
+      internalID: -864306593218644223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_143
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 27
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61efe5035fb01dd0800000000000000
+      internalID: -2517301828397309587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_144
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 25
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba5af66fbd7f3730800000000000000
+      internalID: 3981038856638716592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_145
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 25
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608a54c4ba1b03420800000000000000
+      internalID: 2607779533524674566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_146
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 5
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b9533847527e060800000000000000
+      internalID: 6982590929609005865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_ASDark_08_Oblivion_147
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1352bfdc4623fb750800000000000000
+      internalID: 6322827810385372465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      30FPS_ASDark_08_Oblivion_0: 7317717437914929101
+      30FPS_ASDark_08_Oblivion_1: -7074023495604449642
+      30FPS_ASDark_08_Oblivion_10: 5414417674816965601
+      30FPS_ASDark_08_Oblivion_100: 5530869168164506146
+      30FPS_ASDark_08_Oblivion_101: -2578658483627623433
+      30FPS_ASDark_08_Oblivion_102: 8693318958744267416
+      30FPS_ASDark_08_Oblivion_103: 6025696507766954547
+      30FPS_ASDark_08_Oblivion_104: -868285598202437536
+      30FPS_ASDark_08_Oblivion_105: 6682077557496114852
+      30FPS_ASDark_08_Oblivion_106: 6877531695898681763
+      30FPS_ASDark_08_Oblivion_107: -3108307998319929400
+      30FPS_ASDark_08_Oblivion_108: 2001049537850834910
+      30FPS_ASDark_08_Oblivion_109: -3822033951223750479
+      30FPS_ASDark_08_Oblivion_11: -423134831622276255
+      30FPS_ASDark_08_Oblivion_110: -1489551443589676500
+      30FPS_ASDark_08_Oblivion_111: -4448986563336535099
+      30FPS_ASDark_08_Oblivion_112: 2257967947450938875
+      30FPS_ASDark_08_Oblivion_113: -7164970784030657925
+      30FPS_ASDark_08_Oblivion_114: -3142609342199475243
+      30FPS_ASDark_08_Oblivion_115: -6569647147397941967
+      30FPS_ASDark_08_Oblivion_116: 3856900932980418191
+      30FPS_ASDark_08_Oblivion_117: 6587521478231711496
+      30FPS_ASDark_08_Oblivion_118: -4402036401503686585
+      30FPS_ASDark_08_Oblivion_119: -6060436321710614854
+      30FPS_ASDark_08_Oblivion_12: 6209507815684724423
+      30FPS_ASDark_08_Oblivion_120: -583018347241753180
+      30FPS_ASDark_08_Oblivion_121: -1462022241471293423
+      30FPS_ASDark_08_Oblivion_122: -2972140455974686584
+      30FPS_ASDark_08_Oblivion_123: 8480803480876146957
+      30FPS_ASDark_08_Oblivion_124: 2630838084709315043
+      30FPS_ASDark_08_Oblivion_125: 3045372301480460720
+      30FPS_ASDark_08_Oblivion_126: 1811186790314306810
+      30FPS_ASDark_08_Oblivion_127: -8619858630575136702
+      30FPS_ASDark_08_Oblivion_128: -5163943305923412183
+      30FPS_ASDark_08_Oblivion_129: -3808619645365908450
+      30FPS_ASDark_08_Oblivion_13: -7456776240368365404
+      30FPS_ASDark_08_Oblivion_130: 960001270197247246
+      30FPS_ASDark_08_Oblivion_131: 1177101170220316365
+      30FPS_ASDark_08_Oblivion_132: -4598164975088623894
+      30FPS_ASDark_08_Oblivion_133: 4859326515390770943
+      30FPS_ASDark_08_Oblivion_134: -4995166397209618319
+      30FPS_ASDark_08_Oblivion_135: -7039441964308233776
+      30FPS_ASDark_08_Oblivion_136: 9172715716274257562
+      30FPS_ASDark_08_Oblivion_137: 8010601822773704580
+      30FPS_ASDark_08_Oblivion_138: 7402169913095152375
+      30FPS_ASDark_08_Oblivion_139: 6337375533096625135
+      30FPS_ASDark_08_Oblivion_14: 919060567417265249
+      30FPS_ASDark_08_Oblivion_140: -1257698914188423116
+      30FPS_ASDark_08_Oblivion_141: 402278853110747669
+      30FPS_ASDark_08_Oblivion_142: -864306593218644223
+      30FPS_ASDark_08_Oblivion_143: -2517301828397309587
+      30FPS_ASDark_08_Oblivion_144: 3981038856638716592
+      30FPS_ASDark_08_Oblivion_145: 2607779533524674566
+      30FPS_ASDark_08_Oblivion_146: 6982590929609005865
+      30FPS_ASDark_08_Oblivion_147: 6322827810385372465
+      30FPS_ASDark_08_Oblivion_15: 7221912318527202807
+      30FPS_ASDark_08_Oblivion_16: -416362837130784329
+      30FPS_ASDark_08_Oblivion_17: -6670550238262107423
+      30FPS_ASDark_08_Oblivion_18: -1531253945281240569
+      30FPS_ASDark_08_Oblivion_19: -5385871609826996423
+      30FPS_ASDark_08_Oblivion_2: 6967280003631871805
+      30FPS_ASDark_08_Oblivion_20: 2638470376790311371
+      30FPS_ASDark_08_Oblivion_21: 4853313883326784260
+      30FPS_ASDark_08_Oblivion_22: -4587367355981039482
+      30FPS_ASDark_08_Oblivion_23: 4845972903968692498
+      30FPS_ASDark_08_Oblivion_24: -1606107803777082173
+      30FPS_ASDark_08_Oblivion_25: -1803337967228743911
+      30FPS_ASDark_08_Oblivion_26: -4182487256010503997
+      30FPS_ASDark_08_Oblivion_27: 3793749036386996503
+      30FPS_ASDark_08_Oblivion_28: -3595314318419250300
+      30FPS_ASDark_08_Oblivion_29: -8974450003830913467
+      30FPS_ASDark_08_Oblivion_3: -816939688581200508
+      30FPS_ASDark_08_Oblivion_30: -30734447099510735
+      30FPS_ASDark_08_Oblivion_31: -9056128137641540692
+      30FPS_ASDark_08_Oblivion_32: 78738048783851792
+      30FPS_ASDark_08_Oblivion_33: -7396447430772389646
+      30FPS_ASDark_08_Oblivion_34: -8185312698923951359
+      30FPS_ASDark_08_Oblivion_35: -3025962470916634868
+      30FPS_ASDark_08_Oblivion_36: -2959844479840090204
+      30FPS_ASDark_08_Oblivion_37: 8173020960003508978
+      30FPS_ASDark_08_Oblivion_38: 1598725157445974454
+      30FPS_ASDark_08_Oblivion_39: -3165711502871221128
+      30FPS_ASDark_08_Oblivion_4: -4090164387650398383
+      30FPS_ASDark_08_Oblivion_40: 2633814742013849049
+      30FPS_ASDark_08_Oblivion_41: -2732675036894371024
+      30FPS_ASDark_08_Oblivion_42: 2372348215973165603
+      30FPS_ASDark_08_Oblivion_43: -8569930355692976503
+      30FPS_ASDark_08_Oblivion_44: -800919416372220188
+      30FPS_ASDark_08_Oblivion_45: -1904798153386708267
+      30FPS_ASDark_08_Oblivion_46: 2351635327925262429
+      30FPS_ASDark_08_Oblivion_47: 71497247331692423
+      30FPS_ASDark_08_Oblivion_48: -3309530100088003895
+      30FPS_ASDark_08_Oblivion_49: 7248151614540011336
+      30FPS_ASDark_08_Oblivion_5: 4567039375975900183
+      30FPS_ASDark_08_Oblivion_50: -6418850376196659831
+      30FPS_ASDark_08_Oblivion_51: 203773962927042856
+      30FPS_ASDark_08_Oblivion_52: -3833913531627003850
+      30FPS_ASDark_08_Oblivion_53: -8060793862938211177
+      30FPS_ASDark_08_Oblivion_54: 6368233822678822690
+      30FPS_ASDark_08_Oblivion_55: -3620674586554851211
+      30FPS_ASDark_08_Oblivion_56: -8361309447260971429
+      30FPS_ASDark_08_Oblivion_57: -6399069533221168547
+      30FPS_ASDark_08_Oblivion_58: 1685587361072023615
+      30FPS_ASDark_08_Oblivion_59: 5441139213219423892
+      30FPS_ASDark_08_Oblivion_6: 6125552282399226694
+      30FPS_ASDark_08_Oblivion_60: -4362254685846608335
+      30FPS_ASDark_08_Oblivion_61: -5498373681629373867
+      30FPS_ASDark_08_Oblivion_62: 4069955467883022735
+      30FPS_ASDark_08_Oblivion_63: -2346927347879107565
+      30FPS_ASDark_08_Oblivion_64: 4947762394286156322
+      30FPS_ASDark_08_Oblivion_65: -3436983198389479212
+      30FPS_ASDark_08_Oblivion_66: -2134976652740379837
+      30FPS_ASDark_08_Oblivion_67: 3134706473000559342
+      30FPS_ASDark_08_Oblivion_68: -5609281595304331214
+      30FPS_ASDark_08_Oblivion_69: 439501953609546806
+      30FPS_ASDark_08_Oblivion_7: 2691823100194839549
+      30FPS_ASDark_08_Oblivion_70: -7998491821372736076
+      30FPS_ASDark_08_Oblivion_71: -6691500648577816829
+      30FPS_ASDark_08_Oblivion_72: 3586501779753289046
+      30FPS_ASDark_08_Oblivion_73: -2701323307412058147
+      30FPS_ASDark_08_Oblivion_74: 93563141718185064
+      30FPS_ASDark_08_Oblivion_75: -2466093093569351177
+      30FPS_ASDark_08_Oblivion_76: -6142100184371313518
+      30FPS_ASDark_08_Oblivion_77: -158016701271215245
+      30FPS_ASDark_08_Oblivion_78: 8249847429999155730
+      30FPS_ASDark_08_Oblivion_79: -8933964490358395454
+      30FPS_ASDark_08_Oblivion_8: 8716582447037558241
+      30FPS_ASDark_08_Oblivion_80: -3872012305261398972
+      30FPS_ASDark_08_Oblivion_81: 4309895906303390162
+      30FPS_ASDark_08_Oblivion_82: 2197825250867886597
+      30FPS_ASDark_08_Oblivion_83: -8307959571818800007
+      30FPS_ASDark_08_Oblivion_84: 1946724919911350464
+      30FPS_ASDark_08_Oblivion_85: -2153252000048470226
+      30FPS_ASDark_08_Oblivion_86: 6324308232579315966
+      30FPS_ASDark_08_Oblivion_87: 619661545352825951
+      30FPS_ASDark_08_Oblivion_88: 7433070480169757094
+      30FPS_ASDark_08_Oblivion_89: -4979577421959133911
+      30FPS_ASDark_08_Oblivion_9: 1606538487056599670
+      30FPS_ASDark_08_Oblivion_90: 3795288580574119445
+      30FPS_ASDark_08_Oblivion_91: 3608232841086682316
+      30FPS_ASDark_08_Oblivion_92: 4029533957890502331
+      30FPS_ASDark_08_Oblivion_93: -7087185860676054055
+      30FPS_ASDark_08_Oblivion_94: -7121702925892257536
+      30FPS_ASDark_08_Oblivion_95: -6287263327670918246
+      30FPS_ASDark_08_Oblivion_96: 5357807340799711287
+      30FPS_ASDark_08_Oblivion_97: 1977053703460894399
+      30FPS_ASDark_08_Oblivion_98: -3449742079129195103
+      30FPS_ASDark_08_Oblivion_99: -5883914447629808617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

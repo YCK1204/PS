@@ -1,0 +1,4290 @@
+fileFormatVersion: 2
+guid: 0d3f20f1877c04640982cb87f3cc6eb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4750044482230432465
+    second: 60FPS_ASDark_05_Subdue_0
+  - first:
+      213: -8978926990585110045
+    second: 60FPS_ASDark_05_Subdue_1
+  - first:
+      213: -3048854219537148453
+    second: 60FPS_ASDark_05_Subdue_2
+  - first:
+      213: -4435207778030211401
+    second: 60FPS_ASDark_05_Subdue_3
+  - first:
+      213: -950572757416332956
+    second: 60FPS_ASDark_05_Subdue_4
+  - first:
+      213: 6666667799389540911
+    second: 60FPS_ASDark_05_Subdue_5
+  - first:
+      213: -5656302153859391396
+    second: 60FPS_ASDark_05_Subdue_6
+  - first:
+      213: -7393517593753525744
+    second: 60FPS_ASDark_05_Subdue_7
+  - first:
+      213: 2162690943653431735
+    second: 60FPS_ASDark_05_Subdue_8
+  - first:
+      213: 479783868643853770
+    second: 60FPS_ASDark_05_Subdue_9
+  - first:
+      213: 4641664032055769522
+    second: 60FPS_ASDark_05_Subdue_10
+  - first:
+      213: 5852044972846718564
+    second: 60FPS_ASDark_05_Subdue_11
+  - first:
+      213: -5964303100684041765
+    second: 60FPS_ASDark_05_Subdue_12
+  - first:
+      213: -8449833312441666062
+    second: 60FPS_ASDark_05_Subdue_13
+  - first:
+      213: 6476207943974616568
+    second: 60FPS_ASDark_05_Subdue_14
+  - first:
+      213: 4993845270526979328
+    second: 60FPS_ASDark_05_Subdue_15
+  - first:
+      213: 512139968167047166
+    second: 60FPS_ASDark_05_Subdue_16
+  - first:
+      213: -1221997794911994608
+    second: 60FPS_ASDark_05_Subdue_17
+  - first:
+      213: -3185383196848648856
+    second: 60FPS_ASDark_05_Subdue_18
+  - first:
+      213: -2350426714433661155
+    second: 60FPS_ASDark_05_Subdue_19
+  - first:
+      213: 5737566945216669797
+    second: 60FPS_ASDark_05_Subdue_20
+  - first:
+      213: 7691652576998986690
+    second: 60FPS_ASDark_05_Subdue_21
+  - first:
+      213: 1035875529977386965
+    second: 60FPS_ASDark_05_Subdue_22
+  - first:
+      213: 6359491175520518989
+    second: 60FPS_ASDark_05_Subdue_23
+  - first:
+      213: 4962474225301324868
+    second: 60FPS_ASDark_05_Subdue_24
+  - first:
+      213: -1936579865153165902
+    second: 60FPS_ASDark_05_Subdue_25
+  - first:
+      213: -2008908918207039265
+    second: 60FPS_ASDark_05_Subdue_26
+  - first:
+      213: -7578360083536664772
+    second: 60FPS_ASDark_05_Subdue_27
+  - first:
+      213: 7690374337199860
+    second: 60FPS_ASDark_05_Subdue_28
+  - first:
+      213: 3768995769048835827
+    second: 60FPS_ASDark_05_Subdue_29
+  - first:
+      213: 648817727307149178
+    second: 60FPS_ASDark_05_Subdue_30
+  - first:
+      213: -1655568757658274126
+    second: 60FPS_ASDark_05_Subdue_31
+  - first:
+      213: 3572740223201103570
+    second: 60FPS_ASDark_05_Subdue_32
+  - first:
+      213: 5070709356548016811
+    second: 60FPS_ASDark_05_Subdue_33
+  - first:
+      213: -1176617881614482589
+    second: 60FPS_ASDark_05_Subdue_34
+  - first:
+      213: -749226129527053925
+    second: 60FPS_ASDark_05_Subdue_35
+  - first:
+      213: 2067275486456390573
+    second: 60FPS_ASDark_05_Subdue_36
+  - first:
+      213: 2708564243936073962
+    second: 60FPS_ASDark_05_Subdue_37
+  - first:
+      213: -2871218385062665165
+    second: 60FPS_ASDark_05_Subdue_38
+  - first:
+      213: -1394324719237038951
+    second: 60FPS_ASDark_05_Subdue_39
+  - first:
+      213: 3134512581858259527
+    second: 60FPS_ASDark_05_Subdue_40
+  - first:
+      213: 8033902069575341486
+    second: 60FPS_ASDark_05_Subdue_41
+  - first:
+      213: 7047598122685845879
+    second: 60FPS_ASDark_05_Subdue_42
+  - first:
+      213: 3242981110353346228
+    second: 60FPS_ASDark_05_Subdue_43
+  - first:
+      213: 1921587495804184841
+    second: 60FPS_ASDark_05_Subdue_44
+  - first:
+      213: 870686213297998042
+    second: 60FPS_ASDark_05_Subdue_45
+  - first:
+      213: 9183819111038870511
+    second: 60FPS_ASDark_05_Subdue_46
+  - first:
+      213: 128057759497933216
+    second: 60FPS_ASDark_05_Subdue_47
+  - first:
+      213: -9211950724725782760
+    second: 60FPS_ASDark_05_Subdue_48
+  - first:
+      213: 5300550508883063492
+    second: 60FPS_ASDark_05_Subdue_49
+  - first:
+      213: 6957482328861031040
+    second: 60FPS_ASDark_05_Subdue_50
+  - first:
+      213: -9017082309839614957
+    second: 60FPS_ASDark_05_Subdue_51
+  - first:
+      213: 6854810422092960188
+    second: 60FPS_ASDark_05_Subdue_52
+  - first:
+      213: -5773759125191106605
+    second: 60FPS_ASDark_05_Subdue_53
+  - first:
+      213: 7257853225323420604
+    second: 60FPS_ASDark_05_Subdue_54
+  - first:
+      213: 2123590035060262280
+    second: 60FPS_ASDark_05_Subdue_55
+  - first:
+      213: 6243185369447325672
+    second: 60FPS_ASDark_05_Subdue_56
+  - first:
+      213: 796332944031638140
+    second: 60FPS_ASDark_05_Subdue_57
+  - first:
+      213: 8383025019682980749
+    second: 60FPS_ASDark_05_Subdue_58
+  - first:
+      213: 6693716584125846214
+    second: 60FPS_ASDark_05_Subdue_59
+  - first:
+      213: -7313604504975531391
+    second: 60FPS_ASDark_05_Subdue_60
+  - first:
+      213: 5034782604086965272
+    second: 60FPS_ASDark_05_Subdue_61
+  - first:
+      213: -2001399520419287076
+    second: 60FPS_ASDark_05_Subdue_62
+  - first:
+      213: 7517806516407968509
+    second: 60FPS_ASDark_05_Subdue_63
+  - first:
+      213: -3024009840451692903
+    second: 60FPS_ASDark_05_Subdue_64
+  - first:
+      213: 791341599891088791
+    second: 60FPS_ASDark_05_Subdue_65
+  - first:
+      213: 188613486664858211
+    second: 60FPS_ASDark_05_Subdue_66
+  - first:
+      213: 1682902231102838792
+    second: 60FPS_ASDark_05_Subdue_67
+  - first:
+      213: -8290554655434872338
+    second: 60FPS_ASDark_05_Subdue_68
+  - first:
+      213: 9041865202552274042
+    second: 60FPS_ASDark_05_Subdue_69
+  - first:
+      213: 8838001468120694430
+    second: 60FPS_ASDark_05_Subdue_70
+  - first:
+      213: 5273860401283072231
+    second: 60FPS_ASDark_05_Subdue_71
+  - first:
+      213: 7412859977968377592
+    second: 60FPS_ASDark_05_Subdue_72
+  - first:
+      213: 8384520980886304617
+    second: 60FPS_ASDark_05_Subdue_73
+  - first:
+      213: -8897854368437050004
+    second: 60FPS_ASDark_05_Subdue_74
+  - first:
+      213: 99571086013943915
+    second: 60FPS_ASDark_05_Subdue_75
+  - first:
+      213: -7478528769502973305
+    second: 60FPS_ASDark_05_Subdue_76
+  - first:
+      213: 3277978285724533801
+    second: 60FPS_ASDark_05_Subdue_77
+  - first:
+      213: 256449583083303234
+    second: 60FPS_ASDark_05_Subdue_78
+  - first:
+      213: -8121731638718049096
+    second: 60FPS_ASDark_05_Subdue_79
+  - first:
+      213: -6357616038623447204
+    second: 60FPS_ASDark_05_Subdue_80
+  - first:
+      213: 2331715291958851362
+    second: 60FPS_ASDark_05_Subdue_81
+  - first:
+      213: 5649953575730817697
+    second: 60FPS_ASDark_05_Subdue_82
+  - first:
+      213: -4598871151059383580
+    second: 60FPS_ASDark_05_Subdue_83
+  - first:
+      213: -1025768495513407258
+    second: 60FPS_ASDark_05_Subdue_84
+  - first:
+      213: -2604067315127531360
+    second: 60FPS_ASDark_05_Subdue_85
+  - first:
+      213: 981781194635026803
+    second: 60FPS_ASDark_05_Subdue_86
+  - first:
+      213: -6085772682311446547
+    second: 60FPS_ASDark_05_Subdue_87
+  - first:
+      213: -4369852907486636419
+    second: 60FPS_ASDark_05_Subdue_88
+  - first:
+      213: -3498654189258729384
+    second: 60FPS_ASDark_05_Subdue_89
+  - first:
+      213: -8353407874571165540
+    second: 60FPS_ASDark_05_Subdue_90
+  - first:
+      213: -6915156837958204075
+    second: 60FPS_ASDark_05_Subdue_91
+  - first:
+      213: 881948247117963996
+    second: 60FPS_ASDark_05_Subdue_92
+  - first:
+      213: -6253160435993243591
+    second: 60FPS_ASDark_05_Subdue_93
+  - first:
+      213: 5733396783758598161
+    second: 60FPS_ASDark_05_Subdue_94
+  - first:
+      213: -661600607974356754
+    second: 60FPS_ASDark_05_Subdue_95
+  - first:
+      213: -9160323686488823654
+    second: 60FPS_ASDark_05_Subdue_96
+  - first:
+      213: 6245860362216520078
+    second: 60FPS_ASDark_05_Subdue_97
+  - first:
+      213: -7554612014160289478
+    second: 60FPS_ASDark_05_Subdue_98
+  - first:
+      213: -730422664871585663
+    second: 60FPS_ASDark_05_Subdue_99
+  - first:
+      213: 2240854772440079977
+    second: 60FPS_ASDark_05_Subdue_100
+  - first:
+      213: 8091905290089507324
+    second: 60FPS_ASDark_05_Subdue_101
+  - first:
+      213: 2964213472999324859
+    second: 60FPS_ASDark_05_Subdue_102
+  - first:
+      213: 1426428495451954922
+    second: 60FPS_ASDark_05_Subdue_103
+  - first:
+      213: 5883937570715215249
+    second: 60FPS_ASDark_05_Subdue_104
+  - first:
+      213: -9051409072046703738
+    second: 60FPS_ASDark_05_Subdue_105
+  - first:
+      213: 6131541440947449355
+    second: 60FPS_ASDark_05_Subdue_106
+  - first:
+      213: -272471691560388479
+    second: 60FPS_ASDark_05_Subdue_107
+  - first:
+      213: -1346563283619797435
+    second: 60FPS_ASDark_05_Subdue_108
+  - first:
+      213: -732204141106176089
+    second: 60FPS_ASDark_05_Subdue_109
+  - first:
+      213: -7048050520955192000
+    second: 60FPS_ASDark_05_Subdue_110
+  - first:
+      213: -3437963216158323508
+    second: 60FPS_ASDark_05_Subdue_111
+  - first:
+      213: -3863302803262781229
+    second: 60FPS_ASDark_05_Subdue_112
+  - first:
+      213: 1384336030021779509
+    second: 60FPS_ASDark_05_Subdue_113
+  - first:
+      213: -2130123017463920170
+    second: 60FPS_ASDark_05_Subdue_114
+  - first:
+      213: -1110157389864546184
+    second: 60FPS_ASDark_05_Subdue_115
+  - first:
+      213: 9011233271025011230
+    second: 60FPS_ASDark_05_Subdue_116
+  - first:
+      213: -514429651822754976
+    second: 60FPS_ASDark_05_Subdue_117
+  - first:
+      213: 1029045673508445357
+    second: 60FPS_ASDark_05_Subdue_118
+  - first:
+      213: -4694106768826198034
+    second: 60FPS_ASDark_05_Subdue_119
+  - first:
+      213: 3880351469566619176
+    second: 60FPS_ASDark_05_Subdue_120
+  - first:
+      213: -8873130357433422596
+    second: 60FPS_ASDark_05_Subdue_121
+  - first:
+      213: 5966438450835862844
+    second: 60FPS_ASDark_05_Subdue_122
+  - first:
+      213: 975637470247727002
+    second: 60FPS_ASDark_05_Subdue_123
+  - first:
+      213: -1825598594961747909
+    second: 60FPS_ASDark_05_Subdue_124
+  - first:
+      213: -352108142023600287
+    second: 60FPS_ASDark_05_Subdue_125
+  - first:
+      213: 2137765866880406802
+    second: 60FPS_ASDark_05_Subdue_126
+  - first:
+      213: 3286046246097627595
+    second: 60FPS_ASDark_05_Subdue_127
+  - first:
+      213: -7728482638561448975
+    second: 60FPS_ASDark_05_Subdue_128
+  - first:
+      213: 1958350044974934847
+    second: 60FPS_ASDark_05_Subdue_129
+  - first:
+      213: 6587773655844473071
+    second: 60FPS_ASDark_05_Subdue_130
+  - first:
+      213: 2097910043393818011
+    second: 60FPS_ASDark_05_Subdue_131
+  - first:
+      213: -6894251780923209798
+    second: 60FPS_ASDark_05_Subdue_132
+  - first:
+      213: 5229792383367466273
+    second: 60FPS_ASDark_05_Subdue_133
+  - first:
+      213: -5322008822932152413
+    second: 60FPS_ASDark_05_Subdue_134
+  - first:
+      213: 3875013967074473733
+    second: 60FPS_ASDark_05_Subdue_135
+  - first:
+      213: -4005927622790797621
+    second: 60FPS_ASDark_05_Subdue_136
+  - first:
+      213: -3752991691858593020
+    second: 60FPS_ASDark_05_Subdue_137
+  - first:
+      213: 5674325650899440693
+    second: 60FPS_ASDark_05_Subdue_138
+  - first:
+      213: 2658033845244981548
+    second: 60FPS_ASDark_05_Subdue_139
+  - first:
+      213: 666894474161991652
+    second: 60FPS_ASDark_05_Subdue_140
+  - first:
+      213: 4748726514288976389
+    second: 60FPS_ASDark_05_Subdue_141
+  - first:
+      213: -3308051880470811186
+    second: 60FPS_ASDark_05_Subdue_142
+  - first:
+      213: 148357499417480120
+    second: 60FPS_ASDark_05_Subdue_143
+  - first:
+      213: 5485108636684706962
+    second: 60FPS_ASDark_05_Subdue_144
+  - first:
+      213: 6465835052979852353
+    second: 60FPS_ASDark_05_Subdue_145
+  - first:
+      213: -1503347389460394036
+    second: 60FPS_ASDark_05_Subdue_146
+  - first:
+      213: 5846842808945785666
+    second: 60FPS_ASDark_05_Subdue_147
+  - first:
+      213: -1256043826834979937
+    second: 60FPS_ASDark_05_Subdue_148
+  - first:
+      213: 6204057324107160676
+    second: 60FPS_ASDark_05_Subdue_149
+  - first:
+      213: -1997236091597210218
+    second: 60FPS_ASDark_05_Subdue_150
+  - first:
+      213: 5107254883038389907
+    second: 60FPS_ASDark_05_Subdue_151
+  - first:
+      213: -5460178679949869701
+    second: 60FPS_ASDark_05_Subdue_152
+  - first:
+      213: 1993696535133902375
+    second: 60FPS_ASDark_05_Subdue_153
+  - first:
+      213: 82895984011241273
+    second: 60FPS_ASDark_05_Subdue_154
+  - first:
+      213: 6954476096414870574
+    second: 60FPS_ASDark_05_Subdue_155
+  - first:
+      213: 3192574398886319271
+    second: 60FPS_ASDark_05_Subdue_156
+  - first:
+      213: 2228156695446529547
+    second: 60FPS_ASDark_05_Subdue_157
+  - first:
+      213: 126302468987369879
+    second: 60FPS_ASDark_05_Subdue_158
+  - first:
+      213: 1810891362898685744
+    second: 60FPS_ASDark_05_Subdue_159
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_0
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2273
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dc951d5b3741eb0800000000000000
+      internalID: -4750044482230432465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_1
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2269
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1e1067971746380800000000000000
+      internalID: -8978926990585110045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_2
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2273
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd59988ad3b40b5d0800000000000000
+      internalID: -3048854219537148453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_3
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2245
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea57d460af272c0800000000000000
+      internalID: -4435207778030211401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_4
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2244
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461390d0d13eec2f0800000000000000
+      internalID: -950572757416332956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_5
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2245
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f221622ca03c48c50800000000000000
+      internalID: 6666667799389540911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_6
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2225
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c502fe0d827c081b0800000000000000
+      internalID: -5656302153859391396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_7
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2226
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01268b7cbe2f46990800000000000000
+      internalID: -7393517593753525744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_8
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2213
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9ca6f64fb630e10800000000000000
+      internalID: 2162690943653431735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_9
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2220
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5ca73f2e888a600800000000000000
+      internalID: 479783868643853770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_10
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2223
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9346538d08a6040800000000000000
+      internalID: 4641664032055769522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2191
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e9328b5e3a63150800000000000000
+      internalID: 5852044972846718564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_12
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2187
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd187fe1ee98a3da0800000000000000
+      internalID: -5964303100684041765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_13
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2149
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5f6a81f592cba80800000000000000
+      internalID: -8449833312441666062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_14
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2155
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd7b2800dc10e950800000000000000
+      internalID: 6476207943974616568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_15
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2149
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d6605a0d3bd4540800000000000000
+      internalID: 4993845270526979328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_16
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2133
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff60ed669c7b1700800000000000000
+      internalID: 512139968167047166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2131
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01db5fdda779a0fe0800000000000000
+      internalID: -1221997794911994608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_18
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2130
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d865efbde3bc3d0800000000000000
+      internalID: -3185383196848648856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2068
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17d7973b5b916fd0800000000000000
+      internalID: -2350426714433661155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2081
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a9acdcbeef9f40800000000000000
+      internalID: 5737566945216669797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2059
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c31eb3444d3eba60800000000000000
+      internalID: 7691652576998986690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2079
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d752d36e4b206e00800000000000000
+      internalID: 1035875529977386965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2052
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43c125b783714850800000000000000
+      internalID: 6359491175520518989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_24
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2026
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4440e1ef3004ed440800000000000000
+      internalID: 4962474225301324868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1930
+        width: 179
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52f528fd2ef15e0800000000000000
+      internalID: -1936579865153165902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2042
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8b7288bfbee14e0800000000000000
+      internalID: -2008908918207039265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2021
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c372cc8e7a144d690800000000000000
+      internalID: -7578360083536664772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2057
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fefe8eca525b1000800000000000000
+      internalID: 7690374337199860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2060
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f62b16dea92e4430800000000000000
+      internalID: 3768995769048835827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1993
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f6e101940110900800000000000000
+      internalID: 648817727307149178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2052
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b63b8a8cfc3609e0800000000000000
+      internalID: -1655568757658274126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_32
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2053
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec6a6cd4ce49130800000000000000
+      internalID: 3572740223201103570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1991
+        width: 114
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa4b444b47ce5640800000000000000
+      internalID: 5070709356548016811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_34
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2063
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3630ff94540dbafe0800000000000000
+      internalID: -1176617881614482589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_35
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2047
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9169150ec63a95f0800000000000000
+      internalID: -749226129527053925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2046
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da32b1f1a1070bc10800000000000000
+      internalID: 2067275486456390573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2039
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8522b44d0c69520800000000000000
+      internalID: 2708564243936073962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2047
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334e4c557126728d0800000000000000
+      internalID: -2871218385062665165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2031
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c74582e0d56ace0800000000000000
+      internalID: -1394324719237038951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2035
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74277a9f596008b20800000000000000
+      internalID: 3134512581858259527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2031
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea55059ed572e7f60800000000000000
+      internalID: 8033902069575341486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2031
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771566e17291ec160800000000000000
+      internalID: 7047598122685845879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_43
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2031
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beb9e74322610d20800000000000000
+      internalID: 3242981110353346228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_44
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1978
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909ad3c75a9daaa10800000000000000
+      internalID: 1921587495804184841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2027
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad805767f7c451c00800000000000000
+      internalID: 870686213297998042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2016
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe36ae2d2da737f70800000000000000
+      internalID: 9183819111038870511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2023
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a15b919ad3f6c100800000000000000
+      internalID: 128057759497933216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2026
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81741547f93982080800000000000000
+      internalID: -9211950724725782760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2025
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2bdf3ba965f8940800000000000000
+      internalID: 5300550508883063492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2017
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ab1d6d051fd8060800000000000000
+      internalID: 6957482328861031040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2012
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c0d8be963ecd280800000000000000
+      internalID: -9017082309839614957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_52
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2018
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb11f73b2cd212f50800000000000000
+      internalID: 6854810422092960188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_53
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2024
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df50549aac7fdfa0800000000000000
+      internalID: -5773759125191106605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_54
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1995
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb535ffd0319b460800000000000000
+      internalID: 7257853225323420604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_55
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2027
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8858358b2e1887d10800000000000000
+      internalID: 2123590035060262280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_56
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1978
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efd2d4040044a650800000000000000
+      internalID: 6243185369447325672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_57
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2026
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7262fbe7942d0b00800000000000000
+      internalID: 796332944031638140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_58
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2018
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d838a6917dc765470800000000000000
+      internalID: 8383025019682980749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_59
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1995
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c256f7b4cbd4ec50800000000000000
+      internalID: 6693716584125846214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_60
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2018
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182ac3da37bd08a90800000000000000
+      internalID: -7313604504975531391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1994
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8147bed5a142fd540800000000000000
+      internalID: 5034782604086965272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1993
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf65c37db99934e0800000000000000
+      internalID: -2001399520419287076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_63
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1992
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df22d94123d945860800000000000000
+      internalID: 7517806516407968509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_64
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1930
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996579e621f8806d0800000000000000
+      internalID: -3024009840451692903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_65
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1930
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956f7d0ef86bfa00800000000000000
+      internalID: 791341599891088791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1958
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab18087f61e9200800000000000000
+      internalID: 188613486664858211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_67
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1958
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d89ca9aeda5710800000000000000
+      internalID: 1682902231102838792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_68
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1981
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9e7d3577802fc80800000000000000
+      internalID: -8290554655434872338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_69
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1939
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf711fe782b7d70800000000000000
+      internalID: 9041865202552274042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_70
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1930
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ef6bf6283e6aa70800000000000000
+      internalID: 8838001468120694430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_71
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1940
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e00a75c714803940800000000000000
+      internalID: 5273860401283072231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1939
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fed38cffd4cfd660800000000000000
+      internalID: 7412859977968377592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1947
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967b985b86dcb5470800000000000000
+      internalID: 8384520980886304617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_74
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1930
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e6224898748480800000000000000
+      internalID: -8897854368437050004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_75
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1929
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60d2cb006fb16100800000000000000
+      internalID: 99571086013943915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_76
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1929
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7827c3305bde63890800000000000000
+      internalID: -7478528769502973305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1738
+        width: 179
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9240e0622e7bd7d20800000000000000
+      internalID: 3277978285724533801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1738
+        width: 191
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2413a7e79871f8300800000000000000
+      internalID: 256449583083303234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1739
+        width: 189
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d829fa10d94f80800000000000000
+      internalID: -8121731638718049096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_80
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1739
+        width: 189
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f58f95e535c7a0800000000000000
+      internalID: -6357616038623447204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_81
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1739
+        width: 189
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227bd8e34baeb5020800000000000000
+      internalID: 2331715291958851362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_82
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1896
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa22e6a7daa86e40800000000000000
+      internalID: 5649953575730817697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_83
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1836
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea4051dd078d20c0800000000000000
+      internalID: -4598871151059383580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1547
+        width: 187
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0f223fcfcb3c1f0800000000000000
+      internalID: -1025768495513407258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1700
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84e96e29e7cdbd0800000000000000
+      internalID: -2604067315127531360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_86
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1538
+        width: 185
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37121697bccff9d00800000000000000
+      internalID: 981781194635026803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1694
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defcc0f3dfdfa8ba0800000000000000
+      internalID: -6085772682311446547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_88
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1538
+        width: 185
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d761d80eee92b53c0800000000000000
+      internalID: -4369852907486636419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_89
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1688
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8581d413d88427fc0800000000000000
+      internalID: -3498654189258729384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_90
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1539
+        width: 185
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c902c3cdbcbb21c80800000000000000
+      internalID: -8353407874571165540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_91
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1680
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55543637e7d6800a0800000000000000
+      internalID: -6915156837958204075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_92
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1539
+        width: 185
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2aebb024f4d3c00800000000000000
+      internalID: 881948247117963996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1347
+        width: 175
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9309811d6bf4839a0800000000000000
+      internalID: -6253160435993243591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1347
+        width: 172
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1106c4c7ffd119f40800000000000000
+      internalID: 5733396783758598161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_95
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1347
+        width: 166
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8818a90c581d6f0800000000000000
+      internalID: -661600607974356754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_96
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1347
+        width: 157
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98ac3ff32effd080800000000000000
+      internalID: -9160323686488823654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_97
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1348
+        width: 153
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89bb9e48e0cda650800000000000000
+      internalID: 6245860362216520078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_98
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1162
+        width: 145
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31e3103660a82790800000000000000
+      internalID: -7554612014160289478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_99
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1162
+        width: 144
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1885f6cc4740dd5f0800000000000000
+      internalID: -730422664871585663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_100
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1165
+        width: 143
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e97800b8d191f10800000000000000
+      internalID: 2240854772440079977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_101
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1169
+        width: 142
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a3e31df83c4070800000000000000
+      internalID: 8091905290089507324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_102
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1175
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc3d88d270032920800000000000000
+      internalID: 2964213472999324859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee98e8b821bbc310800000000000000
+      internalID: 1426428495451954922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 998
+        width: 136
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1952e0fcb02f7a150800000000000000
+      internalID: 5883937570715215249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_105
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 998
+        width: 136
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b78e7c76fe26280800000000000000
+      internalID: -9051409072046703738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_106
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1000
+        width: 136
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e6249447c971550800000000000000
+      internalID: 6131541440947449355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_107
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1003
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188713da07cf73cf0800000000000000
+      internalID: -272471691560388479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_108
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 808
+        width: 129
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5462244f3db005de0800000000000000
+      internalID: -1346563283619797435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_109
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 807
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afdb4a8630b6d5f0800000000000000
+      internalID: -732204141106176089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_110
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 812
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d7573b46b403e90800000000000000
+      internalID: -7048050520955192000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_111
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 912
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc06068ba6e940d0800000000000000
+      internalID: -3437963216158323508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_112
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 813
+        width: 116
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d840cfa19ac26ac0800000000000000
+      internalID: -3863302803262781229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_113
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 912
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5300937e846263310800000000000000
+      internalID: 1384336030021779509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_114
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 812
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d90e28c6684072e0800000000000000
+      internalID: -2130123017463920170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_115
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 891
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870595c5cbde790f0800000000000000
+      internalID: -1110157389864546184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_116
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 876
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a80ab9ae45e0d70800000000000000
+      internalID: 9011233271025011230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_117
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 877
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0634d2d05f06cd8f0800000000000000
+      internalID: -514429651822754976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_118
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 878
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac9f138697e74e00800000000000000
+      internalID: 1029045673508445357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_119
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 880
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee79b52a3ce2bdeb0800000000000000
+      internalID: -4694106768826198034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_120
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 881
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eee234a17c9d530800000000000000
+      internalID: 3880351469566619176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_121
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 690
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc2277a3fe4cd480800000000000000
+      internalID: -8873130357433422596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_122
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 619
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35bd44d82c0dc250800000000000000
+      internalID: 5966438450835862844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_123
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 691
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f2dab2c192a8d00800000000000000
+      internalID: 975637470247727002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_124
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 621
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b305ad410cb2aa6e0800000000000000
+      internalID: -1825598594961747909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_125
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 623
+        width: 127
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1671928a28f0d1bf0800000000000000
+      internalID: -352108142023600287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_126
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 621
+        width: 116
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2159c54cabedaad10800000000000000
+      internalID: 2137765866880406802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_127
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 690
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9a72e86a16a9d20800000000000000
+      internalID: 3286046246097627595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_128
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 619
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb65cbccf9eeb490800000000000000
+      internalID: -7728482638561448975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_129
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 431
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3be9987df47d2b10800000000000000
+      internalID: 1958350044974934847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_130
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 430
+        width: 124
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe849498c397c6b50800000000000000
+      internalID: 6587773655844473071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_131
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 433
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d763bb1164d1d10800000000000000
+      internalID: 2097910043393818011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_132
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7c7f55882b250a0800000000000000
+      internalID: -6894251780923209798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_133
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 433
+        width: 108
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d49abc674f39840800000000000000
+      internalID: 5229792383367466273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_134
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 433
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af52a93c2d6426b0800000000000000
+      internalID: -5322008822932152413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 501
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507b62f1ca0d6c530800000000000000
+      internalID: 3875013967074473733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_136
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 500
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc621a72d061868c0800000000000000
+      internalID: -4005927622790797621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_137
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 503
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb6c1c0f1baebc0800000000000000
+      internalID: -3752991691858593020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_138
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 485
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5349fb99d114fbe40800000000000000
+      internalID: 5674325650899440693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_139
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 242
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21faca03bb33e420800000000000000
+      internalID: 2658033845244981548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_140
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 244
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efa81badf8414900800000000000000
+      internalID: 666894474161991652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_141
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 248
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5026cabda9dd6e140800000000000000
+      internalID: 4748726514288976389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_142
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 311
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd69fd67507712d0800000000000000
+      internalID: -3308051880470811186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_143
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 303
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb4b841c521f0200800000000000000
+      internalID: 148357499417480120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_144
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 326
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294e4046e350f1c40800000000000000
+      internalID: 5485108636684706962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_145
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 309
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144122529b24bb950800000000000000
+      internalID: 6465835052979852353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_146
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 273
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfc33da389032be0800000000000000
+      internalID: -1503347389460394036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_147
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 312
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bb2cc8e88242150800000000000000
+      internalID: 5846842808945785666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_148
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 84
+        width: 74
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93cd275bc2a19ee0800000000000000
+      internalID: -1256043826834979937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_149
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 254
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c5199044d391650800000000000000
+      internalID: 6204057324107160676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_150
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 253
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d32c34b546844e0800000000000000
+      internalID: -1997236091597210218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_151
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 114
+        width: 84
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e1e8b14d90e640800000000000000
+      internalID: 5107254883038389907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_152
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 69
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d3d6b7b6c8934b0800000000000000
+      internalID: -5460178679949869701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_153
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72655968f680bab10800000000000000
+      internalID: 1993696535133902375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_154
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937eb405571862100800000000000000
+      internalID: 82895984011241273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_155
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 74
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ce0cdc923438060800000000000000
+      internalID: 6954476096414870574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_156
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a410a4308d4e4c20800000000000000
+      internalID: 3192574398886319271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_157
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 93
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06afff85b00cee10800000000000000
+      internalID: 2228156695446529547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_158
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 74
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7993f362d67b0c100800000000000000
+      internalID: 126302468987369879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60FPS_ASDark_05_Subdue_159
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 74
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f266c9914912910800000000000000
+      internalID: 1810891362898685744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      60FPS_ASDark_05_Subdue_0: -4750044482230432465
+      60FPS_ASDark_05_Subdue_1: -8978926990585110045
+      60FPS_ASDark_05_Subdue_10: 4641664032055769522
+      60FPS_ASDark_05_Subdue_100: 2240854772440079977
+      60FPS_ASDark_05_Subdue_101: 8091905290089507324
+      60FPS_ASDark_05_Subdue_102: 2964213472999324859
+      60FPS_ASDark_05_Subdue_103: 1426428495451954922
+      60FPS_ASDark_05_Subdue_104: 5883937570715215249
+      60FPS_ASDark_05_Subdue_105: -9051409072046703738
+      60FPS_ASDark_05_Subdue_106: 6131541440947449355
+      60FPS_ASDark_05_Subdue_107: -272471691560388479
+      60FPS_ASDark_05_Subdue_108: -1346563283619797435
+      60FPS_ASDark_05_Subdue_109: -732204141106176089
+      60FPS_ASDark_05_Subdue_11: 5852044972846718564
+      60FPS_ASDark_05_Subdue_110: -7048050520955192000
+      60FPS_ASDark_05_Subdue_111: -3437963216158323508
+      60FPS_ASDark_05_Subdue_112: -3863302803262781229
+      60FPS_ASDark_05_Subdue_113: 1384336030021779509
+      60FPS_ASDark_05_Subdue_114: -2130123017463920170
+      60FPS_ASDark_05_Subdue_115: -1110157389864546184
+      60FPS_ASDark_05_Subdue_116: 9011233271025011230
+      60FPS_ASDark_05_Subdue_117: -514429651822754976
+      60FPS_ASDark_05_Subdue_118: 1029045673508445357
+      60FPS_ASDark_05_Subdue_119: -4694106768826198034
+      60FPS_ASDark_05_Subdue_12: -5964303100684041765
+      60FPS_ASDark_05_Subdue_120: 3880351469566619176
+      60FPS_ASDark_05_Subdue_121: -8873130357433422596
+      60FPS_ASDark_05_Subdue_122: 5966438450835862844
+      60FPS_ASDark_05_Subdue_123: 975637470247727002
+      60FPS_ASDark_05_Subdue_124: -1825598594961747909
+      60FPS_ASDark_05_Subdue_125: -352108142023600287
+      60FPS_ASDark_05_Subdue_126: 2137765866880406802
+      60FPS_ASDark_05_Subdue_127: 3286046246097627595
+      60FPS_ASDark_05_Subdue_128: -7728482638561448975
+      60FPS_ASDark_05_Subdue_129: 1958350044974934847
+      60FPS_ASDark_05_Subdue_13: -8449833312441666062
+      60FPS_ASDark_05_Subdue_130: 6587773655844473071
+      60FPS_ASDark_05_Subdue_131: 2097910043393818011
+      60FPS_ASDark_05_Subdue_132: -6894251780923209798
+      60FPS_ASDark_05_Subdue_133: 5229792383367466273
+      60FPS_ASDark_05_Subdue_134: -5322008822932152413
+      60FPS_ASDark_05_Subdue_135: 3875013967074473733
+      60FPS_ASDark_05_Subdue_136: -4005927622790797621
+      60FPS_ASDark_05_Subdue_137: -3752991691858593020
+      60FPS_ASDark_05_Subdue_138: 5674325650899440693
+      60FPS_ASDark_05_Subdue_139: 2658033845244981548
+      60FPS_ASDark_05_Subdue_14: 6476207943974616568
+      60FPS_ASDark_05_Subdue_140: 666894474161991652
+      60FPS_ASDark_05_Subdue_141: 4748726514288976389
+      60FPS_ASDark_05_Subdue_142: -3308051880470811186
+      60FPS_ASDark_05_Subdue_143: 148357499417480120
+      60FPS_ASDark_05_Subdue_144: 5485108636684706962
+      60FPS_ASDark_05_Subdue_145: 6465835052979852353
+      60FPS_ASDark_05_Subdue_146: -1503347389460394036
+      60FPS_ASDark_05_Subdue_147: 5846842808945785666
+      60FPS_ASDark_05_Subdue_148: -1256043826834979937
+      60FPS_ASDark_05_Subdue_149: 6204057324107160676
+      60FPS_ASDark_05_Subdue_15: 4993845270526979328
+      60FPS_ASDark_05_Subdue_150: -1997236091597210218
+      60FPS_ASDark_05_Subdue_151: 5107254883038389907
+      60FPS_ASDark_05_Subdue_152: -5460178679949869701
+      60FPS_ASDark_05_Subdue_153: 1993696535133902375
+      60FPS_ASDark_05_Subdue_154: 82895984011241273
+      60FPS_ASDark_05_Subdue_155: 6954476096414870574
+      60FPS_ASDark_05_Subdue_156: 3192574398886319271
+      60FPS_ASDark_05_Subdue_157: 2228156695446529547
+      60FPS_ASDark_05_Subdue_158: 126302468987369879
+      60FPS_ASDark_05_Subdue_159: 1810891362898685744
+      60FPS_ASDark_05_Subdue_16: 512139968167047166
+      60FPS_ASDark_05_Subdue_17: -1221997794911994608
+      60FPS_ASDark_05_Subdue_18: -3185383196848648856
+      60FPS_ASDark_05_Subdue_19: -2350426714433661155
+      60FPS_ASDark_05_Subdue_2: -3048854219537148453
+      60FPS_ASDark_05_Subdue_20: 5737566945216669797
+      60FPS_ASDark_05_Subdue_21: 7691652576998986690
+      60FPS_ASDark_05_Subdue_22: 1035875529977386965
+      60FPS_ASDark_05_Subdue_23: 6359491175520518989
+      60FPS_ASDark_05_Subdue_24: 4962474225301324868
+      60FPS_ASDark_05_Subdue_25: -1936579865153165902
+      60FPS_ASDark_05_Subdue_26: -2008908918207039265
+      60FPS_ASDark_05_Subdue_27: -7578360083536664772
+      60FPS_ASDark_05_Subdue_28: 7690374337199860
+      60FPS_ASDark_05_Subdue_29: 3768995769048835827
+      60FPS_ASDark_05_Subdue_3: -4435207778030211401
+      60FPS_ASDark_05_Subdue_30: 648817727307149178
+      60FPS_ASDark_05_Subdue_31: -1655568757658274126
+      60FPS_ASDark_05_Subdue_32: 3572740223201103570
+      60FPS_ASDark_05_Subdue_33: 5070709356548016811
+      60FPS_ASDark_05_Subdue_34: -1176617881614482589
+      60FPS_ASDark_05_Subdue_35: -749226129527053925
+      60FPS_ASDark_05_Subdue_36: 2067275486456390573
+      60FPS_ASDark_05_Subdue_37: 2708564243936073962
+      60FPS_ASDark_05_Subdue_38: -2871218385062665165
+      60FPS_ASDark_05_Subdue_39: -1394324719237038951
+      60FPS_ASDark_05_Subdue_4: -950572757416332956
+      60FPS_ASDark_05_Subdue_40: 3134512581858259527
+      60FPS_ASDark_05_Subdue_41: 8033902069575341486
+      60FPS_ASDark_05_Subdue_42: 7047598122685845879
+      60FPS_ASDark_05_Subdue_43: 3242981110353346228
+      60FPS_ASDark_05_Subdue_44: 1921587495804184841
+      60FPS_ASDark_05_Subdue_45: 870686213297998042
+      60FPS_ASDark_05_Subdue_46: 9183819111038870511
+      60FPS_ASDark_05_Subdue_47: 128057759497933216
+      60FPS_ASDark_05_Subdue_48: -9211950724725782760
+      60FPS_ASDark_05_Subdue_49: 5300550508883063492
+      60FPS_ASDark_05_Subdue_5: 6666667799389540911
+      60FPS_ASDark_05_Subdue_50: 6957482328861031040
+      60FPS_ASDark_05_Subdue_51: -9017082309839614957
+      60FPS_ASDark_05_Subdue_52: 6854810422092960188
+      60FPS_ASDark_05_Subdue_53: -5773759125191106605
+      60FPS_ASDark_05_Subdue_54: 7257853225323420604
+      60FPS_ASDark_05_Subdue_55: 2123590035060262280
+      60FPS_ASDark_05_Subdue_56: 6243185369447325672
+      60FPS_ASDark_05_Subdue_57: 796332944031638140
+      60FPS_ASDark_05_Subdue_58: 8383025019682980749
+      60FPS_ASDark_05_Subdue_59: 6693716584125846214
+      60FPS_ASDark_05_Subdue_6: -5656302153859391396
+      60FPS_ASDark_05_Subdue_60: -7313604504975531391
+      60FPS_ASDark_05_Subdue_61: 5034782604086965272
+      60FPS_ASDark_05_Subdue_62: -2001399520419287076
+      60FPS_ASDark_05_Subdue_63: 7517806516407968509
+      60FPS_ASDark_05_Subdue_64: -3024009840451692903
+      60FPS_ASDark_05_Subdue_65: 791341599891088791
+      60FPS_ASDark_05_Subdue_66: 188613486664858211
+      60FPS_ASDark_05_Subdue_67: 1682902231102838792
+      60FPS_ASDark_05_Subdue_68: -8290554655434872338
+      60FPS_ASDark_05_Subdue_69: 9041865202552274042
+      60FPS_ASDark_05_Subdue_7: -7393517593753525744
+      60FPS_ASDark_05_Subdue_70: 8838001468120694430
+      60FPS_ASDark_05_Subdue_71: 5273860401283072231
+      60FPS_ASDark_05_Subdue_72: 7412859977968377592
+      60FPS_ASDark_05_Subdue_73: 8384520980886304617
+      60FPS_ASDark_05_Subdue_74: -8897854368437050004
+      60FPS_ASDark_05_Subdue_75: 99571086013943915
+      60FPS_ASDark_05_Subdue_76: -7478528769502973305
+      60FPS_ASDark_05_Subdue_77: 3277978285724533801
+      60FPS_ASDark_05_Subdue_78: 256449583083303234
+      60FPS_ASDark_05_Subdue_79: -8121731638718049096
+      60FPS_ASDark_05_Subdue_8: 2162690943653431735
+      60FPS_ASDark_05_Subdue_80: -6357616038623447204
+      60FPS_ASDark_05_Subdue_81: 2331715291958851362
+      60FPS_ASDark_05_Subdue_82: 5649953575730817697
+      60FPS_ASDark_05_Subdue_83: -4598871151059383580
+      60FPS_ASDark_05_Subdue_84: -1025768495513407258
+      60FPS_ASDark_05_Subdue_85: -2604067315127531360
+      60FPS_ASDark_05_Subdue_86: 981781194635026803
+      60FPS_ASDark_05_Subdue_87: -6085772682311446547
+      60FPS_ASDark_05_Subdue_88: -4369852907486636419
+      60FPS_ASDark_05_Subdue_89: -3498654189258729384
+      60FPS_ASDark_05_Subdue_9: 479783868643853770
+      60FPS_ASDark_05_Subdue_90: -8353407874571165540
+      60FPS_ASDark_05_Subdue_91: -6915156837958204075
+      60FPS_ASDark_05_Subdue_92: 881948247117963996
+      60FPS_ASDark_05_Subdue_93: -6253160435993243591
+      60FPS_ASDark_05_Subdue_94: 5733396783758598161
+      60FPS_ASDark_05_Subdue_95: -661600607974356754
+      60FPS_ASDark_05_Subdue_96: -9160323686488823654
+      60FPS_ASDark_05_Subdue_97: 6245860362216520078
+      60FPS_ASDark_05_Subdue_98: -7554612014160289478
+      60FPS_ASDark_05_Subdue_99: -730422664871585663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

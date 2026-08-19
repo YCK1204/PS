@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 0b828d4749103b444805ba0e5314c41b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8959142745302225283
+    second: Orb-Burst Horizontal_0
+  - first:
+      213: 3721061896470003079
+    second: Orb-Burst Horizontal_1
+  - first:
+      213: 9142730018518651572
+    second: Orb-Burst Horizontal_2
+  - first:
+      213: 8715961994165240431
+    second: Orb-Burst Horizontal_3
+  - first:
+      213: 8230996119160139870
+    second: Orb-Burst Horizontal_4
+  - first:
+      213: 3120164203228538907
+    second: Orb-Burst Horizontal_5
+  - first:
+      213: 5436750318019247462
+    second: Orb-Burst Horizontal_6
+  - first:
+      213: 3701302734934964394
+    second: Orb-Burst Horizontal_7
+  - first:
+      213: -951697107481899749
+    second: Orb-Burst Horizontal_8
+  - first:
+      213: 3030907102703798886
+    second: Orb-Burst Horizontal_9
+  - first:
+      213: -1140643625194805075
+    second: Orb-Burst Horizontal_10
+  - first:
+      213: 1787516798333145
+    second: Orb-Burst Horizontal_11
+  - first:
+      213: 5925311433029731450
+    second: Orb-Burst Horizontal_12
+  - first:
+      213: -7449724149169452040
+    second: Orb-Burst Horizontal_13
+  - first:
+      213: -5084046358939336167
+    second: Orb-Burst Horizontal_14
+  - first:
+      213: 1846020856658652092
+    second: Orb-Burst Horizontal_15
+  - first:
+      213: -661776951166059828
+    second: Orb-Burst Horizontal_16
+  - first:
+      213: 6117841779722690246
+    second: Orb-Burst Horizontal_17
+  - first:
+      213: -8646517915201477265
+    second: Orb-Burst Horizontal_18
+  - first:
+      213: 4935037724192206469
+    second: Orb-Burst Horizontal_19
+  - first:
+      213: 4116254216983759740
+    second: Orb-Burst Horizontal_20
+  - first:
+      213: -5077067545644704296
+    second: Orb-Burst Horizontal_21
+  - first:
+      213: 3039565903587739538
+    second: Orb-Burst Horizontal_22
+  - first:
+      213: 8484481606955998130
+    second: Orb-Burst Horizontal_23
+  - first:
+      213: 7864586776189049022
+    second: Orb-Burst Horizontal_24
+  - first:
+      213: 6453610354233610619
+    second: Orb-Burst Horizontal_25
+  - first:
+      213: 3629599179515624011
+    second: Orb-Burst Horizontal_26
+  - first:
+      213: -226189958861465095
+    second: Orb-Burst Horizontal_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 82
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e2e36042bbaa380800000000000000
+      internalID: -8959142745302225283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 86
+        width: 88
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df55e641ed3a330800000000000000
+      internalID: 3721061896470003079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 83
+        width: 194
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2da17f28081ee70800000000000000
+      internalID: 9142730018518651572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 93
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62460a214155f870800000000000000
+      internalID: 8715961994165240431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 87
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50b8265c5f5a3270800000000000000
+      internalID: 8230996119160139870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 87
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18a35ebfcc0d4b20800000000000000
+      internalID: 3120164203228538907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_6
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 93
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d770eeb97337b40800000000000000
+      internalID: 5436750318019247462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 98
+        width: 46
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8faf12a3bad5330800000000000000
+      internalID: 3701302734934964394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 92
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d46c6e584eac2f0800000000000000
+      internalID: -951697107481899749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 87
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4ed393f1ff0a20800000000000000
+      internalID: 3030907102703798886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_10
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 88
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da823f09aae9b20f0800000000000000
+      internalID: -1140643625194805075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 93
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d07bcfacb9560000800000000000000
+      internalID: 1787516798333145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 93
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a744c4dca5fea3250800000000000000
+      internalID: 5925311433029731450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_13
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 87
+        width: 50
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb0b1e4b534d9890800000000000000
+      internalID: -7449724149169452040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_14
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 93
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9128dc1e5c6d179b0800000000000000
+      internalID: -5084046358939336167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_15
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 98
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe91140326e9910800000000000000
+      internalID: 1846020856658652092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_16
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 93
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab4318e55e0d6f0800000000000000
+      internalID: -661776951166059828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_17
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 87
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce1a685fa0f6e450800000000000000
+      internalID: 6117841779722690246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_18
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 88
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f656d5074c5610880800000000000000
+      internalID: -8646517915201477265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_19
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 93
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee0a7c9a6cc7440800000000000000
+      internalID: 4935037724192206469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_20
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 87
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b4588c66fdf1930800000000000000
+      internalID: 4116254216983759740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_21
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 88
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddde2977f1aa89b0800000000000000
+      internalID: -5077067545644704296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_22
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 98
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2978cb2c515be2a20800000000000000
+      internalID: 3039565903587739538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_23
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 87
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb92fd911feeb570800000000000000
+      internalID: 8484481606955998130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_24
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 88
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb89bfb2100a42d60800000000000000
+      internalID: 7864586776189049022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_25
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 87
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7190eaac64df8950800000000000000
+      internalID: 6453610354233610619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_26
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 88
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4af31c293dee5230800000000000000
+      internalID: 3629599179515624011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Burst Horizontal_27
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 87
+        width: 551
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f95d4a4e696cdcf0800000000000000
+      internalID: -226189958861465095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb-Burst Horizontal_0: -8959142745302225283
+      Orb-Burst Horizontal_1: 3721061896470003079
+      Orb-Burst Horizontal_10: -1140643625194805075
+      Orb-Burst Horizontal_11: 1787516798333145
+      Orb-Burst Horizontal_12: 5925311433029731450
+      Orb-Burst Horizontal_13: -7449724149169452040
+      Orb-Burst Horizontal_14: -5084046358939336167
+      Orb-Burst Horizontal_15: 1846020856658652092
+      Orb-Burst Horizontal_16: -661776951166059828
+      Orb-Burst Horizontal_17: 6117841779722690246
+      Orb-Burst Horizontal_18: -8646517915201477265
+      Orb-Burst Horizontal_19: 4935037724192206469
+      Orb-Burst Horizontal_2: 9142730018518651572
+      Orb-Burst Horizontal_20: 4116254216983759740
+      Orb-Burst Horizontal_21: -5077067545644704296
+      Orb-Burst Horizontal_22: 3039565903587739538
+      Orb-Burst Horizontal_23: 8484481606955998130
+      Orb-Burst Horizontal_24: 7864586776189049022
+      Orb-Burst Horizontal_25: 6453610354233610619
+      Orb-Burst Horizontal_26: 3629599179515624011
+      Orb-Burst Horizontal_27: -226189958861465095
+      Orb-Burst Horizontal_3: 8715961994165240431
+      Orb-Burst Horizontal_4: 8230996119160139870
+      Orb-Burst Horizontal_5: 3120164203228538907
+      Orb-Burst Horizontal_6: 5436750318019247462
+      Orb-Burst Horizontal_7: 3701302734934964394
+      Orb-Burst Horizontal_8: -951697107481899749
+      Orb-Burst Horizontal_9: 3030907102703798886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

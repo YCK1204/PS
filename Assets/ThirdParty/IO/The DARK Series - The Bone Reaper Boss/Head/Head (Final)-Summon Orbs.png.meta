@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: ac2ea2ff81ed21948b0b516ead8e1e78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1186495083340488973
+    second: Head (Final)-Summon Orbs_0
+  - first:
+      213: -4176928439503059329
+    second: Head (Final)-Summon Orbs_1
+  - first:
+      213: 5985198331086019601
+    second: Head (Final)-Summon Orbs_2
+  - first:
+      213: 100004463813988990
+    second: Head (Final)-Summon Orbs_3
+  - first:
+      213: -3079793574706393074
+    second: Head (Final)-Summon Orbs_4
+  - first:
+      213: -5939810052153129577
+    second: Head (Final)-Summon Orbs_5
+  - first:
+      213: 2103400349667519800
+    second: Head (Final)-Summon Orbs_6
+  - first:
+      213: -6795304583590060687
+    second: Head (Final)-Summon Orbs_7
+  - first:
+      213: 5230593665175020538
+    second: Head (Final)-Summon Orbs_8
+  - first:
+      213: 5653596971177863671
+    second: Head (Final)-Summon Orbs_9
+  - first:
+      213: 7141935047504421976
+    second: Head (Final)-Summon Orbs_10
+  - first:
+      213: -5034944413237878153
+    second: Head (Final)-Summon Orbs_11
+  - first:
+      213: 4980971355468156216
+    second: Head (Final)-Summon Orbs_12
+  - first:
+      213: 1773516637838304684
+    second: Head (Final)-Summon Orbs_13
+  - first:
+      213: -9012219682442464871
+    second: Head (Final)-Summon Orbs_14
+  - first:
+      213: -4974015935667170956
+    second: Head (Final)-Summon Orbs_15
+  - first:
+      213: -3217459888449877427
+    second: Head (Final)-Summon Orbs_16
+  - first:
+      213: 7260663832673756999
+    second: Head (Final)-Summon Orbs_17
+  - first:
+      213: 5289710225272806019
+    second: Head (Final)-Summon Orbs_18
+  - first:
+      213: 1656107083971835379
+    second: Head (Final)-Summon Orbs_19
+  - first:
+      213: -5744827711843717156
+    second: Head (Final)-Summon Orbs_20
+  - first:
+      213: 1501011519255896807
+    second: Head (Final)-Summon Orbs_21
+  - first:
+      213: 8130927698477391590
+    second: Head (Final)-Summon Orbs_22
+  - first:
+      213: 2228493199656324334
+    second: Head (Final)-Summon Orbs_23
+  - first:
+      213: 7464578087252237237
+    second: Head (Final)-Summon Orbs_24
+  - first:
+      213: 2951324867146465849
+    second: Head (Final)-Summon Orbs_25
+  - first:
+      213: -5141329341699852085
+    second: Head (Final)-Summon Orbs_26
+  - first:
+      213: 6697873290877545
+    second: Head (Final)-Summon Orbs_27
+  - first:
+      213: 6292418664418782359
+    second: Head (Final)-Summon Orbs_28
+  - first:
+      213: -7273224554349275748
+    second: Head (Final)-Summon Orbs_29
+  - first:
+      213: 6240018453899404297
+    second: Head (Final)-Summon Orbs_30
+  - first:
+      213: -8163832996366411598
+    second: Head (Final)-Summon Orbs_31
+  - first:
+      213: -8915569771806994690
+    second: Head (Final)-Summon Orbs_32
+  - first:
+      213: 3885549735442433722
+    second: Head (Final)-Summon Orbs_33
+  - first:
+      213: -3211366896979403022
+    second: Head (Final)-Summon Orbs_34
+  - first:
+      213: 31010193459573107
+    second: Head (Final)-Summon Orbs_35
+  - first:
+      213: -9175935367349724605
+    second: Head (Final)-Summon Orbs_36
+  - first:
+      213: 2009046324802277978
+    second: Head (Final)-Summon Orbs_37
+  - first:
+      213: 1208589815893069686
+    second: Head (Final)-Summon Orbs_38
+  - first:
+      213: -1307128695211755285
+    second: Head (Final)-Summon Orbs_39
+  - first:
+      213: 8389829739175539530
+    second: Head (Final)-Summon Orbs_40
+  - first:
+      213: 1635709574039535342
+    second: Head (Final)-Summon Orbs_41
+  - first:
+      213: -8541593513318130767
+    second: Head (Final)-Summon Orbs_42
+  - first:
+      213: -5716239961314704636
+    second: Head (Final)-Summon Orbs_43
+  - first:
+      213: -6547763358349377411
+    second: Head (Final)-Summon Orbs_44
+  - first:
+      213: -2328628703785889137
+    second: Head (Final)-Summon Orbs_45
+  - first:
+      213: -6100541925206725265
+    second: Head (Final)-Summon Orbs_46
+  - first:
+      213: -5878490811951859639
+    second: Head (Final)-Summon Orbs_47
+  - first:
+      213: 5268852540989864595
+    second: Head (Final)-Summon Orbs_48
+  - first:
+      213: 6218563290241569956
+    second: Head (Final)-Summon Orbs_49
+  - first:
+      213: 5669933551027660996
+    second: Head (Final)-Summon Orbs_50
+  - first:
+      213: 5276099328640831843
+    second: Head (Final)-Summon Orbs_51
+  - first:
+      213: -1375312855209697316
+    second: Head (Final)-Summon Orbs_52
+  - first:
+      213: 779066126916732898
+    second: Head (Final)-Summon Orbs_53
+  - first:
+      213: -4983024143398455401
+    second: Head (Final)-Summon Orbs_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 13
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe1ebd0209b88fe0800000000000000
+      internalID: -1186495083340488973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 13
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76813fe6b19806c0800000000000000
+      internalID: -4176928439503059329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 13
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c94a2db22bf0350800000000000000
+      internalID: 5985198331086019601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_3
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 13
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72169da789436100800000000000000
+      internalID: 100004463813988990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_4
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 17
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00581eaf006245d0800000000000000
+      internalID: -3079793574706393074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_5
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7954e106a3e819da0800000000000000
+      internalID: -5939810052153129577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_6
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 93
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d6d564977c03d10800000000000000
+      internalID: 2103400349667519800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_7
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 90
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dd78afb7a32b1a0800000000000000
+      internalID: -6795304583590060687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_8
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 91
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af36a21c93dc69840800000000000000
+      internalID: 5230593665175020538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_9
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 90
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9e742cd7c957e40800000000000000
+      internalID: 5653596971177863671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_10
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 91
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854e96b06104d1360800000000000000
+      internalID: 7141935047504421976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_11
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 90
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7726e118bb8402ab0800000000000000
+      internalID: -5034944413237878153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_12
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 96
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d4317be07ff1540800000000000000
+      internalID: 4980971355468156216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_13
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 100
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5e8915cfbcc9810800000000000000
+      internalID: 1773516637838304684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_14
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 23
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991bb3692f92ee280800000000000000
+      internalID: -9012219682442464871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_15
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 23
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4711d672cdeb8fab0800000000000000
+      internalID: -4974015935667170956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_16
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a80ed37494953d0800000000000000
+      internalID: -3217459888449877427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_17
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 9
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747ab04894f03c460800000000000000
+      internalID: 7260663832673756999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_18
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a132e7c63d86940800000000000000
+      internalID: 5289710225272806019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_19
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 74
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f536225e9cabf610800000000000000
+      internalID: 1656107083971835379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_20
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 6
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf2cbb22a54640b0800000000000000
+      internalID: -5744827711843717156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_21
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 73
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e26409260aa4d410800000000000000
+      internalID: 1501011519255896807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_22
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 68
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee112a89abd6d070800000000000000
+      internalID: 8130927698477391590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_23
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 5
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec83ed02c23dee10800000000000000
+      internalID: 2228493199656324334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_24
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb95d8a832879760800000000000000
+      internalID: 7464578087252237237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_25
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932ca03745635f820800000000000000
+      internalID: 2951324867146465849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_26
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 7
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8ffa2243456a8b0800000000000000
+      internalID: -5141329341699852085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_27
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ad0462eabc71000800000000000000
+      internalID: 6697873290877545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_28
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 68
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c28b6cf69235750800000000000000
+      internalID: 6292418664418782359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_29
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 7
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95dc529dc0501b90800000000000000
+      internalID: -7273224554349275748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_30
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9046e8809bff89650800000000000000
+      internalID: 6240018453899404297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_31
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b897f5c42d34be80800000000000000
+      internalID: -8163832996366411598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_32
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efecb3d7788854480800000000000000
+      internalID: -8915569771806994690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_33
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6c82ad5ee3ce530800000000000000
+      internalID: 3885549735442433722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_34
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 68
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe181e52deee63d0800000000000000
+      internalID: -3211366896979403022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_35
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 6
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371f29d4b9b2e6000800000000000000
+      internalID: 31010193459573107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_36
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a1d2b466788a080800000000000000
+      internalID: -9175935367349724605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_37
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 74
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52d42fecf091eb10800000000000000
+      internalID: 2009046324802277978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_38
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 6
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f067fb806c5c010800000000000000
+      internalID: 1208589815893069686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_39
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 73
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8fe2e80652cdde0800000000000000
+      internalID: -1307128695211755285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_40
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43f09152b9ae6470800000000000000
+      internalID: 8389829739175539530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_41
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 7
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef454f03533b610800000000000000
+      internalID: 1635709574039535342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_42
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb54e674f9267980800000000000000
+      internalID: -8541593513318130767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_43
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 7
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403c1f68a06dba0b0800000000000000
+      internalID: -5716239961314704636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_44
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 7
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d704448caeba125a0800000000000000
+      internalID: -6547763358349377411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_45
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 8
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f825011188c0fafd0800000000000000
+      internalID: -2328628703785889137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_46
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 8
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6decaae075865ba0800000000000000
+      internalID: -6100541925206725265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_47
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 8
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948363a80c76b6ea0800000000000000
+      internalID: -5878490811951859639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_48
+      rect:
+        serializedVersion: 2
+        x: 4647
+        y: 7
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a7d9f6879be1940800000000000000
+      internalID: 5268852540989864595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_49
+      rect:
+        serializedVersion: 2
+        x: 4886
+        y: 7
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a412287d56cc4650800000000000000
+      internalID: 6218563290241569956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_50
+      rect:
+        serializedVersion: 2
+        x: 5131
+        y: 8
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8a2192686afae40800000000000000
+      internalID: 5669933551027660996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_51
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 16
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361505ba268783940800000000000000
+      internalID: 5276099328640831843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_52
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf9232be38e9ece0800000000000000
+      internalID: -1375312855209697316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_53
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74967c38ccfca00800000000000000
+      internalID: 779066126916732898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head (Final)-Summon Orbs_54
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7973a8951fdb8dab0800000000000000
+      internalID: -4983024143398455401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Head (Final)-Summon Orbs_0: -1186495083340488973
+      Head (Final)-Summon Orbs_1: -4176928439503059329
+      Head (Final)-Summon Orbs_10: 7141935047504421976
+      Head (Final)-Summon Orbs_11: -5034944413237878153
+      Head (Final)-Summon Orbs_12: 4980971355468156216
+      Head (Final)-Summon Orbs_13: 1773516637838304684
+      Head (Final)-Summon Orbs_14: -9012219682442464871
+      Head (Final)-Summon Orbs_15: -4974015935667170956
+      Head (Final)-Summon Orbs_16: -3217459888449877427
+      Head (Final)-Summon Orbs_17: 7260663832673756999
+      Head (Final)-Summon Orbs_18: 5289710225272806019
+      Head (Final)-Summon Orbs_19: 1656107083971835379
+      Head (Final)-Summon Orbs_2: 5985198331086019601
+      Head (Final)-Summon Orbs_20: -5744827711843717156
+      Head (Final)-Summon Orbs_21: 1501011519255896807
+      Head (Final)-Summon Orbs_22: 8130927698477391590
+      Head (Final)-Summon Orbs_23: 2228493199656324334
+      Head (Final)-Summon Orbs_24: 7464578087252237237
+      Head (Final)-Summon Orbs_25: 2951324867146465849
+      Head (Final)-Summon Orbs_26: -5141329341699852085
+      Head (Final)-Summon Orbs_27: 6697873290877545
+      Head (Final)-Summon Orbs_28: 6292418664418782359
+      Head (Final)-Summon Orbs_29: -7273224554349275748
+      Head (Final)-Summon Orbs_3: 100004463813988990
+      Head (Final)-Summon Orbs_30: 6240018453899404297
+      Head (Final)-Summon Orbs_31: -8163832996366411598
+      Head (Final)-Summon Orbs_32: -8915569771806994690
+      Head (Final)-Summon Orbs_33: 3885549735442433722
+      Head (Final)-Summon Orbs_34: -3211366896979403022
+      Head (Final)-Summon Orbs_35: 31010193459573107
+      Head (Final)-Summon Orbs_36: -9175935367349724605
+      Head (Final)-Summon Orbs_37: 2009046324802277978
+      Head (Final)-Summon Orbs_38: 1208589815893069686
+      Head (Final)-Summon Orbs_39: -1307128695211755285
+      Head (Final)-Summon Orbs_4: -3079793574706393074
+      Head (Final)-Summon Orbs_40: 8389829739175539530
+      Head (Final)-Summon Orbs_41: 1635709574039535342
+      Head (Final)-Summon Orbs_42: -8541593513318130767
+      Head (Final)-Summon Orbs_43: -5716239961314704636
+      Head (Final)-Summon Orbs_44: -6547763358349377411
+      Head (Final)-Summon Orbs_45: -2328628703785889137
+      Head (Final)-Summon Orbs_46: -6100541925206725265
+      Head (Final)-Summon Orbs_47: -5878490811951859639
+      Head (Final)-Summon Orbs_48: 5268852540989864595
+      Head (Final)-Summon Orbs_49: 6218563290241569956
+      Head (Final)-Summon Orbs_5: -5939810052153129577
+      Head (Final)-Summon Orbs_50: 5669933551027660996
+      Head (Final)-Summon Orbs_51: 5276099328640831843
+      Head (Final)-Summon Orbs_52: -1375312855209697316
+      Head (Final)-Summon Orbs_53: 779066126916732898
+      Head (Final)-Summon Orbs_54: -4983024143398455401
+      Head (Final)-Summon Orbs_6: 2103400349667519800
+      Head (Final)-Summon Orbs_7: -6795304583590060687
+      Head (Final)-Summon Orbs_8: 5230593665175020538
+      Head (Final)-Summon Orbs_9: 5653596971177863671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

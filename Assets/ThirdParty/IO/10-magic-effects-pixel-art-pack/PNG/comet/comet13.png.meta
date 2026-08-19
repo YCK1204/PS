@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: d0b154d19bfbbb841b62766f29b06c69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3410230744554225465
+    second: comet13_0
+  - first:
+      213: 7934186980846509463
+    second: comet13_1
+  - first:
+      213: 5843446471410087555
+    second: comet13_2
+  - first:
+      213: -8431229329163096156
+    second: comet13_3
+  - first:
+      213: -344844834944059496
+    second: comet13_4
+  - first:
+      213: -5152687038802748471
+    second: comet13_5
+  - first:
+      213: 3418231191270193951
+    second: comet13_6
+  - first:
+      213: 6706683428664674819
+    second: comet13_7
+  - first:
+      213: 675842841901647737
+    second: comet13_8
+  - first:
+      213: -3032926731986244925
+    second: comet13_9
+  - first:
+      213: 9168183128873284960
+    second: comet13_10
+  - first:
+      213: -8013882004442613678
+    second: comet13_11
+  - first:
+      213: -8892136298880416401
+    second: comet13_12
+  - first:
+      213: -6417196384520149633
+    second: comet13_13
+  - first:
+      213: -8520198650248587797
+    second: comet13_14
+  - first:
+      213: -3261384849563750772
+    second: comet13_15
+  - first:
+      213: 3498986407019333166
+    second: comet13_16
+  - first:
+      213: -5203749673580407188
+    second: comet13_17
+  - first:
+      213: 8926930300488122520
+    second: comet13_18
+  - first:
+      213: 4978022288739982264
+    second: comet13_19
+  - first:
+      213: 3588197597650089256
+    second: comet13_20
+  - first:
+      213: 4160960753580709433
+    second: comet13_21
+  - first:
+      213: -2990489318995362743
+    second: comet13_22
+  - first:
+      213: 6305274003630648840
+    second: comet13_23
+  - first:
+      213: 6273774538698970039
+    second: comet13_24
+  - first:
+      213: 9114866022893667066
+    second: comet13_25
+  - first:
+      213: -4369122560005999585
+    second: comet13_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: comet13_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 76
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0cabcb43d6ca0d0800000000000000
+      internalID: -3410230744554225465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 79
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d92ee9505eb1e60800000000000000
+      internalID: 7934186980846509463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 78
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38678681b97181150800000000000000
+      internalID: 5843446471410087555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afe06f78914efa80800000000000000
+      internalID: -8431229329163096156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 85
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f78e137dd63bf0800000000000000
+      internalID: -344844834944059496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 86
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1765307afd78b0800000000000000
+      internalID: -5152687038802748471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 84
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bf1db682fff6f20800000000000000
+      internalID: 3418231191270193951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 83
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a8e8a7b0de21d50800000000000000
+      internalID: 6706683428664674819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 78
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977c983eb73116900800000000000000
+      internalID: 675842841901647737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 68
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca6c26d431e8e5d0800000000000000
+      internalID: -3032926731986244925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 71
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065b8380bfdeb3f70800000000000000
+      internalID: 9168183128873284960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 77
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2587d4db6c8f8c090800000000000000
+      internalID: -8013882004442613678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 75
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6540e21629c89480800000000000000
+      internalID: -8892136298880416401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 71
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7561c653e981f6a0800000000000000
+      internalID: -6417196384520149633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be59b24387c22c980800000000000000
+      internalID: -8520198650248587797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 51
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e69e542cb3db2d0800000000000000
+      internalID: -3261384849563750772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 62
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26ce484995ee8030800000000000000
+      internalID: 3498986407019333166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 52
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665f261e3198c7b0800000000000000
+      internalID: -5203749673580407188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 45
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8900447bfc3d2eb70800000000000000
+      internalID: 8926930300488122520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbd25c95ec751540800000000000000
+      internalID: 4978022288739982264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 26
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825f7d734b6dbc130800000000000000
+      internalID: 3588197597650089256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 48
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936158972c3beb930800000000000000
+      internalID: 4160960753580709433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c7ea40fc5af76d0800000000000000
+      internalID: -2990489318995362743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 9
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ee8edac45d08750800000000000000
+      internalID: 6305274003630648840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3da0cf3bce01750800000000000000
+      internalID: 6273774538698970039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2caddea528e7e70800000000000000
+      internalID: 9114866022893667066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet13_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 28
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1472b62e22cd53c0800000000000000
+      internalID: -4369122560005999585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      comet13_0: -3410230744554225465
+      comet13_1: 7934186980846509463
+      comet13_10: 9168183128873284960
+      comet13_11: -8013882004442613678
+      comet13_12: -8892136298880416401
+      comet13_13: -6417196384520149633
+      comet13_14: -8520198650248587797
+      comet13_15: -3261384849563750772
+      comet13_16: 3498986407019333166
+      comet13_17: -5203749673580407188
+      comet13_18: 8926930300488122520
+      comet13_19: 4978022288739982264
+      comet13_2: 5843446471410087555
+      comet13_20: 3588197597650089256
+      comet13_21: 4160960753580709433
+      comet13_22: -2990489318995362743
+      comet13_23: 6305274003630648840
+      comet13_24: 6273774538698970039
+      comet13_25: 9114866022893667066
+      comet13_26: -4369122560005999585
+      comet13_3: -8431229329163096156
+      comet13_4: -344844834944059496
+      comet13_5: -5152687038802748471
+      comet13_6: 3418231191270193951
+      comet13_7: 6706683428664674819
+      comet13_8: 675842841901647737
+      comet13_9: -3032926731986244925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

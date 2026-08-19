@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 1de3fae4fcd64b44e8e03e263f4e9249
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3209239795389205609
+    second: Orb-Idle_0
+  - first:
+      213: -7970465732189622670
+    second: Orb-Idle_1
+  - first:
+      213: 6026599087898995252
+    second: Orb-Idle_2
+  - first:
+      213: 1184559408339495733
+    second: Orb-Idle_3
+  - first:
+      213: 1871044165686231045
+    second: Orb-Idle_4
+  - first:
+      213: -3760046024759876017
+    second: Orb-Idle_5
+  - first:
+      213: 1595686928366238529
+    second: Orb-Idle_6
+  - first:
+      213: -1699914346803935684
+    second: Orb-Idle_7
+  - first:
+      213: 2715759024021635242
+    second: Orb-Idle_8
+  - first:
+      213: -2595011852394262887
+    second: Orb-Idle_9
+  - first:
+      213: 4019493418402905362
+    second: Orb-Idle_10
+  - first:
+      213: -8173249190155209831
+    second: Orb-Idle_11
+  - first:
+      213: -1476680905816603181
+    second: Orb-Idle_12
+  - first:
+      213: -7632735518331501740
+    second: Orb-Idle_13
+  - first:
+      213: -6420988828324544766
+    second: Orb-Idle_14
+  - first:
+      213: 7791470028905783313
+    second: Orb-Idle_15
+  - first:
+      213: -7333167102614344974
+    second: Orb-Idle_16
+  - first:
+      213: -6050377904896089520
+    second: Orb-Idle_17
+  - first:
+      213: 1711241869812880725
+    second: Orb-Idle_18
+  - first:
+      213: -23682632839313994
+    second: Orb-Idle_19
+  - first:
+      213: 8751478572181149297
+    second: Orb-Idle_20
+  - first:
+      213: -2412981758816577136
+    second: Orb-Idle_21
+  - first:
+      213: 7387900187436744296
+    second: Orb-Idle_22
+  - first:
+      213: -956469342170532192
+    second: Orb-Idle_23
+  - first:
+      213: 8842592394811841774
+    second: Orb-Idle_24
+  - first:
+      213: -7944252109041963354
+    second: Orb-Idle_25
+  - first:
+      213: 3470365777101703878
+    second: Orb-Idle_26
+  - first:
+      213: 3722350838267747019
+    second: Orb-Idle_27
+  - first:
+      213: 6944354387013149559
+    second: Orb-Idle_28
+  - first:
+      213: -4669341759383232069
+    second: Orb-Idle_29
+  - first:
+      213: 1380506244810989432
+    second: Orb-Idle_30
+  - first:
+      213: 3665704173309825186
+    second: Orb-Idle_31
+  - first:
+      213: -5756112706957258438
+    second: Orb-Idle_32
+  - first:
+      213: -5895883940905964141
+    second: Orb-Idle_33
+  - first:
+      213: -3965029511280765565
+    second: Orb-Idle_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 24
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c88333792898c20800000000000000
+      internalID: 3209239795389205609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 145
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ee96a55a7336190800000000000000
+      internalID: -7970465732189622670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 111
+        width: 7
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aa9eda0f7c2a350800000000000000
+      internalID: 6026599087898995252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 168
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b2c6d7186607010800000000000000
+      internalID: 1184559408339495733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 166
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5008bc661c847f910800000000000000
+      internalID: 1871044165686231045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 174
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f466113ef02a1dbc0800000000000000
+      internalID: -3760046024759876017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1
+        width: 593
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf00a9ec4052610800000000000000
+      internalID: 1595686928366238529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 133
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36492a78e0b868e0800000000000000
+      internalID: -1699914346803935684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 146
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00f52917050b520800000000000000
+      internalID: 2715759024021635242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 52
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e8c1e187aacfbd0800000000000000
+      internalID: -2595011852394262887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 77
+        width: 6
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dfce4c7fb18c730800000000000000
+      internalID: 4019493418402905362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 89
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993bc005a29c29e80800000000000000
+      internalID: -8173249190155209831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 128
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5033a3a86c18be0800000000000000
+      internalID: -1476680905816603181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 82
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453085d6c73131690800000000000000
+      internalID: -7632735518331501740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fb6f43ea014e6a0800000000000000
+      internalID: -6420988828324544766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 82
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1102807d5bcd02c60800000000000000
+      internalID: 7791470028905783313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_16
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa671a7f5b5b3a90800000000000000
+      internalID: -7333167102614344974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 82
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052ebcd0a5db80ca0800000000000000
+      internalID: -6050377904896089520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555d8fef96d8fb710800000000000000
+      internalID: 1711241869812880725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 82
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5444a55ccdbaff0800000000000000
+      internalID: -23682632839313994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 83
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176dc42e46f737970800000000000000
+      internalID: 8751478572181149297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 58
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0999d38ffdd538ed0800000000000000
+      internalID: -2412981758816577136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_22
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 55
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e7534e318178660800000000000000
+      internalID: 7387900187436744296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_23
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 0
+        width: 7
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6bf5d6330f9b2f0800000000000000
+      internalID: -956469342170532192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_24
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 30
+        width: 6
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec945adee237ba70800000000000000
+      internalID: 8842592394811841774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_25
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 56
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aee76a1cc850c190800000000000000
+      internalID: -7944252109041963354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_26
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 39
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cac1d89947392030800000000000000
+      internalID: 3470365777101703878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_27
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca93549d5278a330800000000000000
+      internalID: 3722350838267747019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_28
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 42
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732850b58d4f5060800000000000000
+      internalID: 6944354387013149559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_29
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 25
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a019b86a233fb0800000000000000
+      internalID: -4669341759383232069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_30
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 5
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fda2c8d1b882310800000000000000
+      internalID: 1380506244810989432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_31
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 3
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a09ccd16823fd230800000000000000
+      internalID: 3665704173309825186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_32
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 2
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3153be7dfd2e10b0800000000000000
+      internalID: -5756112706957258438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_33
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dae512bcc9d2ea0800000000000000
+      internalID: -5895883940905964141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb-Idle_34
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855b28caa269f8c0800000000000000
+      internalID: -3965029511280765565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb-Idle_0: 3209239795389205609
+      Orb-Idle_1: -7970465732189622670
+      Orb-Idle_10: 4019493418402905362
+      Orb-Idle_11: -8173249190155209831
+      Orb-Idle_12: -1476680905816603181
+      Orb-Idle_13: -7632735518331501740
+      Orb-Idle_14: -6420988828324544766
+      Orb-Idle_15: 7791470028905783313
+      Orb-Idle_16: -7333167102614344974
+      Orb-Idle_17: -6050377904896089520
+      Orb-Idle_18: 1711241869812880725
+      Orb-Idle_19: -23682632839313994
+      Orb-Idle_2: 6026599087898995252
+      Orb-Idle_20: 8751478572181149297
+      Orb-Idle_21: -2412981758816577136
+      Orb-Idle_22: 7387900187436744296
+      Orb-Idle_23: -956469342170532192
+      Orb-Idle_24: 8842592394811841774
+      Orb-Idle_25: -7944252109041963354
+      Orb-Idle_26: 3470365777101703878
+      Orb-Idle_27: 3722350838267747019
+      Orb-Idle_28: 6944354387013149559
+      Orb-Idle_29: -4669341759383232069
+      Orb-Idle_3: 1184559408339495733
+      Orb-Idle_30: 1380506244810989432
+      Orb-Idle_31: 3665704173309825186
+      Orb-Idle_32: -5756112706957258438
+      Orb-Idle_33: -5895883940905964141
+      Orb-Idle_34: -3965029511280765565
+      Orb-Idle_4: 1871044165686231045
+      Orb-Idle_5: -3760046024759876017
+      Orb-Idle_6: 1595686928366238529
+      Orb-Idle_7: -1699914346803935684
+      Orb-Idle_8: 2715759024021635242
+      Orb-Idle_9: -2595011852394262887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
