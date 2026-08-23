@@ -17,6 +17,7 @@ namespace PS.UI
         public static readonly Color Accent    = Hex("#F0C674");
         public static readonly Color AccentInk = Hex("#12141C");
         public static readonly Color Danger    = Hex("#E56C6C");
+        public static readonly Color Glyph     = Hex("#A78BFA");
 
         public static Color Hex(string hex)
             => ColorUtility.TryParseHtmlString(hex, out Color c) ? c : Color.magenta;
