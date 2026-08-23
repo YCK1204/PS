@@ -112,3 +112,7 @@ InitTestScene*.unity*
 Docs/
 UIElementsSchema/
 .mcp.json
+
+# QA 스크린샷 — upipe의 save_path가 Assets/ 기준이라 여기로 떨어진다
+Assets/Docs/
+Assets/Docs.meta
