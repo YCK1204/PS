@@ -39,6 +39,11 @@ namespace PS.Game.Inventory
         /// <summary>격자·포션·활성 단어 중 뭐라도 바뀌면 발행. UI는 이것만 듣는다.</summary>
         public event Action Changed;
 
+        /// <summary>단어가 켜졌다. 강화도만 바뀐 경우도 Disabled 후 Enabled로 온다.
+        /// 모델은 효과가 뭔지 모른다 — 씬 쪽(WordEffectHost)이 구독해서 처리한다.</summary>
+        public event Action<WordData, int> WordEnabled;
+        public event Action<WordData, int> WordDisabled;
+
         public InventoryState(InventoryGrid grid, WordScanner scanner, int potionSlots)
         {
             Grid = grid;
@@ -233,14 +238,14 @@ namespace PS.Game.Inventory
             {
                 WordMatch next;
                 if (m_Next.TryGetValue(pair.Key, out next) && next.Enhancement == pair.Value.Enhancement) continue;
-                if (pair.Value.Word != null) pair.Value.Word.OnDisableWordEffect(pair.Value);
+                if (pair.Value.Word != null) WordDisabled?.Invoke(pair.Value.Word, pair.Value.Enhancement);
             }
 
             foreach (KeyValuePair<int, WordMatch> pair in m_Next)
             {
                 WordMatch prev;
                 if (m_Previous.TryGetValue(pair.Key, out prev) && prev.Enhancement == pair.Value.Enhancement) continue;
-                if (pair.Value.Word != null) pair.Value.Word.OnEnableWordEffect(pair.Value);
+                if (pair.Value.Word != null) WordEnabled?.Invoke(pair.Value.Word, pair.Value.Enhancement);
             }
 
             Dictionary<int, WordMatch> swap = m_Previous;

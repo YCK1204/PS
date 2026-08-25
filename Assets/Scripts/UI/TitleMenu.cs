@@ -13,8 +13,12 @@ namespace PS.UI
         public SettingsPanel SettingsPanel;
         public GameObject MenuRoot;
 
+        [Tooltip("게임 시작이 이동할 씬")]
+        public string StartScene = SceneRouter.Battle;
+
         void Awake()
         {
+            if (StartButton != null) StartButton.onClick.AddListener(StartGame);
             if (SettingsButton != null) SettingsButton.onClick.AddListener(OpenSettings);
             if (QuitButton != null) QuitButton.onClick.AddListener(Quit);
             if (SettingsPanel != null)
@@ -25,6 +29,8 @@ namespace PS.UI
             GameSettings.Apply();
         }
 
+
+        public void StartGame() => SceneRouter.Load(StartScene);
 
         public void OpenSettings()
         {

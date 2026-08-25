@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.Controls;
 
 namespace PS.Core
 {
@@ -28,6 +30,73 @@ namespace PS.Core
         public static bool  ShowTimer     { get => GetB("showTimer", false);   set => SetB("showTimer", value); }
 
         public static readonly int[] FrameRateOptions = { 0, 30, 60, 120, 144, 240 };
+
+        // --- Controls ---
+        static readonly Key[] s_DefaultKeys =
+        {
+            Key.A,          // MoveLeft
+            Key.D,          // MoveRight
+            Key.Space,      // Jump
+            Key.LeftShift,  // Dash
+            Key.J,          // Attack
+            Key.Tab,        // Inventory
+        };
+
+        static readonly string[] s_ActionLabels = { "왼쪽", "오른쪽", "점프", "대시", "공격", "인벤토리" };
+
+        /// <summary>키가 바뀌었을 때. 입력 쪽이 받아서 다시 읽는다.</summary>
+        public static event System.Action KeysChanged;
+
+        public static string LabelOf(GameAction action) => s_ActionLabels[(int)action];
+
+        public static Key DefaultKey(GameAction action) => s_DefaultKeys[(int)action];
+
+        public static Key GetKey(GameAction action)
+        {
+            int stored = GetI("key." + action, (int)s_DefaultKeys[(int)action]);
+            return System.Enum.IsDefined(typeof(Key), stored) ? (Key)stored : s_DefaultKeys[(int)action];
+        }
+
+        /// <summary>이미 그 키를 쓰는 동작이 있으면 서로 자리를 바꾼다. 충돌로 조작이 죽지 않게.</summary>
+        public static void SetKey(GameAction action, Key key)
+        {
+            if (key == Key.None || key == Key.Escape) return;
+
+            Key old = GetKey(action);
+            if (old == key) return;
+
+            foreach (GameAction other in System.Enum.GetValues(typeof(GameAction)))
+            {
+                if (other == action) continue;
+                if (GetKey(other) != key) continue;
+                SetI("key." + other, (int)old);
+            }
+
+            SetI("key." + action, (int)key);
+            KeysChanged?.Invoke();
+        }
+
+        /// <summary>키보드 배열에 맞는 표시 이름. 없으면 열거자 이름.</summary>
+        public static string KeyLabel(Key key)
+        {
+            Keyboard keyboard = Keyboard.current;
+            if (keyboard != null && key != Key.None)
+            {
+                KeyControl control = keyboard[key];
+                if (control != null && !string.IsNullOrEmpty(control.displayName))
+                    return control.displayName.ToUpperInvariant();
+            }
+
+            return key.ToString();
+        }
+
+        public static void ResetKeys()
+        {
+            foreach (GameAction action in System.Enum.GetValues(typeof(GameAction)))
+                SetI("key." + action, (int)s_DefaultKeys[(int)action]);
+
+            KeysChanged?.Invoke();
+        }
 
         /// <summary>볼륨이 바뀌었을 때 AudioRouter가 받아가는 신호.</summary>
         public static event System.Action AudioChanged;
@@ -79,6 +148,7 @@ namespace PS.Core
             MasterVolume = 0.8f; BgmVolume = 0.7f; SfxVolume = 0.9f; MuteOnFocusLoss = true;
             ResolutionIndex = -1; DisplayMode = 1; VSync = true; FrameRateCap = 0;
             Language = 0; ScreenShake = 1f; DamageNumbers = true; ShowTimer = false;
+            ResetKeys();
             Save();
         }
 

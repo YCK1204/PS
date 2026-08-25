@@ -20,6 +20,13 @@ namespace PS.UI
         /// <summary>패널이 하나라도 열려 있는가. 게임플레이 입력을 막을 때 쓴다.</summary>
         public static bool AnyOpen => s_Panels.Count > 0;
 
+        /// <summary>키 재설정처럼 ESC를 다른 데서 먹어야 할 때 켠다.</summary>
+        public static bool SuppressEscape { get; set; }
+
+        /// <summary>아무것도 안 열린 상태에서 ESC를 눌렀을 때. 게임 중 메뉴 열기에 쓴다.
+        /// UIStack이 ESC를 독점하므로 바깥에서 직접 듣지 말고 이걸 구독한다.</summary>
+        public static event System.Action EscapeOnEmpty;
+
         public static void Push(UIPanel panel)
         {
             if (panel == null || s_Panels.Contains(panel)) return;
@@ -58,7 +65,8 @@ namespace PS.UI
                 if (s_Panels[i] == null || !s_Panels[i].IsOpen) s_Panels.RemoveAt(i);
         }
 
-        static void EnsureRunner()
+        /// <summary>ESC를 들으려면 러너가 있어야 한다. 패널을 한 번도 안 연 씬에서 직접 부른다.</summary>
+        public static void EnsureRunner()
         {
             if (s_Runner != null) return;
             var go = new GameObject("[UIStack]");
@@ -70,7 +78,9 @@ namespace PS.UI
         {
             Keyboard kb = Keyboard.current;
             if (kb == null || !kb.escapeKey.wasPressedThisFrame) return;
-            CloseTop();
+            if (SuppressEscape) return;
+
+            if (!CloseTop()) EscapeOnEmpty?.Invoke();
         }
 
         void OnDestroy()
@@ -84,6 +94,8 @@ namespace PS.UI
         {
             s_Panels.Clear();
             s_Runner = null;
+            SuppressEscape = false;
+            EscapeOnEmpty = null;
         }
     }
 }

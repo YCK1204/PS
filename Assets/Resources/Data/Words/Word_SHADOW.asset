@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 601a3c2144ca8b44eb1ba7b867f488dc, type: 3}
+  m_Script: {fileID: 11500000, guid: 2e8cab0562f14a34a9e3499ef79d019d, type: 3}
   m_Name: Word_SHADOW
   m_EditorClassIdentifier: 
   m_Id: 5
   m_Word: SHADOW
   m_MaxEnhancement: 0
-  m_LogToggle: 1
+  m_Effects: []

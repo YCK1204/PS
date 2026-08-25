@@ -1,9 +1,11 @@
-using PS.Game.Inventory;
 using UnityEngine;
 
 namespace SO
 {
-    public abstract class WordData : ScriptableObject
+    /// <summary>단어 하나. 효과는 상속이 아니라 조립으로 붙인다 —
+    /// 같은 효과 에셋을 여러 단어가 나눠 쓰고, 한 단어에 여러 개를 얹을 수 있다.</summary>
+    [CreateAssetMenu(menuName = "PS/Word", fileName = "Word_")]
+    public class WordData : ScriptableObject
     {
         [SerializeField] private int m_Id;
         public int Id => m_Id;
@@ -20,10 +22,10 @@ namespace SO
         [SerializeField] private int m_MaxEnhancement;
         public int MaxEnhancement => m_MaxEnhancement;
 
-        /// <summary>단어가 성립한 순간. match로 강화도·위치를 알 수 있다.</summary>
-        public abstract void OnEnableWordEffect(in WordMatch match);
+        [Tooltip("켜졌을 때 캐릭터에 걸릴 것들")]
+        [SerializeField] private WordEffect[] m_Effects;
 
-        /// <summary>단어가 깨진 순간. 강화도만 바뀐 경우도 Disable 후 Enable로 온다.</summary>
-        public abstract void OnDisableWordEffect(in WordMatch match);
+        public int EffectCount => m_Effects != null ? m_Effects.Length : 0;
+        public WordEffect EffectAt(int index) => m_Effects[index];
     }
 }

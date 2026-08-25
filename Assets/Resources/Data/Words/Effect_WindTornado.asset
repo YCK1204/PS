@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3fc077e079a922449bb8ed4279c365f, type: 3}
+  m_Name: Effect_WindTornado
+  m_EditorClassIdentifier: 
+  m_Description: "\uD718\uB450\uB97C \uB54C\uB9C8\uB2E4 \uD68C\uC624\uB9AC\uAC00
+    \uC55E\uC73C\uB85C \uB098\uAC04\uB2E4"
+  m_Prefab: {fileID: 1858585245692184114, guid: 1f8d07f7f6f60844bb25e02f301546de, type: 3}
+  m_Offset: {x: 0.7, y: 0.05}
+  m_Speed: 7
+  m_SpeedPerLevel: 0.4
+  m_Damage: 5
+  m_DamagePerLevel: 2
+  m_MaxHits: 3
+  m_MaxHitsPerLevel: 0
+  m_Element: 4

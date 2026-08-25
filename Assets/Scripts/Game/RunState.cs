@@ -16,6 +16,9 @@ namespace PS.Game
 
         [SerializeField] private PS.UI.Inventory m_InventoryPanel;
 
+        [Tooltip("격자에서 켜진 단어를 받을 캐릭터. 없으면 효과가 아무 데도 안 걸린다")]
+        [SerializeField] private PS.Game.Words.WordEffectHost m_Player;
+
         [Header("격자")]
         [SerializeField] private int m_GridWidth = 8;
         [SerializeField] private int m_GridHeight = 4;
@@ -47,11 +50,17 @@ namespace PS.Game
             FillDebugLetters(grid);
             PlaceDebugGlyphs();
 
+            Debug.Log($"[RunState] 단어 {Words.Count}개 · 글자 {Letters.Count}개 · 격자 {grid.Width}x{grid.Height}");
+        }
+
+        /// <summary>바인딩은 Start에서. Awake에 두면 캐릭터 부품(Combat 등)이 아직 안 붙어 있어
+        /// 단어 효과가 조용히 씹힌다.</summary>
+        private void Start()
+        {
             if (m_InventoryPanel != null) m_InventoryPanel.Bind(Inventory);
+            if (m_Player != null) m_Player.Bind(Inventory);
 
             Inventory.Rescan();
-
-            Debug.Log($"[RunState] 단어 {Words.Count}개 · 글자 {Letters.Count}개 · 격자 {grid.Width}x{grid.Height}");
         }
 
         private void FillDebugLetters(InventoryGrid grid)

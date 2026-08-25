@@ -36,6 +36,7 @@ namespace PS.UI
         public Button ResetButton;
 
         readonly Dictionary<string, OptionRow> m_Rows = new Dictionary<string, OptionRow>();
+        readonly List<KeyBindRow> m_KeyRows = new List<KeyBindRow>();
         Resolution[] m_Resolutions;
         bool m_Ready;
 
@@ -57,12 +58,16 @@ namespace PS.UI
 
         protected override void OnClosing()
         {
+            for (int i = 0; i < m_KeyRows.Count; i++) m_KeyRows[i].Cancel();
             GameSettings.Save();
         }
 
         void CollectRows()
         {
             m_Rows.Clear();
+            m_KeyRows.Clear();
+            m_KeyRows.AddRange(GetComponentsInChildren<KeyBindRow>(true));
+
             foreach (OptionRow row in GetComponentsInChildren<OptionRow>(true))
             {
                 if (string.IsNullOrEmpty(row.Id) || m_Rows.ContainsKey(row.Id)) continue;
@@ -141,6 +146,8 @@ namespace PS.UI
             SetStepper(IdFrameCap, GameSettings.FrameRateCap);
             SetStepper(IdLanguage, GameSettings.Language);
             SetStepper(IdResolution, ResolveResolutionIndex());
+
+            for (int i = 0; i < m_KeyRows.Count; i++) m_KeyRows[i].Refresh();
         }
 
         int ResolveResolutionIndex()

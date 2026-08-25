@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75cb82ee7fe77c346b99a9e46c8c3461, type: 3}
+  m_Name: Character_Sample
+  m_EditorClassIdentifier: 
+  m_DisplayName: "\uC0D8\uD50C"
+  m_Portrait: {fileID: 0}
+  m_StartWeapon: {fileID: 11400000, guid: 6d6164362d3a3a643ad0782fd650d6c8, type: 2}
+  m_BaseStats: {fileID: 11400000, guid: 86d02c3d447b42f419e0927233b51d27, type: 2}
+  m_MaxHealth: 100
+  m_Motor:
+    Gravity: 3.2
+    FallGravity: 5
+    DashSpeed: 16
+    DashTime: 0.16
+    DashCooldown: 0.55
+    AirControl: 0.14
