@@ -1,10 +1,11 @@
+using PS.Core;
 using UnityEngine;
 
 namespace PS.Game.Combat
 {
     /// <summary>얼음 껍질 연출. 자라서 멈췄다가, 깨지기 직전에 부들부들 떨고, 깨진다.</summary>
     [RequireComponent(typeof(Animator))]
-    public class FreezeVisual : MonoBehaviour
+    public class FreezeVisual : MonoBehaviour, IPoolable
     {
         [SerializeField] private string m_FormState = "Form";
         [SerializeField] private string m_BreakState = "Break";
@@ -30,13 +31,22 @@ namespace PS.Game.Combat
         public float BreakLength => m_BreakLength;
         public float ShakeLead => m_ShakeLead;
 
-        private void Awake()
-        {
-            m_Animator = GetComponent<Animator>();
-            m_Base = transform.localPosition;
-        }
+        private void Awake() => m_Animator = GetComponent<Animator>();
 
         private void OnEnable() => PlayForm();
+
+        /// <summary>기준 위치는 꺼낼 때 잡는다. 풀에서 나오면 부모가 매번 달라진다.</summary>
+        public void OnGet()
+        {
+            m_Base = transform.localPosition;
+            m_Shaking = false;
+        }
+
+        public void OnRelease()
+        {
+            m_Shaking = false;
+            transform.localPosition = m_Base;
+        }
 
         /// <summary>자라는 연출. 마지막 프레임에서 멈춘 채 유지된다(루프 아님).</summary>
         public void PlayForm()

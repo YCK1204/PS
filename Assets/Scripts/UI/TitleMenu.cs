@@ -14,7 +14,10 @@ namespace PS.UI
         public GameObject MenuRoot;
 
         [Tooltip("게임 시작이 이동할 씬")]
-        public string StartScene = SceneRouter.Battle;
+        public SceneType StartScene = SceneType.Battle;
+
+        [Tooltip("비동기로 전환할지")]
+        public bool AsyncLoad;
 
         void Awake()
         {
@@ -30,7 +33,11 @@ namespace PS.UI
         }
 
 
-        public void StartGame() => SceneRouter.Load(StartScene);
+        public void StartGame()
+        {
+            if (AsyncLoad) SceneManager.LoadAsync(StartScene);
+            else SceneManager.Load(StartScene);
+        }
 
         public void OpenSettings()
         {

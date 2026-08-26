@@ -1,0 +1,21 @@
+{
+    "name": "PS.Editor",
+    "rootNamespace": "PS.Editor",
+    "references": [
+        "PS.Core",
+        "PS.Game",
+        "PS.UI",
+        "PS.Audio",
+        "PS.Boot",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [ "Editor" ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

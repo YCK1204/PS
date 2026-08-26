@@ -1,0 +1,19 @@
+{
+    "name": "PS.Boot",
+    "rootNamespace": "PS",
+    "references": [
+        "PS.Core",
+        "PS.Game",
+        "PS.UI",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

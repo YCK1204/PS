@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Words
+  m_EditorClassIdentifier: 
+  m_GroupName: Words
+  m_GUID: bc974f4f62ec6a7409b18e0d87d4d7a9
+  m_SerializeEntries:
+  - m_GUID: 70f47ef8f205cb243a2186a2248b834b
+    m_Address: Word_SHADOW
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - words
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abe33a7ca9026e54289b23b08f6470d6
+    m_Address: Word_ICE
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - words
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4abd1c24d4d104479fb3d25400be521
+    m_Address: Word_FIRE
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - words
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcc4a3f99bec86442bf53292dd353c38
+    m_Address: Word_WIND
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - words
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d58077d2df5606e4d81505582ca9107d
+    m_Address: Word_THUNDER
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - words
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9a769ad8084c79f4fb54f0752d83094a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 547cfd1e12badab40a9edbe7fc8f1a5f, type: 2}
+    - {fileID: 11400000, guid: fe859143dcd4b7444aac1eac3b8d9456, type: 2}

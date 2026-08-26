@@ -1,3 +1,4 @@
+using PS.Core;
 using PS.Game.Actors;
 using UnityEngine;
 
@@ -33,7 +34,7 @@ namespace PS.Game.Combat
         {
             if (m_Owner == null)
             {
-                Destroy(gameObject);
+                PoolManager.Release(this);
                 return;
             }
 

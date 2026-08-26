@@ -1,3 +1,4 @@
+using PS.Core;
 using PS.Game.Combat;
 using UnityEngine;
 
@@ -32,7 +33,7 @@ namespace SO
 
             if (m_Visual != null)
             {
-                FreezeVisual visual = Instantiate(m_Visual, root.transform.position + m_Offset, Quaternion.identity, root.transform);
+                FreezeVisual visual = PoolManager.Get(m_Visual, root.transform.position + m_Offset, Quaternion.identity, root.transform);
                 status.Bind(visual);
             }
         }

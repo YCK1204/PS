@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using PS.Core;
 using PS.Game.Actors;
 using PS.Game.Combat;
 using UnityEngine;
@@ -34,7 +35,7 @@ namespace SO
 
             for (int i = 0; i < count; i++)
             {
-                Orbit orbit = Instantiate(m_Prefab, target.transform.position, Quaternion.identity);
+                Orbit orbit = PoolManager.Get(m_Prefab, target.transform.position, Quaternion.identity);
                 orbit.Setup(target, 360f / count * i, m_Radius, m_AngularSpeed, damage, m_Element);
                 spawned.Add(orbit);
             }
@@ -55,7 +56,7 @@ namespace SO
             if (!bySource.TryGetValue(source, out var list)) return;
 
             for (int i = 0; i < list.Count; i++)
-                if (list[i] != null) Destroy(list[i].gameObject);
+                if (list[i] != null) PoolManager.Release(list[i]);
 
             bySource.Remove(source);
             if (bySource.Count == 0) m_Live.Remove(target);

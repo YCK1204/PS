@@ -74,6 +74,16 @@ namespace PS.UI
             DontDestroyOnLoad(go);
         }
 
+        void OnEnable() => UnityEngine.SceneManagement.SceneManager.sceneUnloaded += OnSceneUnloaded;
+        void OnDisable() => UnityEngine.SceneManagement.SceneManager.sceneUnloaded -= OnSceneUnloaded;
+
+        /// <summary>씬이 내려가면 스택을 비운다. 패널은 씬과 함께 사라지므로 참조만 남는다.</summary>
+        static void OnSceneUnloaded(UnityEngine.SceneManagement.Scene scene)
+        {
+            s_Panels.Clear();
+            SuppressEscape = false;
+        }
+
         void Update()
         {
             Keyboard kb = Keyboard.current;

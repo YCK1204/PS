@@ -1,3 +1,4 @@
+using PS.Core;
 using PS.Game.Actors;
 using UnityEngine;
 
@@ -83,7 +84,7 @@ namespace PS.Game.Combat
             if (m_Animator != null) m_Animator.speed = m_AnimatorSpeed;
             if (m_CharAnim != null) m_CharAnim.Frozen = false;
             if (m_Target != null && m_Target.Motor != null) m_Target.Motor.MoveLocked = false;
-            if (m_Visual != null) Destroy(m_Visual.gameObject);
+            if (m_Visual != null) PoolManager.Release(m_Visual);
         }
     }
 }

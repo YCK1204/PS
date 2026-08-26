@@ -1,0 +1,20 @@
+{
+    "name": "PS.UI",
+    "rootNamespace": "PS.UI",
+    "references": [
+        "PS.Core",
+        "PS.Game",
+        "PS.Audio",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

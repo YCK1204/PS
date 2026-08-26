@@ -1,3 +1,4 @@
+using PS.Core;
 using SO;
 using UnityEngine;
 
@@ -34,7 +35,7 @@ namespace PS.Game.Combat
                 float angle = start + spread * i;
                 Vector2 direction = Quaternion.Euler(0f, 0f, angle) * new Vector3(facing, 0f, 0f);
 
-                Projectile shot = Instantiate(m_Data.ProjectilePrefab, origin, Quaternion.identity);
+                Projectile shot = PoolManager.Get(m_Data.ProjectilePrefab, origin, Quaternion.identity);
                 shot.Launch(Owner, direction.normalized * m_Data.ProjectileSpeed, damage, Owner.Element, critical);
             }
         }

@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using PS.Core;
 using PS.Game.Actors;
 using PS.Game.Combat;
 using UnityEngine;
@@ -76,7 +77,7 @@ namespace SO
             offset.x *= facing;
 
             Vector3 origin = target.transform.position + (Vector3)offset;
-            Projectile shot = Instantiate(m_Prefab, origin, Quaternion.identity);
+            Projectile shot = PoolManager.Get(m_Prefab, origin, Quaternion.identity);
 
             float speed = m_Speed + m_SpeedPerLevel * enhancement;
             float damage = m_Damage + m_DamagePerLevel * enhancement;

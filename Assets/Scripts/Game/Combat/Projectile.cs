@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using PS.Core;
 using UnityEngine;
 
 namespace PS.Game.Combat
@@ -6,7 +7,7 @@ namespace PS.Game.Combat
     /// <summary>앞으로 날아가며 닿는 것을 때린다.
     /// 관통 횟수·넉백·벽에 막히면 제자리 정지까지 여기서 다룬다.</summary>
     [RequireComponent(typeof(Collider2D))]
-    public class Projectile : MonoBehaviour
+    public class Projectile : MonoBehaviour, IPoolable
     {
         [SerializeField] private float m_Lifetime = 3f;
 
@@ -36,6 +37,17 @@ namespace PS.Game.Combat
 
         public bool Stopped { get; private set; }
 
+        public void OnGet() { }
+
+        /// <summary>반납 전 상태 청소. 다음에 꺼낼 때 이전 타격 기록이 남으면 안 된다.</summary>
+        public void OnRelease()
+        {
+            m_Hit.Clear();
+            m_Owner = null;
+            m_Velocity = Vector2.zero;
+            Stopped = false;
+        }
+
         public void Launch(CharacterCombat owner, Vector2 velocity, float damage, Element element, bool critical = false)
         {
             m_Owner = owner;
@@ -62,7 +74,7 @@ namespace PS.Game.Combat
         private void Update()
         {
             if (!Stopped) transform.position += (Vector3)(m_Velocity * Time.deltaTime);
-            if (Time.time >= m_Expire) Destroy(gameObject);
+            if (Time.time >= m_Expire) PoolManager.Release(this);
         }
 
         private void OnTriggerEnter2D(Collider2D other) => Touch(other);
@@ -104,7 +116,7 @@ namespace PS.Game.Combat
             m_Owner.ApplyHitEffects(new DamageInfo { Amount = m_Damage, Element = m_Element, Source = m_Owner.gameObject, Point = other.ClosestPoint(transform.position) }, other.gameObject);
 
             m_Left--;
-            if (m_Left <= 0 && m_DestroyWhenSpent) Destroy(gameObject);
+            if (m_Left <= 0 && m_DestroyWhenSpent) PoolManager.Release(this);
         }
     }
 }
