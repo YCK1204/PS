@@ -6,7 +6,7 @@ namespace PS.Game.Combat
 {
     /// <summary>주인 주위를 도는 위성. 닿으면 피해를 주고 잠깐 쿨다운을 둔다.</summary>
     [RequireComponent(typeof(Collider2D))]
-    public class Orbit : MonoBehaviour
+    public class Orbit : MonoBehaviour, IPoolable
     {
         [SerializeField] private float m_HitInterval = 0.4f;
 
@@ -18,6 +18,16 @@ namespace PS.Game.Combat
         private float m_Damage;
         private Element m_Element;
         private float m_NextHit;
+
+        public void OnGet() { }
+
+        /// <summary>반납 전 상태 청소. m_NextHit이 남으면 다음에 꺼낸 위성이 그 시각까지 못 때린다.</summary>
+        public void OnRelease()
+        {
+            m_Owner = null;
+            m_Combat = null;
+            m_NextHit = 0f;
+        }
 
         public void Setup(Combatant owner, float startAngle, float radius, float speed, float damage, Element element)
         {

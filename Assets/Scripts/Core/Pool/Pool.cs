@@ -81,15 +81,17 @@ namespace PS.Core
             m_Idle.Push(instance);
         }
 
+        /// <summary>보관 중인 것만 버린다. 밖에 나가 있는 인스턴스는 못 건드리므로
+        /// 버린 만큼만 빼야 LiveCount가 음수로 내려가지 않는다.</summary>
         public void Clear()
         {
             while (m_Idle.Count > 0)
             {
                 T instance = m_Idle.Pop();
                 if (instance != null) Object.Destroy(instance.gameObject);
-            }
 
-            m_Created = 0;
+                m_Created--;
+            }
         }
 
         private T Create()
