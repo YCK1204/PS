@@ -198,6 +198,49 @@ namespace PS.Game.Inventory
             return true;
         }
 
+        /// <summary>보상으로 받은 것을 격자에 넣는다. 빈 칸부터 채운다.
+        /// 놓으면 소모되는 것(결속형 글리프)은 자리를 대신 정해줄 수 없으므로 손에 들려준다.</summary>
+        public bool TryAdd(ItemData item)
+        {
+            if (item == null) return false;
+            if (item.ConsumedOnPlace) return HoldExternal(item);
+
+            // 1) 완전히 빈 칸 먼저 2) 자리가 남은 칸
+            for (int pass = 0; pass < 2; pass++)
+            {
+                for (int y = 0; y < Grid.Height; y++)
+                {
+                    for (int x = 0; x < Grid.Width; x++)
+                    {
+                        var at = new Vector2Int(x, y);
+                        GridCell cell = Grid[at];
+
+                        if (pass == 0 && !cell.IsEmpty) continue;
+                        if (!Grid.Place(item, at)) continue;
+
+                        item.OnEquip(this, at);
+                        Rescan();
+                        return true;
+                    }
+                }
+            }
+
+            return false;
+        }
+
+        /// <summary>빈 자리가 남아 있나.</summary>
+        public bool HasRoom
+        {
+            get
+            {
+                for (int y = 0; y < Grid.Height; y++)
+                    for (int x = 0; x < Grid.Width; x++)
+                        if (!Grid[new Vector2Int(x, y)].IsFull) return true;
+
+                return false;
+            }
+        }
+
         /// <summary>Del 버리기. 들고 있어도 격자에는 남아있으므로 여기서 실제로 뺀다.</summary>
         public ItemData Drop()
         {
