@@ -1,12 +1,15 @@
+using System;
 using PS.Game.Inventory;
+using SO;
 using TMPro;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 namespace PS.UI
 {
     /// <summary>워드 목록 한 줄. 성립하면 강화도, 아니면 몇 글자 모였는지 보여준다.</summary>
-    public class WordRow : MonoBehaviour
+    public class WordRow : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {
         [SerializeField] private Image m_Background;
         [SerializeField] private Image m_Icon;
@@ -23,9 +26,23 @@ namespace PS.UI
         [SerializeField] private Color m_OnIcon = Color.white;
         [SerializeField] private Color m_OffIcon = Color.gray;
 
+        /// <summary>이 줄이 가리키는 단어. 격자 하이라이트가 이걸 본다.</summary>
+        public WordData Word { get; private set; }
+
+        public bool Active { get; private set; }
+
+        /// <summary>줄에 마우스가 들어오고 나갈 때. (줄, 들어옴)</summary>
+        public event Action<WordRow, bool> Hovered;
+
+        public void OnPointerEnter(PointerEventData eventData) => Hovered?.Invoke(this, true);
+
+        public void OnPointerExit(PointerEventData eventData) => Hovered?.Invoke(this, false);
+
         public void Bind(in WordProgress progress)
         {
             bool active = progress.Active;
+            Word = progress.Word;
+            Active = active;
             string right = active ? $"{progress.Enhancement}강" : $"{progress.Have} / {progress.Total}";
 
             string name = progress.Word != null ? progress.Word.Word : string.Empty;
@@ -38,7 +55,14 @@ namespace PS.UI
         }
 
         /// <summary>쓰지 않는 줄. 목록에서 사라진다.</summary>
-        public void Hide() => gameObject.SetActive(false);
+        public void Hide()
+        {
+            if (gameObject.activeSelf) Hovered?.Invoke(this, false);
+
+            Word = null;
+            Active = false;
+            gameObject.SetActive(false);
+        }
 
         private void Apply(string word, string right, bool active, Sprite icon)
         {

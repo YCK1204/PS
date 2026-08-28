@@ -23,6 +23,37 @@ namespace PS.UI
         [SerializeField] private Outline m_Border;
         [SerializeField] private EnhancementTier[] m_BorderTiers;
 
+        private bool m_Highlighted;
+        private bool m_SavedBorder;
+        private Color m_SavedColor;
+        private int m_LastEnhancement;
+
+        /// <summary>워드 목록에서 가리킨 칸. 강화도 테두리를 잠시 덮어쓰고, 끄면 되돌린다.</summary>
+        public void SetHighlight(bool on, Color color)
+        {
+            if (m_Border == null) return;
+
+            if (on)
+            {
+                if (!m_Highlighted)
+                {
+                    m_SavedBorder = m_Border.enabled;
+                    m_SavedColor = m_Border.effectColor;
+                    m_Highlighted = true;
+                }
+
+                m_Border.enabled = true;
+                m_Border.effectColor = color;
+                return;
+            }
+
+            if (!m_Highlighted) return;
+
+            m_Highlighted = false;
+            m_Border.enabled = m_SavedBorder;
+            m_Border.effectColor = m_SavedColor;
+        }
+
         public void Bind(Sprite icon, string label, int enhancement)
         {
             if (m_Icon != null)
@@ -61,6 +92,25 @@ namespace PS.UI
         {
             if (m_Border == null) return;
 
+            m_LastEnhancement = enhancement;
+
+            // 하이라이트 중이면 지금 색을 건드리지 않고, 되돌릴 값만 갱신한다.
+            if (m_Highlighted)
+            {
+                ResolveBorder(enhancement, out m_SavedBorder, out m_SavedColor);
+                return;
+            }
+
+            bool enabled;
+            Color color;
+            ResolveBorder(enhancement, out enabled, out color);
+
+            m_Border.enabled = enabled;
+            if (enabled) m_Border.effectColor = color;
+        }
+
+        private void ResolveBorder(int enhancement, out bool enabled, out Color color)
+        {
             int best = -1;
             if (m_BorderTiers != null)
             {
@@ -71,8 +121,8 @@ namespace PS.UI
                 }
             }
 
-            m_Border.enabled = best >= 0;
-            if (best >= 0) m_Border.effectColor = m_BorderTiers[best].Color;
+            enabled = best >= 0;
+            color = enabled ? m_BorderTiers[best].Color : Color.clear;
         }
     }
 }

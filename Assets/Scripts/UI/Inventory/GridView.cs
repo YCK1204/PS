@@ -29,6 +29,39 @@ namespace PS.UI
         /// <summary>격자 크기가 바뀌어 칸을 새로 깔았다.</summary>
         public event System.Action<Vector2> Resized;
 
+        private readonly List<int> m_Highlighted = new List<int>();
+
+        /// <summary>지정한 칸들의 테두리를 강조한다. 이전 강조는 지워진다.</summary>
+        public void SetHighlight(IList<Vector2Int> cells, int gridWidth, Color color)
+        {
+            ClearHighlight();
+            if (cells == null || gridWidth <= 0) return;
+
+            for (int i = 0; i < cells.Count; i++)
+            {
+                int index = cells[i].y * gridWidth + cells[i].x;
+                if (index < 0 || index >= m_All.Count) continue;
+
+                ItemCell cell = m_All[index];
+                if (cell == null || !cell.gameObject.activeSelf) continue;
+
+                cell.SetHighlight(true, color);
+                m_Highlighted.Add(index);
+            }
+        }
+
+        public void ClearHighlight()
+        {
+            for (int i = 0; i < m_Highlighted.Count; i++)
+            {
+                int index = m_Highlighted[i];
+                if (index < 0 || index >= m_All.Count) continue;
+                if (m_All[index] != null) m_All[index].SetHighlight(false, Color.clear);
+            }
+
+            m_Highlighted.Clear();
+        }
+
         private void Awake() => Collect();
 
         private void Collect()

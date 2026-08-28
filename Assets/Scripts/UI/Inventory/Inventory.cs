@@ -1,4 +1,6 @@
+using System.Collections.Generic;
 using PS.Game.Inventory;
+using SO;
 using UnityEngine;
 
 namespace PS.UI
@@ -32,6 +34,15 @@ namespace PS.UI
         [Tooltip("워드 목록 위아래 여백 합")]
         [SerializeField] private float m_WordListMargin = 48f;
 
+        [Header("워드 하이라이트")]
+        [Tooltip("성립한 단어를 가리켰을 때 그 칸들의 테두리 색")]
+        [SerializeField] private Color m_ActiveHighlight = new Color(0.941f, 0.776f, 0.455f, 1f);
+
+        [Tooltip("아직 성립하지 않은 단어를 가리켰을 때 — 재료가 되는 글자들")]
+        [SerializeField] private Color m_MaterialHighlight = new Color(0.42f, 0.66f, 0.90f, 1f);
+
+        private readonly List<Vector2Int> m_HighlightBuffer = new List<Vector2Int>();
+
         private InventoryState m_State;
 
         public InventoryState State => m_State;
@@ -52,6 +63,7 @@ namespace PS.UI
         private void Awake()
         {
             if (m_GridView != null) m_GridView.Resized += ApplyGridSize;
+            if (m_WordListView != null) m_WordListView.RowHovered += OnWordHovered;
         }
 
         private void OnEnable()
@@ -70,6 +82,78 @@ namespace PS.UI
         {
             Unsubscribe();
             if (m_GridView != null) m_GridView.Resized -= ApplyGridSize;
+            if (m_WordListView != null) m_WordListView.RowHovered -= OnWordHovered;
+        }
+
+        protected override void OnClosing()
+        {
+            m_GridView?.ClearHighlight();
+        }
+
+        /// <summary>워드 줄을 가리키면 격자에서 그 단어의 칸을 밝힌다.
+        /// 성립한 단어는 실제로 읽히는 칸을, 아직 아닌 단어는 재료가 되는 글자 칸을 보여준다.</summary>
+        private void OnWordHovered(WordData word, bool active, bool entered)
+        {
+            if (m_GridView == null) return;
+
+            if (!entered || word == null || m_State == null)
+            {
+                m_GridView.ClearHighlight();
+                return;
+            }
+
+            m_HighlightBuffer.Clear();
+
+            if (active) CollectMatchCells(word);
+            else CollectMaterialCells(word);
+
+            m_GridView.SetHighlight(m_HighlightBuffer, m_State.Grid.Width,
+                active ? m_ActiveHighlight : m_MaterialHighlight);
+        }
+
+        /// <summary>성립한 매치가 실제로 지나간 칸들. 여러 군데 성립하면 전부.</summary>
+        private void CollectMatchCells(WordData word)
+        {
+            IReadOnlyList<WordMatch> matches = m_State.ActiveWords;
+
+            for (int i = 0; i < matches.Count; i++)
+            {
+                WordMatch match = matches[i];
+                if (match.Word != word) continue;
+
+                for (int step = 0; step < match.Length; step++)
+                {
+                    Vector2Int at = match.CellAt(step);
+                    if (!m_HighlightBuffer.Contains(at)) m_HighlightBuffer.Add(at);
+                }
+            }
+        }
+
+        /// <summary>단어를 이루는 글자를 갖고 있는 칸들. 아직 이어지지 않았어도 재료는 보인다.</summary>
+        private void CollectMaterialCells(WordData word)
+        {
+            string text = word.Word;
+            if (string.IsNullOrEmpty(text)) return;
+
+            InventoryGrid grid = m_State.Grid;
+
+            for (int y = 0; y < grid.Height; y++)
+            {
+                for (int x = 0; x < grid.Width; x++)
+                {
+                    var at = new Vector2Int(x, y);
+                    GridCell cell = grid[at];
+
+                    for (int slot = 0; slot < cell.Count; slot++)
+                    {
+                        if (!(cell.At(slot) is LetterData letter)) continue;
+                        if (text.IndexOf(letter.Letter) < 0) continue;
+
+                        m_HighlightBuffer.Add(at);
+                        break;
+                    }
+                }
+            }
         }
 
         /// <summary>격자가 커지면 창을 아래로 늘린다. 칸을 줄이면 글자가 안 읽힌다.</summary>
