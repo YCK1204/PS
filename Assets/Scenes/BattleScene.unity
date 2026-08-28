@@ -155,6 +155,8 @@ MonoBehaviour:
   m_Inventory: {fileID: 358649502}
   m_Hud: {fileID: 800109477}
   m_ClearDelay: 0.7
+  m_BossExpandRows: 1
+  m_MaxGridHeight: 8
 --- !u!4 &11330984
 Transform:
   m_ObjectHideFlags: 0
@@ -542,6 +544,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3571625340293788114, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
+      propertyPath: m_Window
+      value: 
+      objectReference: {fileID: 358649504}
+    - target: {fileID: 3571625340293788114, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
+      propertyPath: m_GridArea
+      value: 
+      objectReference: {fileID: 358649506}
+    - target: {fileID: 3571625340293788114, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
+      propertyPath: m_WordList
+      value: 
+      objectReference: {fileID: 358649505}
+    - target: {fileID: 6503128058187396856, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
+      propertyPath: m_CellRoot
+      value: 
+      objectReference: {fileID: 358649507}
     - target: {fileID: 7058072094740872779, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -661,6 +679,26 @@ MonoBehaviour:
 --- !u!224 &358649503 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7058072094740872779, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
+  m_PrefabInstance: {fileID: 358649501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &358649504 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 1734351557107269858, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
+  m_PrefabInstance: {fileID: 358649501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &358649505 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 228620206114932456, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
+  m_PrefabInstance: {fileID: 358649501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &358649506 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 5910797335118832291, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
+  m_PrefabInstance: {fileID: 358649501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &358649507 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 3900570169974319396, guid: ab8b4aeeeafb36d4d944c043a0191cd8, type: 3}
   m_PrefabInstance: {fileID: 358649501}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &388876275

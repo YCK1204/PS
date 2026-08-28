@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using PS.Core;
 using PS.Game;
 using PS.Game.Actors;
+using PS.Game.Inventory;
 using PS.Game.Combat;
 using PS.UI;
 using SO;
@@ -25,6 +26,13 @@ namespace PS.Boot
 
         [Tooltip("적이 전멸한 뒤 보상 화면이 뜨기까지")]
         [SerializeField] private float m_ClearDelay = 0.7f;
+
+        [Header("보스 확정 보상")]
+        [Tooltip("보스마다 늘려줄 격자 줄 수")]
+        [SerializeField] private int m_BossExpandRows = 1;
+
+        [Tooltip("격자 세로 최대. 기획상 8x8")]
+        [SerializeField] private int m_MaxGridHeight = 8;
 
         private readonly List<Dummy> m_Enemies = new List<Dummy>();
         private readonly List<Vector3> m_Spawns = new List<Vector3>();
@@ -107,7 +115,13 @@ namespace PS.Boot
             }
 
             bool boss = m_Progress.IsBossMap;
-            if (boss) m_Progress.AddBones(m_Table != null ? m_Table.BossBones : 1);
+            int expanded = 0;
+
+            if (boss)
+            {
+                m_Progress.AddBones(m_Table != null ? m_Table.BossBones : 1);
+                expanded = ExpandGrid();
+            }
 
             m_Options.Clear();
             m_Options.Add("알파벳");
@@ -116,7 +130,9 @@ namespace PS.Boot
 
             m_Reward.Show(
                 m_Progress.Label + (boss ? " · 보스 처치" : " · 클리어"),
-                boss ? "보스 확정 보상: 뼈 +" + (m_Table != null ? m_Table.BossBones : 1) + " · 하나 더 고르세요"
+                boss ? "보스 확정 보상: 뼈 +" + (m_Table != null ? m_Table.BossBones : 1)
+                        + (expanded > 0 ? " · 격자 " + expanded + "줄 확장" : " · 격자는 최대치")
+                        + " — 하나 더 고르세요"
                      : "무엇을 받을지 고르세요",
                 m_Options, OnKindPicked);
         }
@@ -196,6 +212,18 @@ namespace PS.Boot
                 if (pick >= 0 && pick < m_Glyphs.Count) Grant(m_Glyphs[pick]);
                 Complete();
             });
+        }
+
+        /// <summary>격자를 늘린다. 최대치를 넘지 않는다. 실제로 늘어난 줄 수를 돌려준다.</summary>
+        private int ExpandGrid()
+        {
+            InventoryGrid grid = m_Run.Inventory.Grid;
+            int rows = Mathf.Min(m_BossExpandRows, Mathf.Max(0, m_MaxGridHeight - grid.Height));
+            if (rows <= 0) return 0;
+
+            grid.Expand(rows);
+            m_Run.Inventory.Rescan();
+            return rows;
         }
 
         /// <summary>하나를 넘겨준다. 자리가 없거나 이미 뭔가 들고 있으면 조용히 사라지므로 알린다.</summary>

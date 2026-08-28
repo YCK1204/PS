@@ -34,7 +34,9 @@ namespace PS.Game.Combat
         private float m_HitAt;
         private float m_ComboOpenAt;
         private float m_ComboExpire;
-        private bool m_Struck;
+        /// <summary>처음엔 "칠 것이 없음" 상태여야 한다.
+        /// false로 두면 무기를 든 첫 프레임에 Time.time >= m_HitAt(0)이 참이 돼 헛스윙이 나간다.</summary>
+        private bool m_Struck = true;
 
         /// <summary>한 타를 실제로 휘두른 순간. 인자는 바라보는 방향.
         /// 단어 효과가 여기 붙어서 타격마다 뭔가를 뿜는다.</summary>
