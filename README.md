@@ -1,2 +1,3 @@
 # PS
-나도 모름 로그라이트임
+알파벳 퍼즐 로그라이트
+2D, Platformer, SideScroll-view
